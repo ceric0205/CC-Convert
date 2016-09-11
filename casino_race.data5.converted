@@ -1,0 +1,40 @@
+{
+  "casino_race" : {
+    "1" : {
+      "tournament_name" : "低BETクラス",
+      "bet_min" : 100,
+      "end" : 1483163999,
+      "presentation_threshold1" : 1000,
+      "presentation_threshold2" : 10000,
+      "start" : 1465452000,
+      "tournament_id" : 1,
+      "bet_max" : 500,
+      "tournament_type" : 0
+    },
+    "2" : {
+      "tournament_name" : "高BETクラス",
+      "bet_min" : 1000,
+      "end" : 1483163999,
+      "presentation_threshold1" : 1000,
+      "presentation_threshold2" : 10000,
+      "start" : 1465452000,
+      "tournament_id" : 2,
+      "bet_max" : 50000,
+      "tournament_type" : 1
+    },
+    "3" : {
+      "tournament_name" : "帝国華撃団記念",
+      "bet_min" : 1000,
+      "end" : 1473141599,
+      "presentation_threshold1" : 0,
+      "presentation_threshold2" : 0,
+      "start" : 1472450400,
+      "tournament_id" : 3,
+      "bet_max" : 50000,
+      "tournament_type" : 2
+    }
+  },
+  "sv" : "1472710894",
+  "res" : 0,
+  "deceive" : 1473141597
+}

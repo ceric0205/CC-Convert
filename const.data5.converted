@@ -1,0 +1,96 @@
+{
+  "body" : [ {
+    "data" : {
+      "expup" : {
+        "cids" : [ 34, 45, 40, 46, 41, 63, 7024 ],
+        "end" : 1473919199,
+        "exp_rate" : 1.5,
+        "id" : 41,
+        "start" : 1471932000
+      },
+      "global" : {
+        "purchase" : 1,
+        "raid_item" : -1,
+        "review" : 1,
+        "tmp_interval" : 600
+      },
+      "party_opt" : {
+        "cost_border1" : 16,
+        "cost_border2" : 12,
+        "type" : 1
+      },
+      "subjugation" : [ ],
+      "weaponcompose" : {
+        "weapon_compose_disabled" : false
+      },
+      "subjugation_shop_banner" : 0
+    },
+    "proc" : 0,
+    "type" : 14
+  } ],
+  "tutorial_name_skip" : false,
+  "sv" : "0",
+  "sell_ring" : {
+    "chara" : [ 0, 0, 0, 3, 20, 50, 30 ],
+    "chara_lb" : [ 0, 0, 0, 1, 1, 1, 1 ],
+    "chara_rf" : [ 0, 0, 0, 0, 1, 1, 1 ],
+    "weapon_ev" : [ 0, 0, 0, 0, 1, 1, 1 ],
+    "weapon_rf" : [ 0, 0, 0, 0, 1, 1, 1 ]
+  },
+  "resume_update" : true,
+  "purchase_regulation" : [ {
+    "age" : 13,
+    "limit" : 5000
+  }, {
+    "age" : 20,
+    "limit" : 20000
+  } ],
+  "mVer" : {
+    "battleinfo" : 1472033265,
+    "booklist" : 1473063064,
+    "bossinfo" : 1473059682,
+    "casinoinfo" : 1472710894,
+    "charainfo" : 1473143578,
+    "create_weap" : 1,
+    "episodeinfo" : 1472636656,
+    "eventbadge" : 1472730029,
+    "eventplace" : 1,
+    "explorerinfo" : 1453707665,
+    "explorerlocation" : 1473062240,
+    "homelist" : 1469607167,
+    "itemlist" : 1460619995,
+    "missionlist" : 1471855193,
+    "motionlist" : 1472895110,
+    "questdigest" : 1473062182,
+    "reload" : 1465398000,
+    "repeatmissionlist" : 1472208268,
+    "servertime" : 1473563620,
+    "skilllist" : 1473050216,
+    "subjugationexpeditioninfo" : 1,
+    "supporterskill" : 1472713811,
+    "teacherdisciple" : 1455807601,
+    "various" : 1469703222,
+    "weaponcompose" : 1466479748,
+    "weaponcomposeevent" : 1,
+    "weaponlist" : 1472801990,
+    "worldinfo" : 1471430355
+  },
+  "friend" : false,
+  "exp_up" : 604800,
+  "friend_last" : 604800,
+  "friend_recycle" : 1800,
+  "helper_recycle" : 7200,
+  "cut_stamina_recover" : 10,
+  "mission_grace_period" : 86400,
+  "power_recover" : 1800,
+  "present_recv" : 10,
+  "casino_roulette_border" : 20000,
+  "raid_anger_rescue_max" : 10,
+  "raid_relief_login_border" : 259200,
+  "res" : 0,
+  "casino_coin_price" : 50,
+  "casino_coin_limit" : 1000000,
+  "stamina_recover" : 480,
+  "casino_coin_exchange_limit" : 10000,
+  "card_limit" : 1000
+}

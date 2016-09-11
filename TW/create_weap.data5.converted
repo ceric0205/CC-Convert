@@ -1,0 +1,11 @@
+{
+  "create_weap" : {
+    "bonus_param" : [ ],
+    "category" : [ ],
+    "material" : [ ],
+    "recipe" : [ ]
+  },
+  "sv" : "1",
+  "res" : 0,
+  "deceive" : 1469696407
+}

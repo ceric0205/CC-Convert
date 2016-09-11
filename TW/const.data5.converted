@@ -1,0 +1,102 @@
+{
+  "body" : [ {
+    "data" : {
+      "cover" : {
+        "cover_id" : 10,
+        "name" : "相剋的精靈島",
+        "area_id" : 1012,
+        "dist_start" : 1473024650,
+        "event_start" : 1473024650,
+        "event_end" : 1473930000,
+        "dist_end" : 1474016400,
+        "bgm" : "",
+        "normal_fever" : 1.5,
+        "great_fever" : 3,
+        "sp_cards" : [ 5056, 5074, 5076 ]
+      },
+      "expup" : {
+        "cids" : [ 34, 45, 40, 46, 41, 63, 7024, 5056, 5076, 5074 ],
+        "end" : 1473919199,
+        "exp_rate" : 2.0,
+        "id" : 18,
+        "start" : 1472709600
+      },
+      "global" : {
+        "purchase" : 1,
+        "raid_item" : -1,
+        "review" : 1,
+        "tmp_interval" : 600
+      },
+      "party_opt" : {
+        "cost_border1" : 16,
+        "cost_border2" : 12,
+        "type" : 1
+      },
+      "subjugation" : [ ],
+      "subjugation_shop_banner" : 0
+    },
+    "proc" : 0,
+    "type" : 14
+  } ],
+  "sv" : "0",
+  "sell_ring" : {
+    "chara" : [ 0, 0, 0, 3, 20, 50, 30 ],
+    "chara_lb" : [ 0, 0, 0, 1, 1, 1, 1 ],
+    "chara_rf" : [ 0, 0, 0, 0, 1, 1, 1 ],
+    "weapon_ev" : [ 0, 0, 0, 0, 1, 1, 1 ],
+    "weapon_rf" : [ 0, 0, 0, 0, 1, 1, 1 ]
+  },
+  "resume_update" : true,
+  "purchase_regulation" : [ {
+    "age" : 0,
+    "limit" : 99999999
+  } ],
+  "mVer" : {
+    "battleinfo" : 1462761348,
+    "booklist" : 1465286869,
+    "bossinfo" : 1470740893,
+    "casinoinfo" : 0,
+    "charainfo" : 1472452061,
+    "create_weap" : 1,
+    "episodeinfo" : 1472541997,
+    "eventbadge" : 0,
+    "eventplace" : 0,
+    "explorerinfo" : 1446619109,
+    "explorerlocation" : 1463032875,
+    "homelist" : 1462761348,
+    "itemlist" : 1462761349,
+    "missionlist" : 1473322451,
+    "motionlist" : 1449824945,
+    "questdigest" : 1473322670,
+    "reload" : 1464594693,
+    "repeatmissionlist" : 1462761348,
+    "servertime" : 1473563586,
+    "skilllist" : 1473133142,
+    "subjugationexpeditioninfo" : 1,
+    "supporterskill" : 1470713860,
+    "teacherdisciple" : 0,
+    "various" : 1470190979,
+    "weaponcompose" : 0,
+    "weaponcomposeevent" : 0,
+    "weaponlist" : 1473320321,
+    "worldinfo" : 1463020541
+  },
+  "friend" : false,
+  "exp_up" : 604800,
+  "friend_last" : 86400,
+  "friend_recycle" : 3600,
+  "helper_recycle" : 43200,
+  "cut_stamina_recover" : 10,
+  "mission_grace_period" : 86400,
+  "power_recover" : 1800,
+  "present_recv" : 10,
+  "casino_roulette_border" : 0,
+  "raid_anger_rescue_max" : 0,
+  "raid_relief_login_border" : 0,
+  "res" : 0,
+  "casino_coin_price" : 0,
+  "casino_coin_limit" : 0,
+  "stamina_recover" : 480,
+  "casino_coin_exchange_limit" : 0,
+  "card_limit" : 700
+}
