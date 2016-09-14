@@ -1,5 +1,5 @@
 {
-  "sv" : "1473322670",
+  "sv" : "1473935155",
   "questdigest" : {
     "130080" : {
       "append_skill" : { },
@@ -28359,7 +28359,6 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "授業って久しぶり",
         "cid" : 11040,
         "hp" : 3500,
         "lv" : 60,
@@ -28371,10 +28370,9 @@
       "kind_prm" : 1,
       "name" : "if課外　補課！",
       "place_id" : 1,
-      "sort" : 21,
       "reward_box" : 2,
       "reward_data" : {
-        "type" : "box",
+        "type" : "card",
         "id" : 0,
         "box" : 2
       },
@@ -28593,28 +28591,24 @@
       "field_type" : [ 0, 0, 0, 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "待ってろよシュザ！",
         "cid" : 2010,
         "hp" : 3700,
         "lv" : 60,
         "atk" : 6400
       }, {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "な、なぜあなたが……",
         "cid" : 6002,
         "hp" : 6900,
         "lv" : 60,
         "atk" : 7400
       }, {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "ここでシュザを倒す！",
         "cid" : 6002,
         "hp" : 6900,
         "lv" : 60,
         "atk" : 7400
       }, {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "旧校舎が変形！？",
         "cid" : 6002,
         "hp" : 6900,
         "lv" : 60,
@@ -28625,7 +28619,6 @@
       "is_casino" : false,
       "name" : "if5　舊校舍之戰",
       "place_id" : 1,
-      "sort" : 26,
       "reward_box" : 3,
       "reward_data" : {
         "type" : "card",
@@ -28700,7 +28693,6 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "怪我をしたら保健室へ",
         "cid" : 3014,
         "hp" : 7500,
         "lv" : 60,
@@ -28712,7 +28704,6 @@
       "kind_prm" : 1,
       "name" : "if課外　保健室",
       "place_id" : 1,
-      "sort" : 22,
       "reward_box" : 2,
       "reward_data" : {
         "type" : "box",
@@ -28796,28 +28787,24 @@
       "field_type" : [ 0, 0, 0, 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "スルスタン……",
         "cid" : 2010,
         "hp" : 3700,
         "lv" : 60,
         "atk" : 6400
       }, {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "もう勝負はついたろ",
         "cid" : 2010,
         "hp" : 3700,
         "lv" : 60,
         "atk" : 6400
       }, {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "校長、相談があります",
         "cid" : 6002,
         "hp" : 6900,
         "lv" : 60,
         "atk" : 7400
       }, {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "こ、この設計図は！？",
         "cid" : 6002,
         "hp" : 6900,
         "lv" : 60,
@@ -28828,7 +28815,6 @@
       "is_casino" : false,
       "name" : "if4　被奪走的旗子",
       "place_id" : 1,
-      "sort" : 27,
       "reward_box" : 2,
       "reward_data" : {
         "type" : "stone",
@@ -28908,7 +28894,6 @@
       "kind_prm" : 1,
       "name" : "if課外　教師是",
       "place_id" : 1,
-      "sort" : 23,
       "reward_box" : 2,
       "reward_data" : {
         "type" : "box",
@@ -28999,28 +28984,24 @@
       "field_type" : [ 0, 0, 0, 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "見つかっちまった……",
         "cid" : 2010,
         "hp" : 3700,
         "lv" : 60,
         "atk" : 6400
       }, {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "ゴミめ！燃えちまいな",
         "cid" : 2010,
         "hp" : 3700,
         "lv" : 60,
         "atk" : 6400
       }, {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "さて、掃除当番終了ね",
         "cid" : 6025,
         "hp" : 5400,
         "lv" : 50,
         "atk" : 5400
       }, {
         "skillflag" : [ true, true, false, false ],
-        "helper_comment" : "ヨシツグ会長を守る！",
         "cid" : 6024,
         "hp" : 4150,
         "lv" : 40,
@@ -29031,7 +29012,6 @@
       "is_casino" : false,
       "name" : "if3　新校舍計畫",
       "place_id" : 1,
-      "sort" : 28,
       "reward_box" : 2,
       "reward_data" : {
         "type" : "stone",
@@ -29089,37 +29069,6 @@
       "chapter_cnt" : 2,
       "area_id" : 4
     },
-    "220124" : {
-      "append_skill" : { },
-      "bg_list" : [ 404, 404, 404, 404 ],
-      "chapter_list" : [ 1, 2, 3, 4 ],
-      "stamina" : 6,
-      "field_type" : [ 0, 0, 0, 0 ],
-      "fixed_help" : [ null, {
-        "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "転校生を迎えなくては",
-        "cid" : 6002,
-        "hp" : 6900,
-        "lv" : 60,
-        "atk" : 7400
-      }, null, null ],
-      "flag" : { },
-      "icon" : "Event003",
-      "is_casino" : false,
-      "name" : "if1　我是轉學生",
-      "place_id" : 1,
-      "sort" : 30,
-      "reward_box" : 2,
-      "reward_data" : {
-        "type" : "stone",
-        "id" : 0,
-        "box" : 2
-      },
-      "quest_id" : 220124,
-      "difficulty" : 6,
-      "chapter_cnt" : 4,
-      "area_id" : 1
-    },
     "1000116" : {
       "append_skill" : { },
       "bg_list" : [ 1 ],
@@ -29154,6 +29103,35 @@
       "quest_id" : 1000116,
       "difficulty" : 4,
       "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "220124" : {
+      "append_skill" : { },
+      "bg_list" : [ 404, 404, 404, 404 ],
+      "chapter_list" : [ 1, 2, 3, 4 ],
+      "stamina" : 6,
+      "field_type" : [ 0, 0, 0, 0 ],
+      "fixed_help" : [ null, {
+        "skillflag" : [ true, true, true, false ],
+        "cid" : 6002,
+        "hp" : 6900,
+        "lv" : 60,
+        "atk" : 7400
+      }, null, null ],
+      "flag" : { },
+      "icon" : "Event003",
+      "is_casino" : false,
+      "name" : "if1　我是轉學生",
+      "place_id" : 1,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 220124,
+      "difficulty" : 6,
+      "chapter_cnt" : 4,
       "area_id" : 1
     },
     "120371" : {
@@ -29204,55 +29182,6 @@
       "chapter_cnt" : 3,
       "area_id" : 11
     },
-    "220125" : {
-      "append_skill" : { },
-      "bg_list" : [ 404 ],
-      "chapter_list" : [ 1 ],
-      "stamina" : 8,
-      "eneset_treasure" : [ {
-        "type" : "item",
-        "id" : 10,
-        "val" : 500
-      }, {
-        "type" : "item",
-        "id" : 11,
-        "val" : 300
-      }, {
-        "type" : "chara_rf",
-        "id" : 90902,
-        "val" : 1
-      }, {
-        "type" : "chara_rf",
-        "id" : 90903,
-        "val" : 1
-      } ],
-      "field_type" : [ 0 ],
-      "fixed_help" : [ {
-        "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "しゅうばんってなに？",
-        "cid" : 7553,
-        "hp" : 4040,
-        "lv" : 60,
-        "atk" : 6640
-      } ],
-      "flag" : { },
-      "icon" : "Event003",
-      "is_casino" : false,
-      "kind_prm" : 1,
-      "name" : "if課外　週值日生活動",
-      "place_id" : 1,
-      "sort" : 25,
-      "reward_box" : 2,
-      "reward_data" : {
-        "type" : "box",
-        "id" : 0,
-        "box" : 2
-      },
-      "quest_id" : 220125,
-      "difficulty" : 14,
-      "chapter_cnt" : 1,
-      "area_id" : 1
-    },
     "1000117" : {
       "append_skill" : { },
       "bg_list" : [ 1 ],
@@ -29286,6 +29215,53 @@
       },
       "quest_id" : 1000117,
       "difficulty" : 4,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "220125" : {
+      "append_skill" : { },
+      "bg_list" : [ 404 ],
+      "chapter_list" : [ 1 ],
+      "stamina" : 8,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 500
+      }, {
+        "type" : "item",
+        "id" : 11,
+        "val" : 300
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "fixed_help" : [ {
+        "skillflag" : [ true, true, true, false ],
+        "cid" : 7553,
+        "hp" : 4040,
+        "lv" : 60,
+        "atk" : 6640
+      } ],
+      "flag" : { },
+      "icon" : "Event003",
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "if課外　週值日生活動",
+      "place_id" : 1,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "box",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 220125,
+      "difficulty" : 14,
       "chapter_cnt" : 1,
       "area_id" : 1
     },
@@ -29346,21 +29322,18 @@
       "field_type" : [ 0, 0, 0, 0 ],
       "fixed_help" : [ null, {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "あ？一緒に帰るだと",
         "cid" : 2010,
         "hp" : 3700,
         "lv" : 60,
         "atk" : 6400
       }, {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "バカ教師、今度は何？",
         "cid" : 2003,
         "hp" : 4080,
         "lv" : 60,
         "atk" : 7280
       }, {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "生徒会も楽ではないな",
         "cid" : 6002,
         "hp" : 6900,
         "lv" : 60,
@@ -29371,7 +29344,6 @@
       "is_casino" : false,
       "name" : "if2　參觀社團",
       "place_id" : 1,
-      "sort" : 29,
       "reward_box" : 2,
       "reward_data" : {
         "type" : "stone",
@@ -29444,7 +29416,6 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "図書委員の仕事……",
         "cid" : 5051,
         "hp" : 7100,
         "lv" : 60,
@@ -29456,7 +29427,6 @@
       "kind_prm" : 1,
       "name" : "if課外　圖書館",
       "place_id" : 1,
-      "sort" : 24,
       "reward_box" : 2,
       "reward_data" : {
         "type" : "box",
@@ -80296,7 +80266,6 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "汝らに神託を授けよう",
         "cid" : 9035,
         "hp" : 6200,
         "lv" : 80,
@@ -88094,7 +88063,6 @@
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "冰炎的恐怖・改",
-      "sort" : 4,
       "reward_box" : 2,
       "reward_data" : {
         "type" : "stone",
@@ -88774,7 +88742,6 @@
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "龍徹的房間・戰士改",
-      "sort" : 2,
       "reward_box" : 2,
       "reward_data" : {
         "type" : "stone",
@@ -88839,7 +88806,6 @@
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "龍徹的房間・騎魔改",
-      "sort" : 3,
       "reward_box" : 2,
       "reward_data" : {
         "type" : "stone",
@@ -88936,7 +88902,6 @@
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "龍徹的房間・集合改",
-      "sort" : 1,
       "reward_box" : 2,
       "reward_data" : {
         "type" : "box",
@@ -106329,5 +106294,5 @@
     }
   },
   "res" : 0,
-  "deceive" : 1473325224
+  "deceive" : 1473843638
 }

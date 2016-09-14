@@ -260,7 +260,7 @@
     "20" : {
       "skill" : 8115,
       "rank" : 3,
-      "name" : "神刀天羽斬",
+      "name" : "神刀天羽羽斬",
       "model" : "weapon020_body",
       "id" : 20,
       "guardMax" : 6,
@@ -596,7 +596,7 @@
     "45" : {
       "skill" : 2078,
       "rank" : 3,
-      "name" : "金砕棒",
+      "name" : "金碎棒",
       "model" : "weapon045_body",
       "id" : 45,
       "guardMax" : 7,
@@ -11017,7 +11017,7 @@
     "95836" : {
       "skill" : 308002,
       "rank" : 3,
-      "name" : "伊諾德烏斯之爪",
+      "name" : "カミ伊諾德烏斯之爪",
       "model" : "weapon95836_body",
       "id" : 95836,
       "guardMax" : 9,
@@ -12399,7 +12399,7 @@
       "type_grd" : 3
     }
   },
-  "sv" : "1473320321",
+  "sv" : "1473823058",
   "res" : 0,
-  "deceive" : 1473325207
+  "deceive" : 1473843616
 }
