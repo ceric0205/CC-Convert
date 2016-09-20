@@ -8641,31 +8641,6 @@
       "skillflag0_1" : 0,
       "skillid0" : 78
     },
-    "50950" : {
-      "spmotname" : "sp_dush_slash01",
-      "skillparam2" : 2.0,
-      "skillparam3" : 5.5,
-      "skillflag0_0" : 0,
-      "skillparam1" : 7.5,
-      "skillid" : 50950,
-      "skillflag1_1" : 0,
-      "skillflag1_0" : 0,
-      "skillflag0_1" : 0,
-      "skillid0" : 22
-    },
-    "50951" : {
-      "spmotname" : "sp_dush_slash01",
-      "skillparam2" : 2.0,
-      "skillparam3" : 5.5,
-      "skillparam4" : 3.0,
-      "skillflag0_0" : 0,
-      "skillparam1" : 9.5,
-      "skillid" : 50951,
-      "skillflag1_1" : 0,
-      "skillflag1_0" : 0,
-      "skillflag0_1" : 0,
-      "skillid0" : 22
-    },
     "80680" : {
       "spmotname" : "monk_sp_rush01",
       "skillparam2" : 0.27,
@@ -10225,9 +10200,8 @@
     },
     "82071" : {
       "skillflag" : 1025,
-      "str1" : "BE_Madomagi_Madoka_SS_Laser_d",
       "skillparam0" : 15.0,
-      "spmotname" : "ss_magic_mm01",
+      "spmotname" : "sp_magic03",
       "skillparam2" : 1.0,
       "skillparam3" : 50.0,
       "skillparam4" : 2.5,
@@ -10244,12 +10218,11 @@
     "82070" : {
       "skillflag" : 1024,
       "str1" : "BE_Dummy_a.prefab",
-      "str0" : "BE_Madomagi_Madoka_Arrow_b",
       "skillparam0" : -1.0,
-      "spmotname" : "sp_magic_mm01",
-      "skillparam2" : 12.0,
+      "spmotname" : "sp_random_shoot03",
+      "skillparam2" : 10.0,
       "skillparam3" : 32.0,
-      "skillparam4" : 0.8,
+      "skillparam4" : 0.5,
       "skillflag0_0" : 1024,
       "skillparam1" : 0.2,
       "skillid" : 82070,
@@ -10257,31 +10230,6 @@
       "skillflag1_0" : 0,
       "skillflag0_1" : 0,
       "skillid0" : 78
-    },
-    "82060" : {
-      "skillparam0" : 7.0,
-      "spmotname" : "attack_somersault01",
-      "skillparam4" : 400.0,
-      "skillparam5" : 120.0,
-      "skillflag0_0" : 0,
-      "skillparam1" : 1.0,
-      "skillid" : 82060,
-      "skillflag1_1" : 0,
-      "skillflag1_0" : 0,
-      "skillflag0_1" : 0,
-      "skillid0" : 66
-    },
-    "82061" : {
-      "skillflag" : 1,
-      "spmotname" : "attack_tackle01",
-      "skillparam2" : 3.0,
-      "skillflag0_0" : 1,
-      "skillparam1" : 6.0,
-      "skillid" : 82061,
-      "skillflag1_1" : 0,
-      "skillflag1_0" : 0,
-      "skillflag0_1" : 0,
-      "skillid0" : 2
     },
     "82111" : {
       "spmotname" : "sp_powerup01",
@@ -10332,7 +10280,7 @@
     },
     "82090" : {
       "skillflag" : 1024,
-      "spmotname" : "sp_magic_mm03",
+      "spmotname" : "sp_shoot03",
       "skillparam2" : 3.75,
       "skillparam3" : 4.5,
       "skillparam4" : 2.0,
@@ -10347,7 +10295,7 @@
     "82091" : {
       "skillflag" : 1040,
       "skillparam0" : 13.0,
-      "spmotname" : "sp_magic_mm04",
+      "spmotname" : "rifle_sp_shoot_normal01",
       "skillparam2" : 2.0,
       "skillparam5" : 13.0,
       "skillflag0_0" : 1040,
@@ -10635,20 +10583,6 @@
       "skillid0" : 93
     },
     "81941" : {
-      "str0" : "BE_Sakura_Kouran_Koubu2_a",
-      "spmotname" : "koubu_sp_kouran02",
-      "skillparam2" : 2.0,
-      "skillparam3" : 4.5,
-      "skillparam8" : 1.0,
-      "skillflag0_0" : 0,
-      "skillparam1" : 10.0,
-      "skillid" : 81941,
-      "skillflag1_1" : 0,
-      "skillflag1_0" : 0,
-      "skillflag0_1" : 0,
-      "skillid0" : 33
-    },
-    "81942" : {
       "str0" : "BE_Sakura_Kouran_Koubu_Chibirobo_c",
       "skillparam0" : 5.0,
       "spmotname" : "koubu_sp_kouran01",
@@ -10656,12 +10590,26 @@
       "skillparam7" : -1.0,
       "skillparam8" : 1.0,
       "skillflag0_0" : 0,
-      "skillparam1" : 0.8,
-      "skillid" : 81942,
+      "skillparam1" : 0.7,
+      "skillid" : 81941,
       "skillflag1_1" : 0,
       "skillflag1_0" : 0,
       "skillflag0_1" : 0,
       "skillid0" : 76
+    },
+    "81942" : {
+      "str0" : "BE_Sakura_Kouran_Koubu2_a",
+      "spmotname" : "koubu_sp_kouran02",
+      "skillparam2" : 2.0,
+      "skillparam3" : 4.5,
+      "skillparam8" : 1.0,
+      "skillflag0_0" : 0,
+      "skillparam1" : 7.5,
+      "skillid" : 81942,
+      "skillflag1_1" : 0,
+      "skillflag1_0" : 0,
+      "skillflag0_1" : 0,
+      "skillid0" : 33
     },
     "81691" : {
       "str5" : "BE_Danmachi_Bell_SS_FireVolt_a",
@@ -11391,7 +11339,7 @@
       "spmotname" : "monk_sp_rush02",
       "skillparam2" : 0.2,
       "skillparam3" : 5.0,
-      "skillparam4" : 10.0,
+      "skillparam4" : 6.0,
       "skillparam5" : 1.5,
       "skillflag0_0" : 0,
       "skillparam1" : 0.3,
@@ -11755,7 +11703,7 @@
       "skillid0" : 31
     }
   },
-  "sv" : "1474273998",
+  "sv" : "1473906173",
   "res" : 0,
-  "deceive" : 1474351196
+  "deceive" : 1473915256
 }
