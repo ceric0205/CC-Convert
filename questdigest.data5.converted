@@ -1,5 +1,5 @@
 {
-  "sv" : "1473842239",
+  "sv" : "1474253698",
   "questdigest" : {
     "0" : {
       "append_skill" : { },
@@ -35785,6 +35785,27 @@
       "difficulty" : 45,
       "chapter_cnt" : 4,
       "area_id" : 5
+    },
+    "220140" : {
+      "append_skill" : { },
+      "bg_list" : [ 1, 2, 13 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 10,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "name" : "支えあうこと",
+      "place_id" : 8,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 220140,
+      "difficulty" : 4,
+      "chapter_cnt" : 3,
+      "area_id" : 1
     },
     "80161" : {
       "append_skill" : { },
@@ -104195,6 +104216,19 @@
       "chapter_cnt" : 4,
       "area_id" : 1011
     },
+    "110280" : {
+      "append_skill" : { },
+      "bg_list" : [ -1 ],
+      "chapter_list" : [ 1 ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "name" : "登場ザエル",
+      "quest_id" : 110280,
+      "difficulty" : 0,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
     "300919" : {
       "append_skill" : { },
       "bg_list" : [ 12, 12, 12, 12 ],
@@ -112973,7 +113007,7 @@
       "reward_box" : 3,
       "reward_data" : {
         "type" : "card",
-        "id" : 11002,
+        "id" : 11028,
         "box" : 3
       },
       "quest_id" : 301528,
@@ -122935,6 +122969,519 @@
       "chapter_cnt" : 3,
       "area_id" : 1
     },
+    "245911" : {
+      "append_skill" : { },
+      "bg_list" : [ 4 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 1000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 1000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 1000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 1000
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : {
+        "quest" : [ {
+          "qid" : 245902,
+          "type" : 3
+        } ]
+      },
+      "icon" : "Sakura_event",
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "第七章・再",
+      "sort" : 5,
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 90904,
+        "box" : 3
+      },
+      "quest_id" : 245911,
+      "difficulty" : 14,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "245910" : {
+      "append_skill" : { },
+      "bg_list" : [ 1 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 1000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 1000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 1000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 1000
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : {
+        "quest" : [ {
+          "qid" : 245901,
+          "type" : 3
+        } ]
+      },
+      "icon" : "Sakura_event",
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "第六章・再",
+      "sort" : 6,
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 90904,
+        "box" : 3
+      },
+      "quest_id" : 245910,
+      "difficulty" : 10,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "245909" : {
+      "append_skill" : { },
+      "bg_list" : [ 1 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 3000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 3000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 5000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 10000
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "icon" : "Sakura_event",
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "ユグド通貨稼ぎ・弐",
+      "sort" : 7,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "item",
+        "id" : 10,
+        "box" : 2
+      },
+      "quest_id" : 245909,
+      "difficulty" : 24,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "245908" : {
+      "append_skill" : { },
+      "bg_list" : [ 1 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93902,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "icon" : "Sakura_event",
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "華撃団試し斬り・弐",
+      "sort" : 8,
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 8189,
+        "box" : 3
+      },
+      "quest_id" : 245908,
+      "difficulty" : 24,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "245907" : {
+      "append_skill" : { },
+      "bg_list" : [ 14 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 30,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 10000
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
+      } ],
+      "field_type" : [ 1 ],
+      "flag" : { },
+      "helpers" : [ [ {
+        "skillflag" : [ true, true, true, false ],
+        "helper_comment" : "気合を入れていくぞ！",
+        "enable_act" : false,
+        "cid" : 8189,
+        "hp" : 9150,
+        "lv" : 80,
+        "atk" : 9150
+      } ] ],
+      "icon" : "Sakura_event",
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "総力戦・上級",
+      "sort" : 9,
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 90905,
+        "box" : 3
+      },
+      "quest_id" : 245907,
+      "difficulty" : 40,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "245906" : {
+      "append_skill" : { },
+      "bg_list" : [ 5 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 20,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 5000
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      } ],
+      "field_type" : [ 1 ],
+      "flag" : { },
+      "helpers" : [ [ {
+        "skillflag" : [ true, true, true, false ],
+        "helper_comment" : "気合を入れていくぞ！",
+        "enable_act" : false,
+        "cid" : 8189,
+        "hp" : 9150,
+        "lv" : 80,
+        "atk" : 9150
+      } ] ],
+      "icon" : "Sakura_event",
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "総力戦・初級",
+      "sort" : 10,
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 90904,
+        "box" : 3
+      },
+      "quest_id" : 245906,
+      "difficulty" : 18,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "245905" : {
+      "append_skill" : { },
+      "bg_list" : [ 1, 1 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 15,
+      "field_type" : [ 0, 0 ],
+      "flag" : { },
+      "icon" : "Sakura_event",
+      "is_casino" : false,
+      "name" : "エピローグ仮",
+      "sort" : 11,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "item",
+        "id" : 7,
+        "box" : 2
+      },
+      "quest_id" : 245905,
+      "difficulty" : 20,
+      "chapter_cnt" : 2,
+      "area_id" : 1
+    },
+    "245904" : {
+      "append_skill" : { },
+      "bg_list" : [ 12, 1 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 15,
+      "field_type" : [ 0, 0 ],
+      "flag" : { },
+      "icon" : "Sakura_event",
+      "is_casino" : false,
+      "name" : "４話目仮",
+      "sort" : 12,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 245904,
+      "difficulty" : 16,
+      "chapter_cnt" : 2,
+      "area_id" : 1
+    },
+    "245914" : {
+      "append_skill" : { },
+      "bg_list" : [ 1 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 1000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 1000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 1000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 1000
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : {
+        "quest" : [ {
+          "qid" : 245905,
+          "type" : 3
+        } ]
+      },
+      "icon" : "Sakura_event",
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "第十章・再",
+      "sort" : 2,
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 90904,
+        "box" : 3
+      },
+      "quest_id" : 245914,
+      "difficulty" : 28,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "245913" : {
+      "append_skill" : { },
+      "bg_list" : [ 12 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 1000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 1000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 1000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 1000
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : {
+        "quest" : [ {
+          "qid" : 245904,
+          "type" : 3
+        } ]
+      },
+      "icon" : "Sakura_event",
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "第九章・再",
+      "sort" : 3,
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 90904,
+        "box" : 3
+      },
+      "quest_id" : 245913,
+      "difficulty" : 22,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "245912" : {
+      "append_skill" : { },
+      "bg_list" : [ 2 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 1000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 1000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 1000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 1000
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : {
+        "quest" : [ {
+          "qid" : 245903,
+          "type" : 3
+        } ]
+      },
+      "icon" : "Sakura_event",
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "第八章・再",
+      "sort" : 4,
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 90904,
+        "box" : 3
+      },
+      "quest_id" : 245912,
+      "difficulty" : 18,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "245902" : {
+      "append_skill" : { },
+      "bg_list" : [ 4, 9 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 15,
+      "field_type" : [ 0, 0 ],
+      "flag" : { },
+      "icon" : "Sakura_event",
+      "is_casino" : false,
+      "name" : "２話目仮",
+      "sort" : 14,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 245902,
+      "difficulty" : 8,
+      "chapter_cnt" : 2,
+      "area_id" : 1
+    },
+    "245903" : {
+      "append_skill" : { },
+      "bg_list" : [ 2, 12 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 15,
+      "field_type" : [ 0, 0 ],
+      "flag" : { },
+      "icon" : "Sakura_event",
+      "is_casino" : false,
+      "name" : "３話目仮",
+      "sort" : 13,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 245903,
+      "difficulty" : 12,
+      "chapter_cnt" : 2,
+      "area_id" : 1
+    },
+    "245901" : {
+      "append_skill" : { },
+      "bg_list" : [ 9, 9 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 15,
+      "field_type" : [ 0, 0 ],
+      "flag" : { },
+      "icon" : "Sakura_event",
+      "is_casino" : false,
+      "name" : "１話目仮",
+      "sort" : 15,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 245901,
+      "difficulty" : 5,
+      "chapter_cnt" : 2,
+      "area_id" : 1
+    },
     "200102" : {
       "append_skill" : { },
       "bg_list" : [ 9, 9, 9 ],
@@ -130096,5 +130643,5 @@
     }
   },
   "res" : 0,
-  "deceive" : 1473915270
+  "deceive" : 1474351208
 }
