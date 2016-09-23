@@ -1,5 +1,5 @@
 {
-  "sv" : "1474560862",
+  "sv" : "1474612438",
   "questdigest" : {
     "0" : {
       "append_skill" : { },
@@ -21306,7 +21306,6 @@
       } ],
       "field_type" : [ 0 ],
       "flag" : { },
-      "icon" : "281511",
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "每月任務",
@@ -115373,5 +115372,5 @@
     }
   },
   "res" : 0,
-  "deceive" : 1474561716
+  "deceive" : 1474618682
 }
