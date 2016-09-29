@@ -1,5 +1,5 @@
 {
-  "sv" : "1474612438",
+  "sv" : "1475127145",
   "questdigest" : {
     "0" : {
       "append_skill" : { },
@@ -22352,7 +22352,7 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "悪夢なんてぽーい☆",
+        "helper_comment" : "惡夢滾開吧☆",
         "cid" : 5084,
         "hp" : 5800,
         "lv" : 80,
@@ -22362,7 +22362,7 @@
       "icon" : "242710",
       "is_casino" : false,
       "kind_prm" : 1,
-      "name" : "お試しクエスト",
+      "name" : "小試身手任務",
       "reward_box" : 3,
       "reward_data" : {
         "type" : "card",
@@ -45625,6 +45625,29 @@
       "chapter_cnt" : 1,
       "area_id" : 1
     },
+    "50742" : {
+      "append_skill" : {
+        "cid" : 5074,
+        "idx" : "2"
+      },
+      "bg_list" : [ 78, 114, 114 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 8,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 5074,
+          "lv" : 25
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "幸福的紅色護身符",
+      "place_id" : 4,
+      "quest_id" : 50742,
+      "difficulty" : 29,
+      "chapter_cnt" : 3,
+      "area_id" : 1
+    },
     "80401" : {
       "append_skill" : {
         "cid" : 8040,
@@ -45646,6 +45669,32 @@
       "difficulty" : 6,
       "chapter_cnt" : 2,
       "area_id" : 2
+    },
+    "50741" : {
+      "append_skill" : {
+        "cid" : 5074,
+        "idx" : "1"
+      },
+      "bg_list" : [ 114, 114, 114 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 6,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 5074,
+          "lv" : 1
+        }, {
+          "cid" : 5074,
+          "lv" : 13
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "恐怖！？鬼火妖怪",
+      "place_id" : 6,
+      "quest_id" : 50741,
+      "difficulty" : 20,
+      "chapter_cnt" : 3,
+      "area_id" : 1
     },
     "80400" : {
       "append_skill" : { },
@@ -46134,6 +46183,52 @@
       "quest_id" : 50690,
       "difficulty" : 0,
       "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "50691" : {
+      "append_skill" : {
+        "cid" : 5069,
+        "idx" : "1"
+      },
+      "bg_list" : [ 2, 114, 114 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 5,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 5069,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "大樹的歸族女孩",
+      "place_id" : 5,
+      "quest_id" : 50691,
+      "difficulty" : 14,
+      "chapter_cnt" : 3,
+      "area_id" : 4
+    },
+    "50692" : {
+      "append_skill" : {
+        "cid" : 5069,
+        "idx" : "2"
+      },
+      "bg_list" : [ 1, 9 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 15,
+      "field_type" : [ 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 5069,
+          "lv" : 30
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "身為聖騎士之子",
+      "place_id" : 5,
+      "quest_id" : 50692,
+      "difficulty" : 31,
+      "chapter_cnt" : 2,
       "area_id" : 1
     },
     "10532" : {
@@ -115372,5 +115467,5 @@
     }
   },
   "res" : 0,
-  "deceive" : 1474618682
+  "deceive" : 1475139648
 }

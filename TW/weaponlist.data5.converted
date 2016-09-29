@@ -208,7 +208,7 @@
     },
     "16" : {
       "rank" : 3,
-      "name" : "暗殺之刃",
+      "name" : "刺客之刃",
       "model" : "weapon016_body",
       "id" : 16,
       "guardMax" : 7,
@@ -3470,7 +3470,7 @@
     },
     "192" : {
       "rank" : 3,
-      "name" : "巖通刀",
+      "name" : "岩通刀",
       "model" : "weapon192_body",
       "id" : 192,
       "guardMax" : 14,
@@ -5421,7 +5421,7 @@
     },
     "85072" : {
       "rank" : 3,
-      "name" : "萊切",
+      "name" : "千鳥",
       "model" : "weapon85072_body",
       "id" : 85072,
       "guardMax" : 8,
@@ -13483,7 +13483,7 @@
       "type_grd" : 3
     }
   },
-  "sv" : "1474364576",
+  "sv" : "1474881450",
   "res" : 0,
-  "deceive" : 1474561704
+  "deceive" : 1475139625
 }
