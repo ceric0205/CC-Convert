@@ -64,7 +64,7 @@
     "questdigest" : 1475139845,
     "reload" : 1465398000,
     "repeatmissionlist" : 1475039494,
-    "servertime" : 1475220477,
+    "servertime" : 1475651591,
     "skilllist" : 1475135958,
     "subjugationexpeditioninfo" : 1,
     "supporterskill" : 1475116200,
@@ -72,7 +72,7 @@
     "uzuinfo" : 1,
     "various" : 1474529092,
     "weaponcompose" : 1475059706,
-    "weaponcomposeevent" : 1473841788,
+    "weaponcomposeevent" : 1,
     "weaponlist" : 1475128461,
     "worldinfo" : 1474874777
   },
