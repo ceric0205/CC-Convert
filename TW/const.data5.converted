@@ -19,6 +19,277 @@
         "cost_border2" : 12,
         "type" : 1
       },
+      "raid" : {
+        "raid_id" : 19,
+        "bg" : 2000,
+        "banner" : 1,
+        "event_start" : 1475466266,
+        "event_end" : 1476338400,
+        "close" : 1476424800,
+        "name" : "哲扶拉斯來襲",
+        "full_time" : 130,
+        "part_time" : 90,
+        "sp_cards" : [ {
+          "cid" : "5069",
+          "skill_id" : "30040"
+        }, {
+          "cid" : "1004",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "1006",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "1009",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "1017",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "1030",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "1038",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "7001",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "8054",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "1034",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "1039",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "1005",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "1007",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "1008",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "1021",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "1023",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "7002",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "1053",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5007",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5009",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5014",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5017",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5040",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5060",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5076",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5005",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5010",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5015",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5019",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5020",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5022",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5037",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5042",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5030",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5066",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5074",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "7535",
+          "skill_id" : "30041"
+        }, {
+          "cid" : "1040",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "1056",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "1057",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5001",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5002",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5047",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5048",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5056",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5008",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5011",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5012",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5031",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5033",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5062",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5065",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5067",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5070",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "1002",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "1045",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "1046",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "1058",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "1029",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "1032",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "1047",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "1050",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "1054",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "1055",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5084",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5075",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5039",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5041",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5049",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5051",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5055",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5059",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5068",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5004",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5021",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5038",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5045",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5050",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5052",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "5053",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "3028",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "8823",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "8842",
+          "skill_id" : "31002"
+        }, {
+          "cid" : "8863",
+          "skill_id" : "31002"
+        } ],
+        "full_pirica_time" : 13,
+        "part_pirica_time" : 22,
+        "hp_up" : 2,
+        "atk_up" : 2,
+        "anger_hp_up" : 2,
+        "anger_atk_up" : 2,
+        "anger_battle_time" : 30
+      },
       "subjugation" : [ ],
       "weaponcompose" : {
         "weapon_compose_disabled" : false
@@ -47,9 +318,9 @@
     "booklist" : 1474432893,
     "bossinfo" : 1475123827,
     "casinoinfo" : 0,
-    "charainfo" : 1475123831,
+    "charainfo" : 1475738155,
     "create_weap" : 1,
-    "episodeinfo" : 1475114726,
+    "episodeinfo" : 1475461199,
     "eventbadge" : 1,
     "eventplace" : 1,
     "explorerinfo" : 1453707665,
@@ -58,11 +329,11 @@
     "itemlist" : 1472724211,
     "missionlist" : 1474524003,
     "motionlist" : 1459929200,
-    "questdigest" : 1475127145,
+    "questdigest" : 1475632747,
     "reload" : 1464594693,
     "repeatmissionlist" : 1473021262,
-    "servertime" : 1475651290,
-    "skilllist" : 1474602822,
+    "servertime" : 1475744468,
+    "skilllist" : 1475470426,
     "subjugationexpeditioninfo" : 1,
     "supporterskill" : 1472723333,
     "teacherdisciple" : 0,
