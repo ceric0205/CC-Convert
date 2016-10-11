@@ -1,5 +1,5 @@
 {
-  "sv" : "1475660026",
+  "sv" : "1476149913",
   "questdigest" : {
     "0" : {
       "append_skill" : { },
@@ -36076,6 +36076,19 @@
       "chapter_cnt" : 1,
       "area_id" : 1
     },
+    "120330" : {
+      "append_skill" : { },
+      "bg_list" : [ -1 ],
+      "chapter_list" : [ 1 ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "name" : "登場ジークルーン",
+      "quest_id" : 120330,
+      "difficulty" : 0,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
     "220132" : {
       "append_skill" : { },
       "bg_list" : [ 404, 404, 404, 14 ],
@@ -61716,11 +61729,11 @@
       "icon" : "AfterStory01",
       "is_casino" : false,
       "name" : "それからとこれから",
-      "reward_box" : 2,
+      "reward_box" : 3,
       "reward_data" : {
-        "type" : "item",
-        "id" : 1,
-        "box" : 2
+        "type" : "card",
+        "id" : 85387,
+        "box" : 3
       },
       "quest_id" : 211908,
       "difficulty" : 60,
@@ -120825,6 +120838,46 @@
       "chapter_cnt" : 1,
       "area_id" : 14
     },
+    "246206" : {
+      "append_skill" : { },
+      "bg_list" : [ 1 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "chara_rf",
+        "id" : 90009,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93000,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93000,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90014,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "icon" : "246206",
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "お試しルーラ",
+      "sort" : 7,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 246206,
+      "difficulty" : 24,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
     "215102" : {
       "append_skill" : { },
       "bg_list" : [ 115 ],
@@ -120848,6 +120901,46 @@
       "difficulty" : 50,
       "chapter_cnt" : 1,
       "area_id" : 14
+    },
+    "246205" : {
+      "append_skill" : { },
+      "bg_list" : [ -1 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 10000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 10000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 15000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 20000
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "icon" : "246206",
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "お試しバラクーダ",
+      "sort" : 8,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 246205,
+      "difficulty" : 24,
+      "chapter_cnt" : 1,
+      "area_id" : 1
     },
     "215103" : {
       "append_skill" : { },
@@ -120875,6 +120968,144 @@
       "difficulty" : 46,
       "chapter_cnt" : 1,
       "area_id" : 14
+    },
+    "246204" : {
+      "append_skill" : { },
+      "bg_list" : [ -1 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93902,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93902,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "武器強化",
+      "sort" : 3,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 93902,
+        "box" : 2
+      },
+      "quest_id" : 246204,
+      "difficulty" : 12,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "246203" : {
+      "append_skill" : { },
+      "bg_list" : [ 1 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 20,
+      "eneset_treasure" : [ {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "討伐隊育成",
+      "sort" : 4,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 90903,
+        "box" : 2
+      },
+      "quest_id" : 246203,
+      "difficulty" : 12,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "246202" : {
+      "append_skill" : { },
+      "bg_list" : [ -1 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 4,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 200
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 200
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 200
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 400
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "秩序の魔神探し",
+      "sort" : 7,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "item",
+        "id" : 2,
+        "box" : 2
+      },
+      "quest_id" : 246202,
+      "difficulty" : 4,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "246201" : {
+      "append_skill" : { },
+      "bg_list" : [ 2, 2, 2 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 4,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "name" : "究極の秩序",
+      "sort" : 10,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "item",
+        "id" : 7,
+        "box" : 2
+      },
+      "quest_id" : 246201,
+      "difficulty" : 4,
+      "chapter_cnt" : 3,
+      "area_id" : 1
     },
     "215047" : {
       "append_skill" : { },
@@ -123271,6 +123502,27 @@
       "chapter_cnt" : 2,
       "area_id" : 1
     },
+    "246108" : {
+      "append_skill" : { },
+      "bg_list" : [ 400 ],
+      "chapter_list" : [ 1 ],
+      "stamina" : 20,
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "icon" : "Event001",
+      "is_casino" : false,
+      "name" : "どんちゃんハンマー",
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 85342,
+        "box" : 3
+      },
+      "quest_id" : 246108,
+      "difficulty" : 40,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
     "239613" : {
       "append_skill" : { },
       "bg_list" : [ 8, 8 ],
@@ -123290,6 +123542,27 @@
       "quest_id" : 239613,
       "difficulty" : 4,
       "chapter_cnt" : 2,
+      "area_id" : 1
+    },
+    "246109" : {
+      "append_skill" : { },
+      "bg_list" : [ 400 ],
+      "chapter_list" : [ 1 ],
+      "stamina" : 20,
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "icon" : "Event001",
+      "is_casino" : false,
+      "name" : "かっちゃんハンマー",
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 85343,
+        "box" : 3
+      },
+      "quest_id" : 246109,
+      "difficulty" : 54,
+      "chapter_cnt" : 1,
       "area_id" : 1
     },
     "239612" : {
@@ -124700,7 +124973,7 @@
       "flag" : { },
       "is_casino" : false,
       "name" : "融和の道・１",
-      "sort" : 10,
+      "sort" : 30,
       "reward_box" : 2,
       "reward_data" : {
         "type" : "item",
@@ -124714,14 +124987,14 @@
     },
     "246003" : {
       "append_skill" : { },
-      "bg_list" : [ 117, 117 ],
-      "chapter_list" : [ 1, 2 ],
+      "bg_list" : [ 117, 117, 117 ],
+      "chapter_list" : [ 1, 2, 3 ],
       "stamina" : 15,
-      "field_type" : [ 0, 0 ],
+      "field_type" : [ 0, 0, 0 ],
       "flag" : { },
       "is_casino" : false,
       "name" : "融和の道・３",
-      "sort" : 8,
+      "sort" : 28,
       "reward_box" : 2,
       "reward_data" : {
         "type" : "item",
@@ -124730,7 +125003,7 @@
       },
       "quest_id" : 246003,
       "difficulty" : 12,
-      "chapter_cnt" : 2,
+      "chapter_cnt" : 3,
       "area_id" : 1
     },
     "246002" : {
@@ -124742,7 +125015,7 @@
       "flag" : { },
       "is_casino" : false,
       "name" : "融和の道・２",
-      "sort" : 9,
+      "sort" : 29,
       "reward_box" : 2,
       "reward_data" : {
         "type" : "item",
@@ -124757,7 +125030,7 @@
     "246005" : {
       "append_skill" : { },
       "bg_list" : [ 115 ],
-      "chapter_list" : [ 0 ],
+      "chapter_list" : [ 1 ],
       "stamina" : 10,
       "eneset_treasure" : [ {
         "type" : "weapon_rf",
@@ -124780,7 +125053,7 @@
       "flag" : { },
       "helpers" : [ [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "調整中です。",
+        "helper_comment" : "全部、溶かしてあげます……\\n[FF0000]グリゼルディスは、ボス戦開始時に\\nスクラップを１つマナにできます！",
         "enable_act" : true,
         "cid" : 12048,
         "hp" : 5900,
@@ -124790,7 +125063,7 @@
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "スクラップ道場",
-      "sort" : 6,
+      "sort" : 26,
       "reward_box" : 3,
       "reward_data" : {
         "type" : "item",
@@ -124826,11 +125099,20 @@
       } ],
       "field_type" : [ 0 ],
       "flag" : { },
+      "helpers" : [ [ {
+        "skillflag" : [ true, true, true, false ],
+        "helper_comment" : "あらあら、まあまあ！",
+        "enable_act" : false,
+        "cid" : 12033,
+        "hp" : 6150,
+        "lv" : 80,
+        "atk" : 10000
+      } ] ],
       "icon" : "246004",
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "お試しクエスト",
-      "sort" : 7,
+      "sort" : 27,
       "reward_box" : 3,
       "reward_data" : {
         "type" : "card",
@@ -132047,5 +132329,5 @@
     }
   },
   "res" : 0,
-  "deceive" : 1475733606
+  "deceive" : 1476165604
 }

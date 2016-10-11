@@ -3681,6 +3681,19 @@
       "type_cri" : 2,
       "type_grd" : 3
     },
+    "26196" : {
+      "rank" : 2,
+      "name" : "黒の結晶【秩序】",
+      "model" : "weapon85173_body",
+      "id" : 26196,
+      "guardMax" : 0,
+      "criticalMax" : 0,
+      "attackMax" : 0,
+      "type" : 0,
+      "type_atk" : 1,
+      "type_cri" : 2,
+      "type_grd" : 3
+    },
     "245" : {
       "rank" : 2,
       "name" : "クルセイダー",
@@ -10082,6 +10095,19 @@
       "type_cri" : 9,
       "type_grd" : 3
     },
+    "85353" : {
+      "rank" : 2,
+      "name" : "杏子の槍",
+      "model" : "weapon85353_body",
+      "id" : 85353,
+      "guardMax" : 5,
+      "criticalMax" : 8,
+      "attackMax" : 10,
+      "type" : 2,
+      "type_atk" : 1,
+      "type_cri" : 2,
+      "type_grd" : 3
+    },
     "26023" : {
       "rank" : 3,
       "name" : "ブレイブソード・攻",
@@ -10092,6 +10118,19 @@
       "attackMax" : 9,
       "type" : 0,
       "type_atk" : 4,
+      "type_cri" : 2,
+      "type_grd" : 3
+    },
+    "85352" : {
+      "rank" : 2,
+      "name" : "さやかの剣（左）",
+      "model" : "weapon85352_body",
+      "id" : 85352,
+      "guardMax" : 0,
+      "criticalMax" : 0,
+      "attackMax" : 0,
+      "type" : 0,
+      "type_atk" : 1,
       "type_cri" : 2,
       "type_grd" : 3
     },
@@ -10108,6 +10147,19 @@
       "type_cri" : 18,
       "type_grd" : 3
     },
+    "85355" : {
+      "rank" : 2,
+      "name" : "ほむらの銃",
+      "model" : "weapon85355_body",
+      "id" : 85355,
+      "guardMax" : 5,
+      "criticalMax" : 10,
+      "attackMax" : 8,
+      "type" : 9,
+      "type_atk" : 1,
+      "type_cri" : 2,
+      "type_grd" : 3
+    },
     "26021" : {
       "rank" : 3,
       "name" : "ブレイブソード・疾",
@@ -10120,6 +10172,19 @@
       "type_atk" : 1,
       "type_cri" : 2,
       "type_grd" : 21
+    },
+    "85354" : {
+      "rank" : 2,
+      "name" : "なぎさのて",
+      "model" : "weapon85173_body",
+      "id" : 85354,
+      "guardMax" : 10,
+      "criticalMax" : 6,
+      "attackMax" : 7,
+      "type" : 5,
+      "type_atk" : 1,
+      "type_cri" : 2,
+      "type_grd" : 3
     },
     "26020" : {
       "rank" : 3,
@@ -10293,6 +10358,19 @@
       "type_cri" : 2,
       "type_grd" : 21
     },
+    "85349" : {
+      "rank" : 3,
+      "name" : "ほむらのて",
+      "model" : "weapon85173_body",
+      "id" : 85349,
+      "guardMax" : 8,
+      "criticalMax" : 10,
+      "attackMax" : 13,
+      "type" : 4,
+      "type_atk" : 1,
+      "type_cri" : 2,
+      "type_grd" : 3
+    },
     "26027" : {
       "rank" : 3,
       "name" : "ワイルドボア・体",
@@ -10304,6 +10382,19 @@
       "type" : 1,
       "type_atk" : 1,
       "type_cri" : 9,
+      "type_grd" : 3
+    },
+    "85348" : {
+      "rank" : 3,
+      "name" : "まどかの弓",
+      "model" : "weapon85348_body",
+      "id" : 85348,
+      "guardMax" : 10,
+      "criticalMax" : 9,
+      "attackMax" : 12,
+      "type" : 3,
+      "type_atk" : 1,
+      "type_cri" : 2,
       "type_grd" : 3
     },
     "26026" : {
@@ -10319,6 +10410,19 @@
       "type_cri" : 2,
       "type_grd" : 12
     },
+    "85351" : {
+      "rank" : 2,
+      "name" : "さやかの剣",
+      "model" : "weapon85351_body",
+      "id" : 85351,
+      "guardMax" : 10,
+      "criticalMax" : 5,
+      "attackMax" : 8,
+      "type" : 0,
+      "type_atk" : 1,
+      "type_cri" : 2,
+      "type_grd" : 3
+    },
     "26025" : {
       "rank" : 3,
       "name" : "ブレイブソード・防",
@@ -10331,6 +10435,19 @@
       "type_atk" : 1,
       "type_cri" : 2,
       "type_grd" : 6
+    },
+    "85350" : {
+      "rank" : 3,
+      "name" : "マミのマスケット銃",
+      "model" : "weapon85350_body",
+      "id" : 85350,
+      "guardMax" : 9,
+      "criticalMax" : 11,
+      "attackMax" : 11,
+      "type" : 10,
+      "type_atk" : 1,
+      "type_cri" : 2,
+      "type_grd" : 3
     },
     "26024" : {
       "rank" : 3,
@@ -12410,6 +12527,121 @@
       "type_cri" : 2,
       "type_grd" : 3
     },
+    "85382" : {
+      "rank" : 3,
+      "name" : "ヴァイオネル",
+      "model" : "weapon85382_body",
+      "id" : 85382,
+      "guardMax" : 7,
+      "criticalMax" : 10,
+      "attackMax" : 13,
+      "type" : 0,
+      "type_atk" : 1,
+      "type_cri" : 2,
+      "type_grd" : 3
+    },
+    "85380" : {
+      "rank" : 3,
+      "name" : "ペカード＝エルモーソ",
+      "model" : "weapon85380_body",
+      "id" : 85380,
+      "guardMax" : 8,
+      "criticalMax" : 11,
+      "attackMax" : 11,
+      "type" : 0,
+      "type_atk" : 1,
+      "type_cri" : 1,
+      "type_grd" : 1
+    },
+    "85379" : {
+      "name" : "まどマギエネミー用武器",
+      "model" : "weapon85379_body",
+      "id" : 85379,
+      "guardMax" : 0,
+      "criticalMax" : 0,
+      "attackMax" : 0,
+      "type" : 2,
+      "type_atk" : 1,
+      "type_cri" : 2,
+      "type_grd" : 3
+    },
+    "85388" : {
+      "name" : "ジオーダー・攻",
+      "model" : "weapon85385_body",
+      "id" : 85388,
+      "guardMax" : 12,
+      "criticalMax" : 12,
+      "attackMax" : 12,
+      "type" : 0,
+      "type_atk" : 4,
+      "type_cri" : 2,
+      "type_grd" : 3
+    },
+    "85389" : {
+      "rank" : 3,
+      "name" : "アーヴァイド",
+      "model" : "weapon85385_body",
+      "id" : 85389,
+      "guardMax" : 12,
+      "criticalMax" : 12,
+      "attackMax" : 12,
+      "type" : 0,
+      "type_atk" : 1,
+      "type_cri" : 2,
+      "type_grd" : 3
+    },
+    "85386" : {
+      "rank" : 3,
+      "name" : "秩序の封剣",
+      "model" : "weapon85386_body",
+      "id" : 85386,
+      "guardMax" : 13,
+      "criticalMax" : 10,
+      "attackMax" : 12,
+      "type" : 0,
+      "type_atk" : 1,
+      "type_cri" : 1,
+      "type_grd" : 1
+    },
+    "85387" : {
+      "skill" : 2650,
+      "rank" : 3,
+      "name" : "憧憬の杖",
+      "model" : "weapon85387_body",
+      "id" : 85387,
+      "guardMax" : 16,
+      "criticalMax" : 6,
+      "attackMax" : 18,
+      "type" : 5,
+      "type_atk" : 1,
+      "type_cri" : 2,
+      "type_grd" : 3
+    },
+    "85384" : {
+      "rank" : 3,
+      "name" : "トゥキファト用盾",
+      "model" : "weapon85384_body",
+      "id" : 85384,
+      "guardMax" : 0,
+      "criticalMax" : 0,
+      "attackMax" : 0,
+      "type" : 11,
+      "type_atk" : 1,
+      "type_cri" : 2,
+      "type_grd" : 3
+    },
+    "85385" : {
+      "name" : "ジオーダー",
+      "model" : "weapon85385_body",
+      "id" : 85385,
+      "guardMax" : 12,
+      "criticalMax" : 12,
+      "attackMax" : 12,
+      "type" : 0,
+      "type_atk" : 1,
+      "type_cri" : 2,
+      "type_grd" : 3
+    },
     "1035" : {
       "name" : "２部８章エネミー用　拳・右",
       "model" : "weapon1035_body",
@@ -13334,7 +13566,7 @@
       "type_grd" : 3
     }
   },
-  "sv" : "1475128461",
+  "sv" : "1475831633",
   "res" : 0,
-  "deceive" : 1475650806
+  "deceive" : 1476165596
 }

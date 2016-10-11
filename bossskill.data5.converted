@@ -7593,6 +7593,21 @@
       "skillflag0_1" : 0,
       "skillid0" : 33
     },
+    "567" : {
+      "spmotname" : "sp_summon01",
+      "skillparam2" : 16384.0,
+      "skillparam3" : 75749.0,
+      "skillparam4" : 256.0,
+      "skillparam5" : 75749.0,
+      "skillparam6" : 4.0,
+      "skillflag0_0" : 0,
+      "skillparam1" : 75749.0,
+      "skillid" : 567,
+      "skillflag1_1" : 0,
+      "skillflag1_0" : 0,
+      "skillflag0_1" : 0,
+      "skillid0" : 18
+    },
     "80840" : {
       "skillflag" : 1025,
       "str0" : "BE_DropStar_a",
@@ -7606,6 +7621,73 @@
       "skillflag1_0" : 0,
       "skillflag0_1" : 0,
       "skillid0" : 33
+    },
+    "566" : {
+      "spmotname" : "sp_summon01",
+      "skillparam2" : 32768.0,
+      "skillparam3" : 75747.0,
+      "skillparam4" : 512.0,
+      "skillparam5" : 75747.0,
+      "skillparam6" : 8.0,
+      "skillflag0_0" : 0,
+      "skillparam1" : 75747.0,
+      "skillid" : 566,
+      "skillflag1_1" : 0,
+      "skillflag1_0" : 0,
+      "skillflag0_1" : 0,
+      "skillid0" : 18
+    },
+    "565" : {
+      "spmotname" : "sp_attack02",
+      "skillparam2" : 9.0,
+      "skillparam3" : 3.0,
+      "skillflag0_0" : 0,
+      "skillparam1" : 1.5,
+      "skillid" : 565,
+      "skillflag1_1" : 0,
+      "skillflag1_0" : 0,
+      "skillflag0_1" : 0,
+      "skillid0" : 22
+    },
+    "564" : {
+      "spmotname" : "sp_attack02",
+      "skillparam2" : 2.0,
+      "skillparam3" : 12.0,
+      "skillflag0_0" : 0,
+      "skillparam1" : 1.2,
+      "skillid" : 564,
+      "skillflag1_1" : 0,
+      "skillflag1_0" : 0,
+      "skillflag0_1" : 0,
+      "skillid0" : 3
+    },
+    "563" : {
+      "spmotname" : "sp_attack01",
+      "skillparam2" : 2.0,
+      "skillparam3" : 12.0,
+      "skillflag0_0" : 0,
+      "skillparam1" : 1.2,
+      "skillid" : 563,
+      "skillflag1_1" : 0,
+      "skillflag1_0" : 0,
+      "skillflag0_1" : 0,
+      "skillid0" : 3
+    },
+    "562" : {
+      "str2" : "BE_Dummy_a.prefab",
+      "str1" : "BE_Dummy_a.prefab",
+      "skillparam0" : -1.0,
+      "spmotname" : "sp_attack04",
+      "skillparam2" : 5.0,
+      "skillparam3" : 32.0,
+      "skillparam4" : 0.3,
+      "skillflag0_0" : 0,
+      "skillparam1" : 0.2,
+      "skillid" : 562,
+      "skillflag1_1" : 0,
+      "skillflag1_0" : 0,
+      "skillflag0_1" : 0,
+      "skillid0" : 78
     },
     "10441" : {
       "spmotname" : "sp_slash16",
@@ -7659,6 +7741,26 @@
       "skillflag1_0" : 0,
       "skillflag0_1" : 0,
       "skillid0" : 51
+    },
+    "569" : {
+      "spmotname" : "neutral01",
+      "skillflag0_0" : 0,
+      "skillparam1" : 324000.0,
+      "skillid" : 569,
+      "skillflag1_1" : 0,
+      "skillflag1_0" : 0,
+      "skillflag0_1" : 0,
+      "skillid0" : 52
+    },
+    "568" : {
+      "spmotname" : "neutral01",
+      "skillflag0_0" : 0,
+      "skillparam1" : 322000.0,
+      "skillid" : 568,
+      "skillflag1_1" : 0,
+      "skillflag1_0" : 0,
+      "skillflag0_1" : 0,
+      "skillid0" : 52
     },
     "516" : {
       "atkspeed" : "4",
@@ -11843,7 +11945,7 @@
       "skillid0" : 31
     }
   },
-  "sv" : "1475646307",
+  "sv" : "1476073888",
   "res" : 0,
-  "deceive" : 1475733594
+  "deceive" : 1476165593
 }

@@ -1,5 +1,5 @@
 {
-  "sv" : "1475128461",
+  "sv" : "1475831633",
   "evolve" : {
     "26169" : {
       "name" : "スピアハート・速撃",
@@ -443,6 +443,18 @@
       "rarity" : 3,
       "id" : 26177,
       "evol_dst" : 26177,
+      "usable0" : 9999,
+      "usable1" : -1,
+      "usable2" : -1
+    },
+    "26196" : {
+      "usable" : [ 9999 ],
+      "name" : "黒の結晶【秩序】",
+      "profile" : "トゥキファトレイド武器錬金素材",
+      "rank_limit" : 0,
+      "rarity" : 3,
+      "id" : 26196,
+      "evol_dst" : 26196,
       "usable0" : 9999,
       "usable1" : -1,
       "usable2" : -1
@@ -5651,6 +5663,17 @@
       "usable1" : -1,
       "usable2" : -1
     },
+    "85353" : {
+      "name" : "杏子の槍",
+      "profile" : "まどマギコラボ武器",
+      "rank_limit" : 2,
+      "rarity" : 4,
+      "id" : 85353,
+      "evol_dst" : 85353,
+      "usable0" : -1,
+      "usable1" : -1,
+      "usable2" : -1
+    },
     "26023" : {
       "name" : "ブレイブソード・攻",
       "profile" : "ver2.6錬金",
@@ -5669,6 +5692,17 @@
       "rarity" : 5,
       "id" : 26022,
       "evol_dst" : 26022,
+      "usable0" : -1,
+      "usable1" : -1,
+      "usable2" : -1
+    },
+    "85355" : {
+      "name" : "ほむらの銃",
+      "profile" : "まどマギコラボ武器",
+      "rank_limit" : 2,
+      "rarity" : 4,
+      "id" : 85355,
+      "evol_dst" : 85355,
       "usable0" : -1,
       "usable1" : -1,
       "usable2" : -1
@@ -5845,6 +5879,17 @@
       "rarity" : 5,
       "id" : 26026,
       "evol_dst" : 26026,
+      "usable0" : -1,
+      "usable1" : -1,
+      "usable2" : -1
+    },
+    "85351" : {
+      "name" : "さやかの剣",
+      "profile" : "まどマギコラボ武器",
+      "rank_limit" : 2,
+      "rarity" : 4,
+      "id" : 85351,
+      "evol_dst" : 85351,
       "usable0" : -1,
       "usable1" : -1,
       "usable2" : -1
@@ -7018,8 +7063,63 @@
       "usable0" : -1,
       "usable1" : -1,
       "usable2" : -1
+    },
+    "85388" : {
+      "name" : "ジオーダー・攻",
+      "profile" : "トゥキファトレイド武器錬金",
+      "rank_limit" : 2,
+      "rarity" : 5,
+      "id" : 85388,
+      "evol_dst" : 85388,
+      "usable0" : -1,
+      "usable1" : -1,
+      "usable2" : -1
+    },
+    "85389" : {
+      "name" : "アーヴァイド",
+      "profile" : "トゥキファトレイド武器錬金",
+      "rank_limit" : 2,
+      "rarity" : 5,
+      "id" : 85389,
+      "evol_dst" : 85389,
+      "usable0" : -1,
+      "usable1" : -1,
+      "usable2" : -1
+    },
+    "85386" : {
+      "name" : "秩序の封剣",
+      "profile" : "深淵の渦特攻武器",
+      "rank_limit" : 2,
+      "rarity" : 5,
+      "id" : 85386,
+      "evol_dst" : 85386,
+      "usable0" : -1,
+      "usable1" : -1,
+      "usable2" : -1
+    },
+    "85387" : {
+      "name" : "憧憬の杖",
+      "profile" : "Sequels2 報酬武器",
+      "rank_limit" : 2,
+      "rarity" : 5,
+      "id" : 85387,
+      "evol_dst" : 85387,
+      "usable0" : -1,
+      "usable1" : -1,
+      "usable2" : -1
+    },
+    "85385" : {
+      "name" : "ジオーダー",
+      "profile" : "トゥキファトモチーフ武器",
+      "rank_limit" : 2,
+      "rarity" : 5,
+      "id" : 85385,
+      "evol_dst" : 85385,
+      "usable0" : -1,
+      "usable1" : -1,
+      "usable2" : -1
     }
   },
   "res" : 0,
-  "deceive" : 1475650806
+  "deceive" : 1476165596
 }

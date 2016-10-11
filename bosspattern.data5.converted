@@ -10297,6 +10297,88 @@
       "che" : 0,
       "voice" : 0
     },
+    "455" : {
+      "stext" : "",
+      "sname" : "",
+      "sinfo" : "",
+      "pose" : 0.0,
+      "posp" : 0.0,
+      "hpend" : 51.0,
+      "hpstart" : 0.0,
+      "patternid" : 455,
+      "skillid0" : 569,
+      "skillid1" : 563,
+      "skillid2" : 564,
+      "skillid3" : 565,
+      "scost" : 0,
+      "priority" : 50,
+      "flag" : 0,
+      "chs" : 0,
+      "che" : 0,
+      "voice" : 0
+    },
+    "454" : {
+      "stext" : "",
+      "sname" : "",
+      "limit" : 1,
+      "sinfo" : "",
+      "pose" : 0.0,
+      "posp" : 0.0,
+      "hpend" : 76.0,
+      "hpstart" : 51.0,
+      "patternid" : 454,
+      "skillid0" : 568,
+      "skillid1" : 564,
+      "skillid2" : 567,
+      "skillid3" : 0,
+      "scost" : 0,
+      "priority" : 1000,
+      "flag" : 0,
+      "chs" : 0,
+      "che" : 0,
+      "voice" : 0
+    },
+    "453" : {
+      "stext" : "",
+      "sname" : "",
+      "limit" : 1,
+      "sinfo" : "",
+      "pose" : 0.0,
+      "posp" : 0.0,
+      "hpend" : 100.0,
+      "hpstart" : 76.0,
+      "patternid" : 453,
+      "skillid0" : 568,
+      "skillid1" : 563,
+      "skillid2" : 566,
+      "skillid3" : 0,
+      "scost" : 0,
+      "priority" : 1000,
+      "flag" : 0,
+      "chs" : 0,
+      "che" : 0,
+      "voice" : 0
+    },
+    "452" : {
+      "stext" : "",
+      "sname" : "",
+      "sinfo" : "",
+      "pose" : 0.0,
+      "posp" : 0.0,
+      "hpend" : 100.0,
+      "hpstart" : 0.0,
+      "patternid" : 452,
+      "skillid0" : 569,
+      "skillid1" : 562,
+      "skillid2" : 0,
+      "skillid3" : 0,
+      "scost" : 0,
+      "priority" : 50,
+      "flag" : 0,
+      "chs" : 0,
+      "che" : 0,
+      "voice" : 0
+    },
     "451" : {
       "stext" : "",
       "sname" : "",
@@ -10626,7 +10708,7 @@
       "voice" : 0
     },
     "82070" : {
-      "stext" : "私は絶対に見捨てたりしない。だから、諦めないで！",
+      "stext" : "私は絶対に見捨てたりしない。",
       "sname" : "マジカルスコール",
       "sinfo" : "空に向けて矢を20本放ち、ランダムで敵にダメージを与える。",
       "pose" : 0.0,
@@ -10807,7 +10889,7 @@
       "voice" : 0
     },
     "82092" : {
-      "stext" : "ティロフィナーレ！",
+      "stext" : "ティロ・フィナーレ！",
       "sname" : "ティロ・フィナーレ",
       "sinfo" : "自陣最後列時、直線範囲上にいる敵1体とその周囲に大ダメージを与える。",
       "pose" : 0.0,
@@ -10820,7 +10902,7 @@
       "skillid2" : 0,
       "skillid3" : 0,
       "scost" : 3,
-      "priority" : 100,
+      "priority" : 0,
       "flag" : 0,
       "chs" : 0,
       "che" : 0,
@@ -10830,7 +10912,7 @@
       "stext" : "べべ！",
       "sname" : "べべ",
       "limit" : 1,
-      "sinfo" : "一定時間、敵を自動攻撃し暗闇にするべべを呼ぶ。この必殺技は初回のみ使用可能。",
+      "sinfo" : "一定時間、自動で攻撃し暗闇にするべべを呼ぶ。この必殺技は初回のみ使用可能。",
       "pose" : 0.0,
       "posp" : 0.0,
       "hpend" : 100.0,
@@ -10989,7 +11071,7 @@
       "voice" : 0
     },
     "82081" : {
-      "stext" : "これこそが人間の感情の極み",
+      "stext" : "これこそが人間の感情の極み。",
       "sname" : "ダークネス・エンド",
       "sinfo" : "【超必殺】前方範囲内の全ての敵に大ダメージを与え、暗闇にする。",
       "pose" : 0.0,
@@ -13716,7 +13798,7 @@
       "voice" : 0
     }
   },
-  "sv" : "1475646307",
+  "sv" : "1476073888",
   "res" : 0,
-  "deceive" : 1475733594
+  "deceive" : 1476165593
 }
