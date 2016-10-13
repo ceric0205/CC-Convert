@@ -1336,13 +1336,14 @@
       "type_grd" : 3
     },
     "86" : {
+      "skill" : 3305,
       "rank" : 3,
       "name" : "莊嚴之光",
       "model" : "weapon086_body",
       "id" : 86,
       "guardMax" : 12,
-      "criticalMax" : 12,
-      "attackMax" : 12,
+      "criticalMax" : 8,
+      "attackMax" : 15,
       "type" : 5,
       "type_atk" : 1,
       "type_cri" : 2,
@@ -5742,6 +5743,7 @@
       "type_grd" : 3
     },
     "85115" : {
+      "skill" : 1055,
       "rank" : 3,
       "name" : "查古利斯",
       "model" : "weapon85115_body",
@@ -6189,19 +6191,6 @@
       "type_cri" : 2,
       "type_grd" : 3
     },
-    "70001" : {
-      "rank" : 2,
-      "name" : "CBT太刀",
-      "model" : "weapon019_body",
-      "id" : 70001,
-      "guardMax" : 10,
-      "criticalMax" : 7,
-      "attackMax" : 5,
-      "type" : 0,
-      "type_atk" : 1,
-      "type_cri" : 2,
-      "type_grd" : 3
-    },
     "20014" : {
       "skill" : 2303,
       "rank" : 2,
@@ -6212,6 +6201,19 @@
       "criticalMax" : 6,
       "attackMax" : 8,
       "type" : 1,
+      "type_atk" : 1,
+      "type_cri" : 2,
+      "type_grd" : 3
+    },
+    "70001" : {
+      "rank" : 2,
+      "name" : "CBT太刀",
+      "model" : "weapon019_body",
+      "id" : 70001,
+      "guardMax" : 10,
+      "criticalMax" : 7,
+      "attackMax" : 5,
+      "type" : 0,
       "type_atk" : 1,
       "type_cri" : 2,
       "type_grd" : 3
@@ -8846,6 +8848,7 @@
       "type_grd" : 3
     },
     "85149" : {
+      "skill" : 40028,
       "rank" : 2,
       "name" : "貝勒姆",
       "model" : "weapon85149_body",
@@ -8859,6 +8862,7 @@
       "type_grd" : 3
     },
     "85148" : {
+      "skill" : 40027,
       "rank" : 3,
       "name" : "太陽之鎚",
       "model" : "weapon85148_body",
@@ -8872,6 +8876,7 @@
       "type_grd" : 3
     },
     "85151" : {
+      "skill" : 1223,
       "rank" : 3,
       "name" : "奧斯崔利士",
       "model" : "weapon85151_body",
@@ -8885,6 +8890,7 @@
       "type_grd" : 3
     },
     "85150" : {
+      "skill" : 40028,
       "rank" : 2,
       "name" : "神聖光碟",
       "model" : "weapon85150_body",
@@ -8924,6 +8930,7 @@
       "type_grd" : 3
     },
     "85147" : {
+      "skill" : 40027,
       "rank" : 3,
       "name" : "女王之光",
       "model" : "weapon85147_body",
@@ -13483,7 +13490,7 @@
       "type_grd" : 3
     }
   },
-  "sv" : "1474881450",
+  "sv" : "1476264054",
   "res" : 0,
-  "deceive" : 1475139625
+  "deceive" : 1476356202
 }

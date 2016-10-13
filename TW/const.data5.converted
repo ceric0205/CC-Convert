@@ -2,11 +2,11 @@
   "body" : [ {
     "data" : {
       "expup" : {
-        "cids" : [ 5069 ],
-        "end" : 1476338400,
+        "cids" : [ 34, 45, 40, 46, 41, 63, 7024, 1041, 1044, 1008 ],
+        "end" : 1478152799,
         "exp_rate" : 1.5,
-        "id" : 99,
-        "start" : 1475078400
+        "id" : 25,
+        "start" : 1476338400
       },
       "global" : {
         "purchase" : 1,
@@ -24,8 +24,8 @@
         "bg" : 2000,
         "banner" : 1,
         "event_start" : 1475466266,
-        "event_end" : 1476338400,
-        "close" : 1476424800,
+        "event_end" : 1476424800,
+        "close" : 1476338400,
         "name" : "哲扶拉斯來襲",
         "full_time" : 130,
         "part_time" : 90,
@@ -316,11 +316,11 @@
   "mVer" : {
     "battleinfo" : 1472724210,
     "booklist" : 1474432893,
-    "bossinfo" : 1475123827,
+    "bossinfo" : 1476240937,
     "casinoinfo" : 0,
     "charainfo" : 1475738155,
     "create_weap" : 1,
-    "episodeinfo" : 1475461199,
+    "episodeinfo" : 1476177783,
     "eventbadge" : 1,
     "eventplace" : 1,
     "explorerinfo" : 1453707665,
@@ -329,11 +329,11 @@
     "itemlist" : 1472724211,
     "missionlist" : 1474524003,
     "motionlist" : 1459929200,
-    "questdigest" : 1475632747,
+    "questdigest" : 1476334291,
     "reload" : 1464594693,
     "repeatmissionlist" : 1473021262,
-    "servertime" : 1476165748,
-    "skilllist" : 1475470426,
+    "servertime" : 1476371241,
+    "skilllist" : 1476263527,
     "subjugationexpeditioninfo" : 1,
     "supporterskill" : 1472723333,
     "teacherdisciple" : 0,
@@ -341,7 +341,7 @@
     "various" : 1475117341,
     "weaponcompose" : 1459669083,
     "weaponcomposeevent" : 1,
-    "weaponlist" : 1474881450,
+    "weaponlist" : 1476264054,
     "worldinfo" : 1473287277
   },
   "friend" : false,

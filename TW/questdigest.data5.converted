@@ -1,5 +1,5 @@
 {
-  "sv" : "1475632747",
+  "sv" : "1476334291",
   "questdigest" : {
     "0" : {
       "append_skill" : { },
@@ -31392,6 +31392,7 @@
       "area_id" : 1
     },
     "220100" : {
+      "append_skill" : { },
       "bg_list" : [ 9 ],
       "chapter_list" : [ 1 ],
       "stamina" : 5,
@@ -31400,7 +31401,6 @@
       "is_casino" : false,
       "name" : "賭場的傳言",
       "place_id" : 1,
-      "sort" : 20,
       "reward_box" : 2,
       "reward_data" : {
         "type" : "stone",
@@ -38815,6 +38815,29 @@
       "chapter_cnt" : 3,
       "area_id" : 14
     },
+    "10442" : {
+      "append_skill" : {
+        "cid" : 1044,
+        "idx" : "2"
+      },
+      "bg_list" : [ 9, 9, 9 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 11,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 1044,
+          "lv" : 45
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "大會荒",
+      "place_id" : 5,
+      "quest_id" : 10442,
+      "difficulty" : 39,
+      "chapter_cnt" : 3,
+      "area_id" : 1
+    },
     "20072" : {
       "append_skill" : { },
       "bg_list" : [ 1, 1, 1 ],
@@ -38839,6 +38862,32 @@
       "difficulty" : 28,
       "chapter_cnt" : 3,
       "area_id" : 2
+    },
+    "10441" : {
+      "append_skill" : {
+        "cid" : 1044,
+        "idx" : "1"
+      },
+      "bg_list" : [ 2, 2, 2 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 7,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 1044,
+          "lv" : 1
+        }, {
+          "cid" : 1044,
+          "lv" : 15
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "大山之頂",
+      "place_id" : 9,
+      "quest_id" : 10441,
+      "difficulty" : 21,
+      "chapter_cnt" : 3,
+      "area_id" : 1
     },
     "20073" : {
       "append_skill" : {
@@ -40487,6 +40536,32 @@
       "chapter_cnt" : 1,
       "area_id" : 1
     },
+    "10411" : {
+      "append_skill" : { },
+      "bg_list" : [ 9, 8, 8 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 7,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 1041,
+          "lv" : 15
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "聖王女尤莉安娜",
+      "place_id" : 5,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 10411,
+      "difficulty" : 21,
+      "chapter_cnt" : 3,
+      "area_id" : 1
+    },
     "80812" : {
       "append_skill" : {
         "cid" : 8081,
@@ -40557,6 +40632,29 @@
       "quest_id" : 80810,
       "difficulty" : 0,
       "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "10412" : {
+      "append_skill" : {
+        "cid" : 1041,
+        "idx" : "2"
+      },
+      "bg_list" : [ 1, 9, 9 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 11,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 1041,
+          "lv" : 45
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "為了露依潔",
+      "place_id" : 6,
+      "quest_id" : 10412,
+      "difficulty" : 39,
+      "chapter_cnt" : 3,
       "area_id" : 1
     },
     "10401" : {
@@ -47450,7 +47548,7 @@
       "icon" : "221013",
       "is_casino" : false,
       "kind_prm" : 1,
-      "name" : "收集金幣",
+      "name" : "收集賭場金幣",
       "place_id" : 3,
       "reward_box" : 2,
       "reward_data" : {
@@ -55507,21 +55605,21 @@
       "field_type" : [ 0, 0, 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "容赦しません",
+        "helper_comment" : "絕不容情。",
         "cid" : 1008,
         "hp" : 7390,
         "lv" : 70,
         "atk" : 6800
       }, {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "どっか～～ん！",
+        "helper_comment" : "碰～～！",
         "cid" : 1044,
         "hp" : 10000,
         "lv" : 80,
         "atk" : 9200
       }, {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "勝利をこの手に！",
+        "helper_comment" : "用這雙手取得勝利！",
         "cid" : 1041,
         "hp" : 9700,
         "lv" : 80,
@@ -62081,7 +62179,7 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "一緒に吹き飛ぶか？",
+        "helper_comment" : "通通都炸飛吧？",
         "cid" : 11002,
         "hp" : 3700,
         "lv" : 0,
@@ -74289,7 +74387,7 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "一緒に吹き飛ぶか？",
+        "helper_comment" : "通通都炸飛吧？",
         "cid" : 11002,
         "hp" : 3700,
         "lv" : 0,
@@ -76720,7 +76818,7 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "一緒に吹き飛ぶか？",
+        "helper_comment" : "通通都炸飛吧？",
         "cid" : 11002,
         "hp" : 3700,
         "lv" : 0,
@@ -115655,5 +115753,5 @@
     }
   },
   "res" : 0,
-  "deceive" : 1475744460
+  "deceive" : 1476356223
 }
