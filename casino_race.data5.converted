@@ -1,40 +1,6 @@
 {
-  "casino_race" : {
-    "5" : {
-      "tournament_name" : "帝都賞",
-      "bet_min" : 1000,
-      "end" : 1475733599,
-      "presentation_threshold1" : 0,
-      "presentation_threshold2" : 0,
-      "start" : 1475388000,
-      "tournament_id" : 5,
-      "bet_max" : 50000,
-      "tournament_type" : 2
-    },
-    "1" : {
-      "tournament_name" : "低BETクラス",
-      "bet_min" : 100,
-      "end" : 1475733599,
-      "presentation_threshold1" : 1000,
-      "presentation_threshold2" : 10000,
-      "start" : 1465452000,
-      "tournament_id" : 1,
-      "bet_max" : 500,
-      "tournament_type" : 0
-    },
-    "2" : {
-      "tournament_name" : "高BETクラス",
-      "bet_min" : 1000,
-      "end" : 1475733599,
-      "presentation_threshold1" : 1000,
-      "presentation_threshold2" : 10000,
-      "start" : 1465452000,
-      "tournament_id" : 2,
-      "bet_max" : 50000,
-      "tournament_type" : 1
-    }
-  },
+  "casino_race" : { },
   "sv" : "1475140000",
   "res" : 0,
-  "deceive" : 1475650809
+  "deceive" : 1476673207
 }

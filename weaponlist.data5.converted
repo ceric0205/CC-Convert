@@ -9620,6 +9620,20 @@
       "type_cri" : 18,
       "type_grd" : 3
     },
+    "85334" : {
+      "skill" : 158,
+      "rank" : 3,
+      "name" : "杖刀カネサダ",
+      "model" : "weapon85334_body",
+      "id" : 85334,
+      "guardMax" : 12,
+      "criticalMax" : 11,
+      "attackMax" : 12,
+      "type" : 0,
+      "type_atk" : 1,
+      "type_cri" : 2,
+      "type_grd" : 3
+    },
     "26008" : {
       "rank" : 3,
       "name" : "さびた爪",
@@ -12535,7 +12549,20 @@
       "guardMax" : 7,
       "criticalMax" : 10,
       "attackMax" : 13,
-      "type" : 0,
+      "type" : 2,
+      "type_atk" : 1,
+      "type_cri" : 2,
+      "type_grd" : 3
+    },
+    "85383" : {
+      "rank" : 3,
+      "name" : "ヴァイオネル(左）",
+      "model" : "weapon85382_body",
+      "id" : 85383,
+      "guardMax" : 0,
+      "criticalMax" : 0,
+      "attackMax" : 0,
+      "type" : 2,
       "type_atk" : 1,
       "type_cri" : 2,
       "type_grd" : 3
@@ -12548,6 +12575,19 @@
       "guardMax" : 8,
       "criticalMax" : 11,
       "attackMax" : 11,
+      "type" : 0,
+      "type_atk" : 1,
+      "type_cri" : 1,
+      "type_grd" : 1
+    },
+    "85381" : {
+      "rank" : 3,
+      "name" : "ペカード＝エルモーソ(左）",
+      "model" : "weapon85380_body",
+      "id" : 85381,
+      "guardMax" : 0,
+      "criticalMax" : 0,
+      "attackMax" : 0,
       "type" : 0,
       "type_atk" : 1,
       "type_cri" : 1,
@@ -12566,6 +12606,7 @@
       "type_grd" : 3
     },
     "85388" : {
+      "rank" : 3,
       "name" : "ジオーダー・攻",
       "model" : "weapon85385_body",
       "id" : 85388,
@@ -12578,6 +12619,7 @@
       "type_grd" : 3
     },
     "85389" : {
+      "skill" : 1232,
       "rank" : 3,
       "name" : "アーヴァイド",
       "model" : "weapon85385_body",
@@ -12591,6 +12633,7 @@
       "type_grd" : 3
     },
     "85386" : {
+      "skill" : 45002,
       "rank" : 3,
       "name" : "秩序の封剣",
       "model" : "weapon85386_body",
@@ -12631,6 +12674,7 @@
       "type_grd" : 3
     },
     "85385" : {
+      "rank" : 3,
       "name" : "ジオーダー",
       "model" : "weapon85385_body",
       "id" : 85385,
@@ -13566,7 +13610,7 @@
       "type_grd" : 3
     }
   },
-  "sv" : "1475831633",
+  "sv" : "1476422430",
   "res" : 0,
-  "deceive" : 1476165596
+  "deceive" : 1476770399
 }

@@ -102658,6 +102658,7 @@
       "title" : "暗殺者の少女",
       "sup2" : 100013,
       "sup1" : 11027,
+      "disp_quest" : 1,
       "effectid" : 2,
       "str0" : "BE_EnergyBall_a_Dark",
       "illustrator" : "Nidy-2D-",
@@ -114649,6 +114650,7 @@
       "sup2" : 100013,
       "sup1" : 7572,
       "critical" : 0.4,
+      "disp_quest" : 1,
       "illustrator" : "Nidy-2D-",
       "sptext" : "反省するまで……罰します！",
       "spmotname" : "sp_swing_spear02",
@@ -123993,6 +123995,7 @@
       "title" : "流浪の賭博師",
       "sup2" : 100010,
       "sup1" : 8130,
+      "disp_quest" : 1,
       "illustrator" : "仁村有志",
       "sptext" : "運命よ……廻れ",
       "spmotname" : "sp_magic14",
@@ -124045,6 +124048,7 @@
       "title" : "物語る影の英雄",
       "sup2" : 100015,
       "sup1" : 8131,
+      "disp_quest" : 1,
       "illustrator" : "兎塚エイジ",
       "sptext" : "物語は――終わらせない！",
       "spmotname" : "sp_thrust01",
@@ -124098,6 +124102,7 @@
       "sup2" : 100014,
       "sup1" : 8128,
       "critical" : 0.4,
+      "disp_quest" : 1,
       "illustrator" : "カントク",
       "sptext" : "あなたの脳みそはメジャー何個分かしら？",
       "spmotname" : "monk_sp_rush01",
@@ -124203,6 +124208,7 @@
       "title" : "開拓姫",
       "sup2" : 100013,
       "sup1" : 8132,
+      "disp_quest" : 1,
       "illustrator" : "霜月えいと",
       "sptext" : "必ず道は拓ける！",
       "spmotname" : "two-gun_sp_shoot_repeat01",
@@ -124256,6 +124262,7 @@
       "title" : "開拓姫の守護者",
       "sup2" : 100014,
       "sup1" : 8133,
+      "disp_quest" : 1,
       "str0" : "BE_Shotgun_Muzzleflash_a.prefab",
       "illustrator" : "霜月えいと",
       "sptext" : "絶対に守り抜く！",
@@ -137294,7 +137301,7 @@
       "Aparam" : 8
     }
   },
-  "sv" : "1476068254",
+  "sv" : "1476426922",
   "res" : 0,
-  "deceive" : 1476165596
+  "deceive" : 1476770423
 }

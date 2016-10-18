@@ -1,13 +1,6 @@
 {
   "body" : [ {
     "data" : {
-      "expup" : {
-        "cids" : [ 34, 45, 40, 46, 41, 63, 7024 ],
-        "end" : 1476770399,
-        "exp_rate" : 1.5,
-        "id" : 43,
-        "start" : 1474956000
-      },
       "global" : {
         "purchase" : 1,
         "raid_item" : -1,
@@ -60,10 +53,10 @@
   } ],
   "mVer" : {
     "battleinfo" : 1473419366,
-    "booklist" : 1475826222,
+    "booklist" : 1476680875,
     "bossinfo" : 1476073888,
     "casinoinfo" : 1475140000,
-    "charainfo" : 1476068254,
+    "charainfo" : 1476426922,
     "create_weap" : 1,
     "episodeinfo" : 1475833680,
     "eventbadge" : 1475481202,
@@ -71,14 +64,14 @@
     "explorerinfo" : 1453707665,
     "explorerlocation" : 1475658198,
     "homelist" : 1469607167,
-    "itemlist" : 1474625074,
+    "itemlist" : 1476345212,
     "missionlist" : 1475657847,
     "motionlist" : 1475543640,
-    "questdigest" : 1476149913,
+    "questdigest" : 1476698157,
     "reload" : 1465398000,
-    "repeatmissionlist" : 1475039494,
-    "servertime" : 1476370846,
-    "skilllist" : 1475829524,
+    "repeatmissionlist" : 1476190647,
+    "servertime" : 1476771231,
+    "skilllist" : 1476425663,
     "subjugationexpeditioninfo" : 1,
     "supporterskill" : 1475829581,
     "teacherdisciple" : 1455807601,
@@ -86,7 +79,7 @@
     "various" : 1476151057,
     "weaponcompose" : 1475059706,
     "weaponcomposeevent" : 1,
-    "weaponlist" : 1475831633,
+    "weaponlist" : 1476422430,
     "worldinfo" : 1474874777
   },
   "friend" : false,

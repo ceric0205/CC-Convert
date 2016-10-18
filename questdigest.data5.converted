@@ -1,5 +1,5 @@
 {
-  "sv" : "1476149913",
+  "sv" : "1476698157",
   "questdigest" : {
     "0" : {
       "append_skill" : { },
@@ -71596,6 +71596,27 @@
       "chapter_cnt" : 1,
       "area_id" : 16
     },
+    "221323" : {
+      "append_skill" : { },
+      "bg_list" : [ 119, 122, 122 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 10,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "name" : "希望を守りし者たち",
+      "place_id" : 4,
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 85334,
+        "box" : 3
+      },
+      "quest_id" : 221323,
+      "difficulty" : 4,
+      "chapter_cnt" : 3,
+      "area_id" : 15
+    },
     "221316" : {
       "append_skill" : { },
       "bg_list" : [ 110 ],
@@ -109662,6 +109683,144 @@
       "chapter_cnt" : 3,
       "area_id" : 1
     },
+    "246702" : {
+      "append_skill" : { },
+      "bg_list" : [ 10 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "chara_rf",
+        "id" : 90901,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90901,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "深淵の渦体験・１",
+      "sort" : 34,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 90903,
+        "box" : 2
+      },
+      "quest_id" : 246702,
+      "difficulty" : 20,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "246703" : {
+      "append_skill" : { },
+      "bg_list" : [ 10 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 20,
+      "eneset_treasure" : [ {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "深淵の渦体験・４",
+      "sort" : 33,
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 90904,
+        "box" : 3
+      },
+      "quest_id" : 246703,
+      "difficulty" : 50,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "246701" : {
+      "append_skill" : { },
+      "bg_list" : [ 10 ],
+      "chapter_list" : [ 1 ],
+      "stamina" : 10,
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "name" : "深淵へ導く者",
+      "sort" : 35,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 246701,
+      "difficulty" : 16,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "246704" : {
+      "append_skill" : { },
+      "bg_list" : [ 10 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 30,
+      "eneset_treasure" : [ {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "深淵の渦体験・８",
+      "sort" : 32,
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 90904,
+        "box" : 3
+      },
+      "quest_id" : 246704,
+      "difficulty" : 70,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
     "75912" : {
       "append_skill" : {
         "cid" : 7591,
@@ -120814,6 +120973,27 @@
       "chapter_cnt" : 1,
       "area_id" : 14
     },
+    "246207" : {
+      "append_skill" : { },
+      "bg_list" : [ 100, 100 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 4,
+      "field_type" : [ 0, 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "name" : "究極の秩序２",
+      "sort" : 11,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "item",
+        "id" : 2,
+        "box" : 2
+      },
+      "quest_id" : 246207,
+      "difficulty" : 4,
+      "chapter_cnt" : 2,
+      "area_id" : 1
+    },
     "215101" : {
       "append_skill" : { },
       "bg_list" : [ 117 ],
@@ -120904,7 +121084,7 @@
     },
     "246205" : {
       "append_skill" : { },
-      "bg_list" : [ -1 ],
+      "bg_list" : [ 1 ],
       "chapter_list" : [ 0 ],
       "stamina" : 10,
       "eneset_treasure" : [ {
@@ -120926,7 +121106,7 @@
       } ],
       "field_type" : [ 0 ],
       "flag" : { },
-      "icon" : "246206",
+      "icon" : "246205",
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "お試しバラクーダ",
@@ -120971,7 +121151,7 @@
     },
     "246204" : {
       "append_skill" : { },
-      "bg_list" : [ -1 ],
+      "bg_list" : [ 1 ],
       "chapter_list" : [ 0 ],
       "stamina" : 10,
       "eneset_treasure" : [ {
@@ -121049,7 +121229,7 @@
     },
     "246202" : {
       "append_skill" : { },
-      "bg_list" : [ -1 ],
+      "bg_list" : [ 1 ],
       "chapter_list" : [ 0 ],
       "stamina" : 4,
       "eneset_treasure" : [ {
@@ -121088,23 +121268,23 @@
     },
     "246201" : {
       "append_skill" : { },
-      "bg_list" : [ 2, 2, 2 ],
-      "chapter_list" : [ 1, 2, 3 ],
+      "bg_list" : [ 2, 2 ],
+      "chapter_list" : [ 1, 2 ],
       "stamina" : 4,
-      "field_type" : [ 0, 0, 0 ],
+      "field_type" : [ 0, 0 ],
       "flag" : { },
       "is_casino" : false,
-      "name" : "究極の秩序",
-      "sort" : 10,
+      "name" : "究極の秩序１",
+      "sort" : 12,
       "reward_box" : 2,
       "reward_data" : {
         "type" : "item",
-        "id" : 7,
+        "id" : 2,
         "box" : 2
       },
       "quest_id" : 246201,
       "difficulty" : 4,
-      "chapter_cnt" : 3,
+      "chapter_cnt" : 2,
       "area_id" : 1
     },
     "215047" : {
@@ -122222,6 +122402,27 @@
       "difficulty" : 46,
       "chapter_cnt" : 1,
       "area_id" : 14
+    },
+    "246208" : {
+      "append_skill" : { },
+      "bg_list" : [ 100, 100 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 4,
+      "field_type" : [ 0, 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "name" : "究極の秩序３",
+      "sort" : 10,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "item",
+        "id" : 7,
+        "box" : 2
+      },
+      "quest_id" : 246208,
+      "difficulty" : 4,
+      "chapter_cnt" : 2,
+      "area_id" : 1
     },
     "215106" : {
       "append_skill" : { },
@@ -132329,5 +132530,5 @@
     }
   },
   "res" : 0,
-  "deceive" : 1476165604
+  "deceive" : 1476770423
 }
