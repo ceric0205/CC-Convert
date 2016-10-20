@@ -1,11 +1,6 @@
 {
-  "sv" : "1475481202",
-  "event_badge" : [ {
-    "text" : "コラボ",
-    "position" : 4,
-    "start" : 1475215200,
-    "end" : 1476770399
-  } ],
+  "sv" : "1",
+  "event_badge" : [ ],
   "res" : 0,
-  "deceive" : 1476673203
+  "deceive" : 1476946814
 }

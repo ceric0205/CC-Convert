@@ -16,19 +16,6 @@
       "weaponcompose" : {
         "weapon_compose_disabled" : false
       },
-      "totalwar" : {
-        "totalwar_id" : 13,
-        "event_start" : 1476370800,
-        "close" : 1476889199,
-        "event_end" : 1476975599,
-        "token_cnt_per_request" : 100,
-        "banner_image" : "161014_souryokusen_top",
-        "start_cnt" : [ 1, 2, 3, 5 ],
-        "close_interval" : 10,
-        "first_border_ap" : 10,
-        "event_days" : 6,
-        "rest_border_ap" : 30
-      },
       "subjugation_shop_banner" : 0
     },
     "proc" : 0,
@@ -59,7 +46,7 @@
     "charainfo" : 1476426922,
     "create_weap" : 1,
     "episodeinfo" : 1475833680,
-    "eventbadge" : 1475481202,
+    "eventbadge" : 1,
     "eventplace" : 1,
     "explorerinfo" : 1453707665,
     "explorerlocation" : 1475658198,
@@ -70,7 +57,7 @@
     "questdigest" : 1476698157,
     "reload" : 1465398000,
     "repeatmissionlist" : 1476190647,
-    "servertime" : 1476771231,
+    "servertime" : 1476955164,
     "skilllist" : 1476425663,
     "subjugationexpeditioninfo" : 1,
     "supporterskill" : 1475829581,
