@@ -1,6 +1,11 @@
 {
-  "sv" : "1",
-  "event_badge" : [ ],
+  "sv" : "1477293877",
+  "event_badge" : [ {
+    "text" : "SALE!!",
+    "position" : 7,
+    "start" : 1477375200,
+    "end" : 1478584799
+  } ],
   "res" : 0,
-  "deceive" : 1476946814
+  "deceive" : 1477375786
 }

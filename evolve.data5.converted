@@ -1,5 +1,5 @@
 {
-  "sv" : "1476422430",
+  "sv" : "1477033140",
   "evolve" : {
     "26169" : {
       "name" : "スピアハート・速撃",
@@ -5630,6 +5630,17 @@
       "usable1" : -1,
       "usable2" : -1
     },
+    "85364" : {
+      "name" : "真・まどかの弓",
+      "profile" : "まどマギコラボ武器",
+      "rank_limit" : 2,
+      "rarity" : 5,
+      "id" : 85364,
+      "evol_dst" : 85364,
+      "usable0" : -1,
+      "usable1" : -1,
+      "usable2" : -1
+    },
     "26042" : {
       "name" : "ゴールドレイピア・疾",
       "profile" : "ver2.6錬金",
@@ -5677,8 +5688,8 @@
     "85353" : {
       "name" : "杏子の槍",
       "profile" : "まどマギコラボ武器",
-      "rank_limit" : 2,
-      "rarity" : 4,
+      "rank_limit" : 0,
+      "rarity" : 3,
       "id" : 85353,
       "evol_dst" : 85353,
       "usable0" : -1,
@@ -5710,8 +5721,8 @@
     "85355" : {
       "name" : "ほむらの銃",
       "profile" : "まどマギコラボ武器",
-      "rank_limit" : 2,
-      "rarity" : 4,
+      "rank_limit" : 0,
+      "rarity" : 3,
       "id" : 85355,
       "evol_dst" : 85355,
       "usable0" : -1,
@@ -5883,6 +5894,17 @@
       "usable1" : -1,
       "usable2" : -1
     },
+    "85348" : {
+      "name" : "まどかの弓",
+      "profile" : "まどマギコラボ武器",
+      "rank_limit" : 2,
+      "rarity" : 4,
+      "id" : 85348,
+      "evol_dst" : 85348,
+      "usable0" : -1,
+      "usable1" : -1,
+      "usable2" : -1
+    },
     "26026" : {
       "name" : "ワイルドボア・速",
       "profile" : "ver2.6錬金",
@@ -5897,8 +5919,8 @@
     "85351" : {
       "name" : "さやかの剣",
       "profile" : "まどマギコラボ武器",
-      "rank_limit" : 2,
-      "rarity" : 4,
+      "rank_limit" : 0,
+      "rarity" : 3,
       "id" : 85351,
       "evol_dst" : 85351,
       "usable0" : -1,
@@ -5912,6 +5934,17 @@
       "rarity" : 5,
       "id" : 26025,
       "evol_dst" : 26025,
+      "usable0" : -1,
+      "usable1" : -1,
+      "usable2" : -1
+    },
+    "85350" : {
+      "name" : "マミのマスケット銃",
+      "profile" : "まどマギコラボ武器",
+      "rank_limit" : 2,
+      "rarity" : 4,
+      "id" : 85350,
+      "evol_dst" : 85350,
       "usable0" : -1,
       "usable1" : -1,
       "usable2" : -1
@@ -7086,6 +7119,17 @@
       "usable1" : -1,
       "usable2" : -1
     },
+    "85378" : {
+      "name" : "シャキシャキレタスサンド",
+      "profile" : "セブンイレブンコラボ武器",
+      "rank_limit" : 2,
+      "rarity" : 4,
+      "id" : 85378,
+      "evol_dst" : 85378,
+      "usable0" : -1,
+      "usable1" : -1,
+      "usable2" : -1
+    },
     "96925" : {
       "name" : "IXヘッジホッグ",
       "profile" : "レイド用",
@@ -7093,6 +7137,17 @@
       "rarity" : 3,
       "id" : 96925,
       "evol_dst" : 925,
+      "usable0" : -1,
+      "usable1" : -1,
+      "usable2" : -1
+    },
+    "85377" : {
+      "name" : "7カフェ アイスコーヒー",
+      "profile" : "セブンイレブンコラボ武器",
+      "rank_limit" : 0,
+      "rarity" : 3,
+      "id" : 85377,
+      "evol_dst" : 85377,
       "usable0" : -1,
       "usable1" : -1,
       "usable2" : -1
@@ -7154,5 +7209,5 @@
     }
   },
   "res" : 0,
-  "deceive" : 1476770399
+  "deceive" : 1477375229
 }

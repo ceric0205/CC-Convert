@@ -1,5 +1,5 @@
 {
-  "sv" : "1476698157",
+  "sv" : "1477360683",
   "questdigest" : {
     "0" : {
       "append_skill" : { },
@@ -38000,6 +38000,27 @@
       "chapter_cnt" : 1,
       "area_id" : 1
     },
+    "212101" : {
+      "append_skill" : { },
+      "bg_list" : [ 1, 1, 7, 103 ],
+      "chapter_list" : [ 1, 2, 3, 4 ],
+      "stamina" : 20,
+      "field_type" : [ 0, 0, 0, 0 ],
+      "flag" : { },
+      "icon" : "AfterStory01",
+      "is_casino" : false,
+      "name" : "約束の地で",
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 212101,
+      "difficulty" : 58,
+      "chapter_cnt" : 4,
+      "area_id" : 15
+    },
     "50381" : {
       "append_skill" : {
         "cid" : 5038,
@@ -38031,6 +38052,48 @@
       "difficulty" : 0,
       "chapter_cnt" : 1,
       "area_id" : 1
+    },
+    "212103" : {
+      "append_skill" : { },
+      "bg_list" : [ 103, 5, 5 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 20,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : { },
+      "icon" : "AfterStory01",
+      "is_casino" : false,
+      "name" : "未来に向かって",
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 85343,
+        "box" : 3
+      },
+      "quest_id" : 212103,
+      "difficulty" : 65,
+      "chapter_cnt" : 3,
+      "area_id" : 15
+    },
+    "212102" : {
+      "append_skill" : { },
+      "bg_list" : [ 1, 5, 102 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 20,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : { },
+      "icon" : "AfterStory01",
+      "is_casino" : false,
+      "name" : "変化と無変化",
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 212102,
+      "difficulty" : 60,
+      "chapter_cnt" : 3,
+      "area_id" : 15
     },
     "50382" : {
       "append_skill" : {
@@ -43542,6 +43605,28 @@
       "chapter_cnt" : 3,
       "area_id" : 1
     },
+    "212002" : {
+      "append_skill" : { },
+      "bg_list" : [ 7, 7 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 20,
+      "field_type" : [ 0, 0 ],
+      "flag" : { },
+      "icon" : "AfterStory01",
+      "is_casino" : false,
+      "name" : "ある大聖人との会話",
+      "place_id" : 7,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 212002,
+      "difficulty" : 59,
+      "chapter_cnt" : 2,
+      "area_id" : 1
+    },
     "243104" : {
       "append_skill" : { },
       "bg_list" : [ 1, 1 ],
@@ -43561,6 +43646,27 @@
       "quest_id" : 243104,
       "difficulty" : 6,
       "chapter_cnt" : 2,
+      "area_id" : 1
+    },
+    "212003" : {
+      "append_skill" : { },
+      "bg_list" : [ 1, 2, 2 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 20,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "name" : "かみさまの森",
+      "place_id" : 4,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 212003,
+      "difficulty" : 60,
+      "chapter_cnt" : 3,
       "area_id" : 1
     },
     "243107" : {
@@ -43614,6 +43720,28 @@
       "quest_id" : 243106,
       "difficulty" : 8,
       "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "212001" : {
+      "append_skill" : { },
+      "bg_list" : [ 7, 7, 6, 6 ],
+      "chapter_list" : [ 1, 2, 3, 4 ],
+      "stamina" : 20,
+      "field_type" : [ 0, 0, 0, 0 ],
+      "flag" : { },
+      "icon" : "AfterStory01",
+      "is_casino" : false,
+      "name" : "巡礼の聖女",
+      "place_id" : 7,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 212001,
+      "difficulty" : 58,
+      "chapter_cnt" : 4,
       "area_id" : 1
     },
     "50281" : {
@@ -43764,6 +43892,28 @@
       "quest_id" : 243111,
       "difficulty" : 14,
       "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "212004" : {
+      "append_skill" : { },
+      "bg_list" : [ 2, 2, 2 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 20,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : { },
+      "icon" : "AfterStory01",
+      "is_casino" : false,
+      "name" : "ただ、まっすぐに",
+      "place_id" : 4,
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 85342,
+        "box" : 3
+      },
+      "quest_id" : 212004,
+      "difficulty" : 65,
+      "chapter_cnt" : 3,
       "area_id" : 1
     },
     "243110" : {
@@ -48318,6 +48468,19 @@
       "chapter_cnt" : 1,
       "area_id" : 1
     },
+    "50980" : {
+      "append_skill" : { },
+      "bg_list" : [ -1 ],
+      "chapter_list" : [ 1 ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "name" : "登場ルーラ",
+      "quest_id" : 50980,
+      "difficulty" : 0,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
     "80641" : {
       "append_skill" : {
         "cid" : 8064,
@@ -48340,6 +48503,58 @@
       "difficulty" : 31,
       "chapter_cnt" : 2,
       "area_id" : 1
+    },
+    "50981" : {
+      "append_skill" : { },
+      "bg_list" : [ 9, 9 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 15,
+      "field_type" : [ 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 5098,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "極彩色の教え",
+      "place_id" : 1,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 50981,
+      "difficulty" : 34,
+      "chapter_cnt" : 2,
+      "area_id" : 3
+    },
+    "50982" : {
+      "append_skill" : { },
+      "bg_list" : [ 110, 110, 110 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 11,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 5098,
+          "lv" : 30
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "ルーラのお部屋",
+      "place_id" : 2,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 50982,
+      "difficulty" : 43,
+      "chapter_cnt" : 3,
+      "area_id" : 12
     },
     "20133" : {
       "append_skill" : {
@@ -48651,6 +48866,32 @@
       "chapter_cnt" : 3,
       "area_id" : 2
     },
+    "50971" : {
+      "append_skill" : { },
+      "bg_list" : [ 101, 101, 101 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 10,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 5097,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "最速を求めて",
+      "place_id" : 9,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 50971,
+      "difficulty" : 34,
+      "chapter_cnt" : 3,
+      "area_id" : 4
+    },
     "20120" : {
       "append_skill" : { },
       "bg_list" : [ -1 ],
@@ -48659,6 +48900,19 @@
       "name" : "登場クラウス",
       "quest_id" : 20120,
       "difficulty" : 4,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "50970" : {
+      "append_skill" : { },
+      "bg_list" : [ -1 ],
+      "chapter_list" : [ 1 ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "name" : "登場バラクーダ",
+      "quest_id" : 50970,
+      "difficulty" : 0,
       "chapter_cnt" : 1,
       "area_id" : 1
     },
@@ -48777,6 +49031,32 @@
       "difficulty" : 4,
       "chapter_cnt" : 1,
       "area_id" : 1
+    },
+    "50972" : {
+      "append_skill" : { },
+      "bg_list" : [ 101, 101, 101 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 11,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 5097,
+          "lv" : 30
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "熱い生き方",
+      "place_id" : 3,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 50972,
+      "difficulty" : 43,
+      "chapter_cnt" : 3,
+      "area_id" : 10
     },
     "243401" : {
       "append_skill" : { },
@@ -100063,6 +100343,29 @@
       "chapter_cnt" : 1,
       "area_id" : 1009
     },
+    "75422" : {
+      "append_skill" : {
+        "cid" : 7542,
+        "idx" : "2"
+      },
+      "bg_list" : [ 1, 9, 9 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 10,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7542,
+          "lv" : 30
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "秩序に至る過去",
+      "place_id" : 1,
+      "quest_id" : 75422,
+      "difficulty" : 31,
+      "chapter_cnt" : 3,
+      "area_id" : 1
+    },
     "400207" : {
       "append_skill" : { },
       "bg_list" : [ 1, 1, 1 ],
@@ -100118,6 +100421,32 @@
       "difficulty" : 0,
       "chapter_cnt" : 1,
       "area_id" : 1
+    },
+    "75421" : {
+      "append_skill" : { },
+      "bg_list" : [ 2, 2, 2 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 5,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7542,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "秩序による再建",
+      "place_id" : 3,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 75421,
+      "difficulty" : 14,
+      "chapter_cnt" : 3,
+      "area_id" : 4
     },
     "400206" : {
       "append_skill" : { },
@@ -113141,6 +113470,96 @@
       "chapter_cnt" : 2,
       "area_id" : 1
     },
+    "246402" : {
+      "append_skill" : { },
+      "bg_list" : [ 119 ],
+      "chapter_list" : [ 1 ],
+      "stamina" : 5,
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "icon" : "Event005",
+      "is_casino" : false,
+      "name" : "ぼくの居場所",
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 7085,
+        "box" : 3
+      },
+      "quest_id" : 246402,
+      "difficulty" : 4,
+      "chapter_cnt" : 1,
+      "area_id" : 10
+    },
+    "246403" : {
+      "append_skill" : { },
+      "bg_list" : [ 114 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 25,
+      "eneset_treasure" : [ {
+        "type" : "weapon_rf",
+        "id" : 93004,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93010,
+        "val" : 1
+      }, {
+        "type" : "weapon_ev",
+        "id" : 96149,
+        "val" : 1
+      }, {
+        "type" : "weapon_ev",
+        "id" : 85081,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "icon" : "Event005",
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "カボチャ退治・上級",
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 7085,
+        "box" : 3
+      },
+      "quest_id" : 246403,
+      "difficulty" : 50,
+      "chapter_cnt" : 1,
+      "area_id" : 10
+    },
+    "246401" : {
+      "append_skill" : { },
+      "bg_list" : [ 119 ],
+      "chapter_list" : [ 1 ],
+      "stamina" : 5,
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "helpers" : [ [ {
+        "skillflag" : [ true, true, true, false ],
+        "helper_comment" : "骨が折れるぜ。",
+        "enable_act" : false,
+        "cid" : 13010,
+        "hp" : 7600,
+        "lv" : 70,
+        "atk" : 7600
+      } ] ],
+      "icon" : "Event005",
+      "is_casino" : false,
+      "name" : "新しい友だち",
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 7085,
+        "box" : 3
+      },
+      "quest_id" : 246401,
+      "difficulty" : 4,
+      "chapter_cnt" : 1,
+      "area_id" : 10
+    },
     "301506" : {
       "append_skill" : { },
       "bg_list" : [ 8, 8, 8 ],
@@ -121025,7 +121444,7 @@
       "stamina" : 10,
       "eneset_treasure" : [ {
         "type" : "chara_rf",
-        "id" : 90009,
+        "id" : 90005,
         "val" : 1
       }, {
         "type" : "weapon_rf",
@@ -121037,11 +121456,20 @@
         "val" : 1
       }, {
         "type" : "chara_rf",
-        "id" : 90014,
+        "id" : 90010,
         "val" : 1
       } ],
       "field_type" : [ 0 ],
       "flag" : { },
+      "helpers" : [ [ {
+        "skillflag" : [ true, true, true, false ],
+        "helper_comment" : "もぉっと見てっ！",
+        "enable_act" : false,
+        "cid" : 5098,
+        "hp" : 9100,
+        "lv" : 0,
+        "atk" : 9800
+      } ] ],
       "icon" : "246206",
       "is_casino" : false,
       "kind_prm" : 1,
@@ -121088,24 +121516,33 @@
       "chapter_list" : [ 0 ],
       "stamina" : 10,
       "eneset_treasure" : [ {
-        "type" : "item",
-        "id" : 10,
-        "val" : 10000
+        "type" : "chara_rf",
+        "id" : 90005,
+        "val" : 1
       }, {
-        "type" : "item",
-        "id" : 10,
-        "val" : 10000
+        "type" : "weapon_rf",
+        "id" : 93002,
+        "val" : 1
       }, {
-        "type" : "item",
-        "id" : 10,
-        "val" : 15000
+        "type" : "weapon_rf",
+        "id" : 93002,
+        "val" : 1
       }, {
-        "type" : "item",
-        "id" : 10,
-        "val" : 20000
+        "type" : "chara_rf",
+        "id" : 90010,
+        "val" : 1
       } ],
       "field_type" : [ 0 ],
       "flag" : { },
+      "helpers" : [ [ {
+        "skillflag" : [ true, true, true, false ],
+        "helper_comment" : "誰よりも速く！",
+        "enable_act" : false,
+        "cid" : 5097,
+        "hp" : 9600,
+        "lv" : 0,
+        "atk" : 9600
+      } ] ],
       "icon" : "246205",
       "is_casino" : false,
       "kind_prm" : 1,
@@ -132530,5 +132967,5 @@
     }
   },
   "res" : 0,
-  "deceive" : 1476770423
+  "deceive" : 1477375317
 }

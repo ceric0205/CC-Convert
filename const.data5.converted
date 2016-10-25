@@ -1,6 +1,13 @@
 {
   "body" : [ {
     "data" : {
+      "expup" : {
+        "cids" : [ 5097, 5098, 34, 45, 40, 46, 41, 63, 7024 ],
+        "end" : 1478584799,
+        "exp_rate" : 2.0,
+        "id" : 44,
+        "start" : 1477375200
+      },
       "global" : {
         "purchase" : 1,
         "raid_item" : -1,
@@ -15,6 +22,19 @@
       "subjugation" : [ ],
       "weaponcompose" : {
         "weapon_compose_disabled" : false
+      },
+      "totalwar" : {
+        "totalwar_id" : 14,
+        "event_start" : 1476975600,
+        "close" : 1477493999,
+        "event_end" : 1477580399,
+        "token_cnt_per_request" : 100,
+        "banner_image" : "161021_souryokusen_top",
+        "start_cnt" : [ 1, 2, 3, 5 ],
+        "close_interval" : 10,
+        "first_border_ap" : 10,
+        "event_days" : 6,
+        "rest_border_ap" : 30
       },
       "subjugation_shop_banner" : 0
     },
@@ -40,13 +60,13 @@
   } ],
   "mVer" : {
     "battleinfo" : 1473419366,
-    "booklist" : 1476680875,
-    "bossinfo" : 1476073888,
+    "booklist" : 1477284365,
+    "bossinfo" : 1477294779,
     "casinoinfo" : 1475140000,
-    "charainfo" : 1476426922,
+    "charainfo" : 1477294604,
     "create_weap" : 1,
-    "episodeinfo" : 1475833680,
-    "eventbadge" : 1,
+    "episodeinfo" : 1477360681,
+    "eventbadge" : 1477293877,
     "eventplace" : 1,
     "explorerinfo" : 1453707665,
     "explorerlocation" : 1475658198,
@@ -54,19 +74,19 @@
     "itemlist" : 1476345212,
     "missionlist" : 1475657847,
     "motionlist" : 1475543640,
-    "questdigest" : 1476698157,
+    "questdigest" : 1477360683,
     "reload" : 1465398000,
     "repeatmissionlist" : 1476190647,
-    "servertime" : 1476955164,
-    "skilllist" : 1476425663,
+    "servertime" : 1477375765,
+    "skilllist" : 1477300362,
     "subjugationexpeditioninfo" : 1,
-    "supporterskill" : 1475829581,
+    "supporterskill" : 1477117219,
     "teacherdisciple" : 1455807601,
     "uzuinfo" : 1475485891,
     "various" : 1476151057,
     "weaponcompose" : 1475059706,
     "weaponcomposeevent" : 1,
-    "weaponlist" : 1476422430,
+    "weaponlist" : 1477033140,
     "worldinfo" : 1474874777
   },
   "friend" : false,

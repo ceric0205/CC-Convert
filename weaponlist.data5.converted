@@ -3686,9 +3686,9 @@
       "name" : "黒の結晶【秩序】",
       "model" : "weapon85173_body",
       "id" : 26196,
-      "guardMax" : 0,
-      "criticalMax" : 0,
-      "attackMax" : 0,
+      "guardMax" : 1,
+      "criticalMax" : 1,
+      "attackMax" : 1,
       "type" : 0,
       "type_atk" : 1,
       "type_cri" : 2,
@@ -10057,6 +10057,20 @@
       "type_cri" : 5,
       "type_grd" : 3
     },
+    "85364" : {
+      "skill" : 26016,
+      "rank" : 3,
+      "name" : "真・まどかの弓",
+      "model" : "weapon85348_body",
+      "id" : 85364,
+      "guardMax" : 11,
+      "criticalMax" : 10,
+      "attackMax" : 13,
+      "type" : 3,
+      "type_atk" : 1,
+      "type_cri" : 2,
+      "type_grd" : 3
+    },
     "26042" : {
       "rank" : 3,
       "name" : "ゴールドレイピア・疾",
@@ -11662,6 +11676,19 @@
       "type_cri" : 2,
       "type_grd" : 3
     },
+    "85295" : {
+      "rank" : 2,
+      "name" : "ジェマ・ジェンマ",
+      "model" : "weapon85295_body",
+      "id" : 85295,
+      "guardMax" : 6,
+      "criticalMax" : 9,
+      "attackMax" : 9,
+      "type" : 1,
+      "type_atk" : 1,
+      "type_cri" : 2,
+      "type_grd" : 3
+    },
     "26081" : {
       "rank" : 3,
       "name" : "生命の杖・命",
@@ -12593,6 +12620,20 @@
       "type_cri" : 1,
       "type_grd" : 1
     },
+    "85378" : {
+      "skill" : 28067,
+      "rank" : 3,
+      "name" : "シャキシャキレタスサンド",
+      "model" : "weapon85378_body",
+      "id" : 85378,
+      "guardMax" : 10,
+      "criticalMax" : 12,
+      "attackMax" : 10,
+      "type" : 1,
+      "type_atk" : 1,
+      "type_cri" : 2,
+      "type_grd" : 3
+    },
     "85379" : {
       "name" : "まどマギエネミー用武器",
       "model" : "weapon85379_body",
@@ -12601,6 +12642,20 @@
       "criticalMax" : 0,
       "attackMax" : 0,
       "type" : 2,
+      "type_atk" : 1,
+      "type_cri" : 2,
+      "type_grd" : 3
+    },
+    "85377" : {
+      "skill" : 2651,
+      "rank" : 2,
+      "name" : "7カフェ アイスコーヒー",
+      "model" : "weapon85377_body",
+      "id" : 85377,
+      "guardMax" : 4,
+      "criticalMax" : 6,
+      "attackMax" : 8,
+      "type" : 8,
       "type_atk" : 1,
       "type_cri" : 2,
       "type_grd" : 3
@@ -12643,8 +12698,8 @@
       "attackMax" : 12,
       "type" : 0,
       "type_atk" : 1,
-      "type_cri" : 1,
-      "type_grd" : 1
+      "type_cri" : 2,
+      "type_grd" : 3
     },
     "85387" : {
       "skill" : 2650,
@@ -13610,7 +13665,7 @@
       "type_grd" : 3
     }
   },
-  "sv" : "1476422430",
+  "sv" : "1477033140",
   "res" : 0,
-  "deceive" : 1476770399
+  "deceive" : 1477375229
 }
