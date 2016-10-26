@@ -1,5 +1,5 @@
 {
-  "sv" : "1477033140",
+  "sv" : "1477391635",
   "evolve" : {
     "26169" : {
       "name" : "スピアハート・速撃",
@@ -7114,7 +7114,7 @@
       "rank_limit" : 2,
       "rarity" : 4,
       "id" : 85380,
-      "evol_dst" : 85380,
+      "evol_dst" : 85392,
       "usable0" : -1,
       "usable1" : -1,
       "usable2" : -1
@@ -7148,6 +7148,28 @@
       "rarity" : 3,
       "id" : 85377,
       "evol_dst" : 85377,
+      "usable0" : -1,
+      "usable1" : -1,
+      "usable2" : -1
+    },
+    "85390" : {
+      "name" : "ヴォーパル・バニー",
+      "profile" : "Sequels3報酬武器",
+      "rank_limit" : 2,
+      "rarity" : 5,
+      "id" : 85390,
+      "evol_dst" : 85390,
+      "usable0" : -1,
+      "usable1" : -1,
+      "usable2" : -1
+    },
+    "85391" : {
+      "name" : "アウクシリア",
+      "profile" : "Sequels4報酬武器",
+      "rank_limit" : 2,
+      "rarity" : 5,
+      "id" : 85391,
+      "evol_dst" : 85391,
       "usable0" : -1,
       "usable1" : -1,
       "usable2" : -1
@@ -7209,5 +7231,5 @@
     }
   },
   "res" : 0,
-  "deceive" : 1477375229
+  "deceive" : 1477461631
 }

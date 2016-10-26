@@ -12472,6 +12472,19 @@
       "type_cri" : 2,
       "type_grd" : 3
     },
+    "85392" : {
+      "rank" : 3,
+      "name" : "ペカード＝エルモーソ",
+      "model" : "weapon85380_body",
+      "id" : 85392,
+      "guardMax" : 8,
+      "criticalMax" : 11,
+      "attackMax" : 11,
+      "type" : 0,
+      "type_atk" : 1,
+      "type_cri" : 2,
+      "type_grd" : 3
+    },
     "1023" : {
       "name" : "エネミー機族銃腕R",
       "model" : "weapon1023_body",
@@ -12596,7 +12609,7 @@
     },
     "85380" : {
       "rank" : 3,
-      "name" : "ペカード＝エルモーソ",
+      "name" : "クリミ＝ボニタ",
       "model" : "weapon85380_body",
       "id" : 85380,
       "guardMax" : 8,
@@ -12609,7 +12622,7 @@
     },
     "85381" : {
       "rank" : 3,
-      "name" : "ペカード＝エルモーソ(左）",
+      "name" : "クリミ＝ボニタ(左）",
       "model" : "weapon85380_body",
       "id" : 85381,
       "guardMax" : 0,
@@ -12656,6 +12669,34 @@
       "criticalMax" : 6,
       "attackMax" : 8,
       "type" : 8,
+      "type_atk" : 1,
+      "type_cri" : 2,
+      "type_grd" : 3
+    },
+    "85390" : {
+      "skill" : 1067,
+      "rank" : 3,
+      "name" : "ヴォーパル・バニー",
+      "model" : "weapon90060_body",
+      "id" : 85390,
+      "guardMax" : 6,
+      "criticalMax" : 16,
+      "attackMax" : 16,
+      "type" : 0,
+      "type_atk" : 1,
+      "type_cri" : 2,
+      "type_grd" : 3
+    },
+    "85391" : {
+      "skill" : 5091,
+      "rank" : 3,
+      "name" : "アウクシリア",
+      "model" : "weapon85391_body",
+      "id" : 85391,
+      "guardMax" : 10,
+      "criticalMax" : 10,
+      "attackMax" : 10,
+      "type" : 5,
       "type_atk" : 1,
       "type_cri" : 2,
       "type_grd" : 3
@@ -13665,7 +13706,7 @@
       "type_grd" : 3
     }
   },
-  "sv" : "1477033140",
+  "sv" : "1477391635",
   "res" : 0,
-  "deceive" : 1477375229
+  "deceive" : 1477461631
 }
