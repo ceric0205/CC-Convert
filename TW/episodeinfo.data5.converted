@@ -1,5 +1,5 @@
 {
-  "sv" : "1476760947",
+  "sv" : "1477540932",
   "episodeinfo" : {
     "(1,1)" : {
       "episode" : [ {
@@ -2364,6 +2364,32 @@
       "id" : 13003,
       "type" : 0
     },
+    "(13006,0)" : {
+      "episode" : [ {
+        "quest" : [ 130061 ],
+        "name" : "命運物語",
+        "develop_only" : 0
+      }, {
+        "quest" : [ 130062 ],
+        "name" : "羈絆物語",
+        "develop_only" : 0
+      } ],
+      "id" : 13006,
+      "type" : 0
+    },
+    "(13007,0)" : {
+      "episode" : [ {
+        "quest" : [ 130071 ],
+        "name" : "命運物語",
+        "develop_only" : 0
+      }, {
+        "quest" : [ 130072 ],
+        "name" : "羈絆物語",
+        "develop_only" : 0
+      } ],
+      "id" : 13007,
+      "type" : 0
+    },
     "(13004,0)" : {
       "episode" : [ {
         "quest" : [ 130041 ],
@@ -2375,6 +2401,19 @@
         "develop_only" : 0
       } ],
       "id" : 13004,
+      "type" : 0
+    },
+    "(13005,0)" : {
+      "episode" : [ {
+        "quest" : [ 130051 ],
+        "name" : "命運物語",
+        "develop_only" : 0
+      }, {
+        "quest" : [ 130052 ],
+        "name" : "羈絆物語",
+        "develop_only" : 0
+      } ],
+      "id" : 13005,
       "type" : 0
     },
     "(13019,0)" : {
@@ -2395,6 +2434,32 @@
       "id" : 13017,
       "type" : 0
     },
+    "(13023,0)" : {
+      "episode" : [ {
+        "quest" : [ 130231 ],
+        "name" : "命運物語",
+        "develop_only" : 0
+      }, {
+        "quest" : [ 130232 ],
+        "name" : "羈絆物語",
+        "develop_only" : 0
+      } ],
+      "id" : 13023,
+      "type" : 0
+    },
+    "(13022,0)" : {
+      "episode" : [ {
+        "quest" : [ 130221 ],
+        "name" : "命運物語",
+        "develop_only" : 0
+      }, {
+        "quest" : [ 130222 ],
+        "name" : "羈絆物語",
+        "develop_only" : 0
+      } ],
+      "id" : 13022,
+      "type" : 0
+    },
     "(13021,0)" : {
       "episode" : [ {
         "quest" : [ 130211 ],
@@ -2406,6 +2471,45 @@
         "develop_only" : 0
       } ],
       "id" : 13021,
+      "type" : 0
+    },
+    "(13020,0)" : {
+      "episode" : [ {
+        "quest" : [ 130201 ],
+        "name" : "命運物語",
+        "develop_only" : 0
+      }, {
+        "quest" : [ 130202 ],
+        "name" : "羈絆物語",
+        "develop_only" : 0
+      } ],
+      "id" : 13020,
+      "type" : 0
+    },
+    "(13011,0)" : {
+      "episode" : [ {
+        "quest" : [ 130111 ],
+        "name" : "命運物語",
+        "develop_only" : 0
+      }, {
+        "quest" : [ 130112 ],
+        "name" : "羈絆物語",
+        "develop_only" : 0
+      } ],
+      "id" : 13011,
+      "type" : 0
+    },
+    "(13010,0)" : {
+      "episode" : [ {
+        "quest" : [ 130101 ],
+        "name" : "命運物語",
+        "develop_only" : 0
+      }, {
+        "quest" : [ 130102 ],
+        "name" : "羈絆物語",
+        "develop_only" : 0
+      } ],
+      "id" : 13010,
       "type" : 0
     },
     "(13009,0)" : {
@@ -2456,6 +2560,32 @@
       "id" : 13014,
       "type" : 0
     },
+    "(13013,0)" : {
+      "episode" : [ {
+        "quest" : [ 130131 ],
+        "name" : "邂逅物語",
+        "develop_only" : 0
+      }, {
+        "quest" : [ 130132 ],
+        "name" : "羈絆物語",
+        "develop_only" : 0
+      } ],
+      "id" : 13013,
+      "type" : 0
+    },
+    "(13012,0)" : {
+      "episode" : [ {
+        "quest" : [ 130121 ],
+        "name" : "命運物語",
+        "develop_only" : 0
+      }, {
+        "quest" : [ 130122 ],
+        "name" : "羈絆物語",
+        "develop_only" : 0
+      } ],
+      "id" : 13012,
+      "type" : 0
+    },
     "(13024,0)" : {
       "episode" : [ {
         "quest" : [ 130241, 130242 ],
@@ -2485,6 +2615,15 @@
         "develop_only" : 0
       } ],
       "id" : 13026,
+      "type" : 0
+    },
+    "(13028,0)" : {
+      "episode" : [ {
+        "quest" : [ 130281, 130282 ],
+        "name" : "羈絆物語",
+        "develop_only" : 0
+      } ],
+      "id" : 13028,
       "type" : 0
     },
     "(13029,0)" : {
@@ -2903,6 +3042,19 @@
       "id" : 7040,
       "type" : 0
     },
+    "(7071,0)" : {
+      "episode" : [ {
+        "quest" : [ 70711 ],
+        "name" : "命運物語",
+        "develop_only" : 0
+      }, {
+        "quest" : [ 70712 ],
+        "name" : "羈絆物語",
+        "develop_only" : 0
+      } ],
+      "id" : 7071,
+      "type" : 0
+    },
     "(7070,0)" : {
       "episode" : [ {
         "quest" : [ 70701, 70702 ],
@@ -2967,6 +3119,15 @@
         "develop_only" : 0
       } ],
       "id" : 7063,
+      "type" : 0
+    },
+    "(7062,0)" : {
+      "episode" : [ {
+        "quest" : [ 70621, 70622 ],
+        "name" : "羈絆物語",
+        "develop_only" : 0
+      } ],
+      "id" : 7062,
       "type" : 0
     },
     "(7061,0)" : {
@@ -3069,6 +3230,32 @@
         "develop_only" : 0
       } ],
       "id" : 7072,
+      "type" : 0
+    },
+    "(7073,0)" : {
+      "episode" : [ {
+        "quest" : [ 70731 ],
+        "name" : "邂逅物語",
+        "develop_only" : 0
+      }, {
+        "quest" : [ 70732 ],
+        "name" : "羈絆物語",
+        "develop_only" : 0
+      } ],
+      "id" : 7073,
+      "type" : 0
+    },
+    "(7075,0)" : {
+      "episode" : [ {
+        "quest" : [ 70751 ],
+        "name" : "邂逅物語",
+        "develop_only" : 0
+      }, {
+        "quest" : [ 70752 ],
+        "name" : "羈絆物語",
+        "develop_only" : 0
+      } ],
+      "id" : 7075,
       "type" : 0
     },
     "(5023,0)" : {
@@ -3895,6 +4082,15 @@
         "develop_only" : 0
       } ],
       "id" : 7023,
+      "type" : 0
+    },
+    "(7022,0)" : {
+      "episode" : [ {
+        "quest" : [ 70221 ],
+        "name" : "邂逅物語",
+        "develop_only" : 0
+      } ],
+      "id" : 7022,
       "type" : 0
     },
     "(7026,0)" : {
@@ -5006,6 +5202,15 @@
       "id" : 12011,
       "type" : 0
     },
+    "(1042,0)" : {
+      "episode" : [ {
+        "quest" : [ 10421, 10422 ],
+        "name" : "羈絆物語",
+        "develop_only" : 0
+      } ],
+      "id" : 1042,
+      "type" : 0
+    },
     "(12010,0)" : {
       "episode" : [ {
         "quest" : [ 120101 ],
@@ -5170,6 +5375,28 @@
       "id" : 7535,
       "type" : 0
     },
+    "(7527,0)" : {
+      "episode" : [ {
+        "quest" : [ 75271 ],
+        "name" : "命運物語",
+        "develop_only" : 0
+      }, {
+        "quest" : [ 75272 ],
+        "name" : "羈絆物語",
+        "develop_only" : 0
+      } ],
+      "id" : 7527,
+      "type" : 0
+    },
+    "(7526,0)" : {
+      "episode" : [ {
+        "quest" : [ 75261, 75262 ],
+        "name" : "羈絆物語",
+        "develop_only" : 0
+      } ],
+      "id" : 7526,
+      "type" : 0
+    },
     "(7521,0)" : {
       "episode" : [ {
         "quest" : [ 75211 ],
@@ -5190,6 +5417,19 @@
         "develop_only" : 0
       } ],
       "id" : 7522,
+      "type" : 0
+    },
+    "(7550,0)" : {
+      "episode" : [ {
+        "quest" : [ 75501 ],
+        "name" : "邂逅物語",
+        "develop_only" : 0
+      }, {
+        "quest" : [ 75502 ],
+        "name" : "羈絆物語",
+        "develop_only" : 0
+      } ],
+      "id" : 7550,
       "type" : 0
     },
     "(7545,0)" : {
@@ -8132,5 +8372,5 @@
     }
   },
   "res" : 0,
-  "deceive" : 1476954404
+  "deceive" : 1477558870
 }

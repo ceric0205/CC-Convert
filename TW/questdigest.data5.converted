@@ -1,5 +1,5 @@
 {
-  "sv" : "1476945219",
+  "sv" : "1477549308",
   "questdigest" : {
     "0" : {
       "append_skill" : { },
@@ -260,6 +260,31 @@
       "chapter_cnt" : 3,
       "area_id" : 1
     },
+    "130101" : {
+      "append_skill" : { },
+      "bg_list" : [ 119, 119, 119 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 10,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 13010,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "正義之骨",
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 130101,
+      "difficulty" : 36,
+      "chapter_cnt" : 3,
+      "area_id" : 15
+    },
     "88022" : {
       "append_skill" : {
         "cid" : 8802,
@@ -472,6 +497,29 @@
       "difficulty" : 37,
       "chapter_cnt" : 2,
       "area_id" : 10
+    },
+    "130102" : {
+      "append_skill" : {
+        "cid" : 13010,
+        "idx" : "2"
+      },
+      "bg_list" : [ 6, 119, 119 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 12,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 13010,
+          "lv" : 38
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "骷髏的紀念日",
+      "place_id" : 1,
+      "quest_id" : 130102,
+      "difficulty" : 46,
+      "chapter_cnt" : 3,
+      "area_id" : 15
     },
     "88021" : {
       "append_skill" : {
@@ -720,6 +768,32 @@
       "chapter_cnt" : 1,
       "area_id" : 1
     },
+    "130111" : {
+      "append_skill" : { },
+      "bg_list" : [ 119, 13, 13 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 10,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 13011,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "骨架大師",
+      "place_id" : 1,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 130111,
+      "difficulty" : 36,
+      "chapter_cnt" : 3,
+      "area_id" : 15
+    },
     "281603" : {
       "append_skill" : { },
       "bg_list" : [ 12 ],
@@ -907,6 +981,29 @@
       "chapter_cnt" : 1,
       "area_id" : 1
     },
+    "130052" : {
+      "append_skill" : {
+        "cid" : 13005,
+        "idx" : "2"
+      },
+      "bg_list" : [ 13, 13, 9, 9 ],
+      "chapter_list" : [ 1, 2, 3, 4 ],
+      "stamina" : 9,
+      "field_type" : [ 0, 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 13005,
+          "lv" : 45
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "白霧之中",
+      "place_id" : 3,
+      "quest_id" : 130052,
+      "difficulty" : 51,
+      "chapter_cnt" : 4,
+      "area_id" : 15
+    },
     "130050" : {
       "append_skill" : { },
       "bg_list" : [ -1 ],
@@ -919,6 +1016,31 @@
       "difficulty" : 0,
       "chapter_cnt" : 1,
       "area_id" : 1
+    },
+    "130051" : {
+      "append_skill" : { },
+      "bg_list" : [ 119, 119, 119 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 11,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 13005,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "最北的第四小隊",
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 130051,
+      "difficulty" : 38,
+      "chapter_cnt" : 3,
+      "area_id" : 15
     },
     "88032" : {
       "append_skill" : {
@@ -941,6 +1063,29 @@
       "difficulty" : 36,
       "chapter_cnt" : 3,
       "area_id" : 1
+    },
+    "130062" : {
+      "append_skill" : {
+        "cid" : 13006,
+        "idx" : "2"
+      },
+      "bg_list" : [ 119, 119, 122, 122 ],
+      "chapter_list" : [ 1, 2, 3, 4 ],
+      "stamina" : 9,
+      "field_type" : [ 0, 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 13006,
+          "lv" : 38
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "我引以為傲的第四小隊",
+      "place_id" : 1,
+      "quest_id" : 130062,
+      "difficulty" : 46,
+      "chapter_cnt" : 4,
+      "area_id" : 15
     },
     "130060" : {
       "append_skill" : { },
@@ -965,6 +1110,31 @@
       "difficulty" : 4,
       "chapter_cnt" : 1,
       "area_id" : 1
+    },
+    "130061" : {
+      "append_skill" : { },
+      "bg_list" : [ 119, 119 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 15,
+      "field_type" : [ 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 13006,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "我們是第四小隊",
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 130061,
+      "difficulty" : 36,
+      "chapter_cnt" : 2,
+      "area_id" : 15
     },
     "41" : {
       "append_skill" : {
@@ -1068,6 +1238,29 @@
       "difficulty" : 30,
       "chapter_cnt" : 3,
       "area_id" : 1
+    },
+    "130071" : {
+      "append_skill" : {
+        "cid" : 13007,
+        "idx" : "1"
+      },
+      "bg_list" : [ 119, 119, 119 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 10,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 13007,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "第四小隊的首腦",
+      "place_id" : 2,
+      "quest_id" : 130071,
+      "difficulty" : 36,
+      "chapter_cnt" : 3,
+      "area_id" : 15
     },
     "88052" : {
       "append_skill" : {
@@ -1331,6 +1524,29 @@
       "difficulty" : 2,
       "chapter_cnt" : 2,
       "area_id" : 1
+    },
+    "130072" : {
+      "append_skill" : {
+        "cid" : 13007,
+        "idx" : "2"
+      },
+      "bg_list" : [ 119, 119, 119 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 12,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 13007,
+          "lv" : 38
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "鋼鐵的墓碑",
+      "place_id" : 3,
+      "quest_id" : 130072,
+      "difficulty" : 46,
+      "chapter_cnt" : 3,
+      "area_id" : 15
     },
     "60" : {
       "append_skill" : { },
@@ -1718,6 +1934,29 @@
       "chapter_cnt" : 1,
       "area_id" : 1
     },
+    "130112" : {
+      "append_skill" : {
+        "cid" : 13011,
+        "idx" : "2"
+      },
+      "bg_list" : [ 119, 119 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 18,
+      "field_type" : [ 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 13011,
+          "lv" : 38
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "誕生！名為……",
+      "place_id" : 7,
+      "quest_id" : 130112,
+      "difficulty" : 46,
+      "chapter_cnt" : 2,
+      "area_id" : 15
+    },
     "100" : {
       "append_skill" : { },
       "bg_list" : [ -1 ],
@@ -1813,6 +2052,29 @@
       "chapter_cnt" : 3,
       "area_id" : 10
     },
+    "130122" : {
+      "append_skill" : {
+        "cid" : 13012,
+        "idx" : "2"
+      },
+      "bg_list" : [ 122, 119, 119 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 12,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 13012,
+          "lv" : 38
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "骷髏和謬倫",
+      "place_id" : 4,
+      "quest_id" : 130122,
+      "difficulty" : 46,
+      "chapter_cnt" : 3,
+      "area_id" : 15
+    },
     "110" : {
       "append_skill" : { },
       "bg_list" : [ -1 ],
@@ -1836,6 +2098,32 @@
       "difficulty" : 0,
       "chapter_cnt" : 1,
       "area_id" : 1
+    },
+    "130121" : {
+      "append_skill" : { },
+      "bg_list" : [ 119, 122 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 15,
+      "field_type" : [ 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 13012,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "家人和玩家人扮家家酒",
+      "place_id" : 1,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 130121,
+      "difficulty" : 36,
+      "chapter_cnt" : 2,
+      "area_id" : 15
     },
     "70510" : {
       "append_skill" : { },
@@ -1894,6 +2182,32 @@
       "difficulty" : 14,
       "chapter_cnt" : 3,
       "area_id" : 2
+    },
+    "130131" : {
+      "append_skill" : { },
+      "bg_list" : [ 119, 119, 119 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 11,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 13013,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "根絕者",
+      "place_id" : 6,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 130131,
+      "difficulty" : 38,
+      "chapter_cnt" : 3,
+      "area_id" : 15
     },
     "210303" : {
       "append_skill" : { },
@@ -1982,6 +2296,29 @@
       "difficulty" : 9,
       "chapter_cnt" : 3,
       "area_id" : 1
+    },
+    "130132" : {
+      "append_skill" : {
+        "cid" : 13013,
+        "idx" : "2"
+      },
+      "bg_list" : [ 119, 119, 119 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 12,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 13013,
+          "lv" : 30
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "獲勝者",
+      "place_id" : 3,
+      "quest_id" : 130132,
+      "difficulty" : 47,
+      "chapter_cnt" : 3,
+      "area_id" : 15
     },
     "112" : {
       "append_skill" : { },
@@ -2403,6 +2740,32 @@
       "chapter_cnt" : 3,
       "area_id" : 2
     },
+    "130221" : {
+      "append_skill" : { },
+      "bg_list" : [ 119, 119, 119 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 11,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 13022,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "異形的掙扎",
+      "place_id" : 6,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 130221,
+      "difficulty" : 38,
+      "chapter_cnt" : 3,
+      "area_id" : 15
+    },
     "210306" : {
       "append_skill" : { },
       "bg_list" : [ 6, 6, 6 ],
@@ -2501,6 +2864,29 @@
       "difficulty" : 16,
       "chapter_cnt" : 3,
       "area_id" : 2
+    },
+    "130222" : {
+      "append_skill" : {
+        "cid" : 13022,
+        "idx" : "2"
+      },
+      "bg_list" : [ 119, 119, 119 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 12,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 13022,
+          "lv" : 45
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "異形的希望",
+      "place_id" : 7,
+      "quest_id" : 130222,
+      "difficulty" : 51,
+      "chapter_cnt" : 3,
+      "area_id" : 15
     },
     "70540" : {
       "append_skill" : { },
@@ -2780,6 +3166,29 @@
       "chapter_cnt" : 1,
       "area_id" : 1
     },
+    "130232" : {
+      "append_skill" : {
+        "cid" : 13023,
+        "idx" : "2"
+      },
+      "bg_list" : [ 119, 119, 7 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 12,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 13023,
+          "lv" : 30
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "年輕的時候",
+      "place_id" : 3,
+      "quest_id" : 130232,
+      "difficulty" : 47,
+      "chapter_cnt" : 3,
+      "area_id" : 15
+    },
     "70550" : {
       "append_skill" : { },
       "bg_list" : [ -1 ],
@@ -2829,6 +3238,31 @@
       "difficulty" : 0,
       "chapter_cnt" : 1,
       "area_id" : 1
+    },
+    "130231" : {
+      "append_skill" : { },
+      "bg_list" : [ 119, 119, 119 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 11,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 13023,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "時間少女的秘密",
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 130231,
+      "difficulty" : 38,
+      "chapter_cnt" : 3,
+      "area_id" : 15
     },
     "151" : {
       "append_skill" : {
@@ -3162,6 +3596,29 @@
       "chapter_cnt" : 3,
       "area_id" : 10
     },
+    "130202" : {
+      "append_skill" : {
+        "cid" : 13020,
+        "idx" : "2"
+      },
+      "bg_list" : [ 119, 119, 119 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 12,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 13020,
+          "lv" : 45
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "雨過的彩虹",
+      "place_id" : 1,
+      "quest_id" : 130202,
+      "difficulty" : 51,
+      "chapter_cnt" : 3,
+      "area_id" : 15
+    },
     "190" : {
       "append_skill" : { },
       "bg_list" : [ -1 ],
@@ -3207,6 +3664,32 @@
       "difficulty" : 0,
       "chapter_cnt" : 1,
       "area_id" : 1
+    },
+    "130201" : {
+      "append_skill" : { },
+      "bg_list" : [ 119, 119, 119 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 11,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 13020,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "色彩的魔法師",
+      "place_id" : 1,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 130201,
+      "difficulty" : 38,
+      "chapter_cnt" : 3,
+      "area_id" : 15
     },
     "70580" : {
       "append_skill" : { },
@@ -3375,6 +3858,35 @@
       "chapter_cnt" : 1,
       "area_id" : 1
     },
+    "130281" : {
+      "append_skill" : { },
+      "bg_list" : [ 119, 119 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 17,
+      "field_type" : [ 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 13028,
+          "lv" : 1
+        }, {
+          "cid" : 13028,
+          "lv" : 25
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "本大爺是勇者！",
+      "place_id" : 1,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 130281,
+      "difficulty" : 42,
+      "chapter_cnt" : 2,
+      "area_id" : 15
+    },
     "130280" : {
       "append_skill" : { },
       "bg_list" : [ -1 ],
@@ -3431,6 +3943,29 @@
       "difficulty" : 40,
       "chapter_cnt" : 2,
       "area_id" : 10
+    },
+    "130282" : {
+      "append_skill" : {
+        "cid" : 13028,
+        "idx" : "2"
+      },
+      "bg_list" : [ 119, 119, 119, 122 ],
+      "chapter_list" : [ 1, 2, 3, 4 ],
+      "stamina" : 9,
+      "field_type" : [ 0, 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 13028,
+          "lv" : 38
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "想被吹捧！",
+      "place_id" : 1,
+      "quest_id" : 130282,
+      "difficulty" : 46,
+      "chapter_cnt" : 4,
+      "area_id" : 15
     },
     "70600" : {
       "append_skill" : { },
@@ -4389,6 +4924,29 @@
       "chapter_cnt" : 1,
       "area_id" : 1
     },
+    "70622" : {
+      "append_skill" : {
+        "cid" : 7062,
+        "idx" : "2"
+      },
+      "bg_list" : [ 101, 103 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 18,
+      "field_type" : [ 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7062,
+          "lv" : 45
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "壞人的焦慮",
+      "place_id" : 10,
+      "quest_id" : 70622,
+      "difficulty" : 49,
+      "chapter_cnt" : 2,
+      "area_id" : 10
+    },
     "237104" : {
       "append_skill" : { },
       "bg_list" : [ 9 ],
@@ -4649,6 +5207,29 @@
       "difficulty" : 36,
       "chapter_cnt" : 1,
       "area_id" : 1
+    },
+    "70621" : {
+      "append_skill" : {
+        "cid" : 7062,
+        "idx" : "1"
+      },
+      "bg_list" : [ 100, 100, 8 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 16,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7062,
+          "lv" : 15
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "壞人的行事風格",
+      "place_id" : 4,
+      "quest_id" : 70621,
+      "difficulty" : 41,
+      "chapter_cnt" : 3,
+      "area_id" : 10
     },
     "70610" : {
       "append_skill" : { },
@@ -6311,6 +6892,32 @@
       "difficulty" : 4,
       "chapter_cnt" : 1,
       "area_id" : 1
+    },
+    "70221" : {
+      "append_skill" : { },
+      "bg_list" : [ 119, 10, 8 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 10,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7022,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "黑衣的痕跡",
+      "place_id" : 1,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 70221,
+      "difficulty" : 34,
+      "chapter_cnt" : 3,
+      "area_id" : 15
     },
     "331" : {
       "append_skill" : { },
@@ -20248,6 +20855,29 @@
       "chapter_cnt" : 2,
       "area_id" : 1
     },
+    "70752" : {
+      "append_skill" : {
+        "cid" : 7075,
+        "idx" : "2"
+      },
+      "bg_list" : [ 1, 1, 1 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 11,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7075,
+          "lv" : 30
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "必須強奪的東西",
+      "place_id" : 1,
+      "quest_id" : 70752,
+      "difficulty" : 45,
+      "chapter_cnt" : 3,
+      "area_id" : 10
+    },
     "281410" : {
       "append_skill" : { },
       "bg_list" : [ 8 ],
@@ -20324,6 +20954,32 @@
       "chapter_cnt" : 1,
       "area_id" : 1
     },
+    "70751" : {
+      "append_skill" : { },
+      "bg_list" : [ 101, 101 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 15,
+      "field_type" : [ 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7075,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "橫奪的海盜　多洛塞爾",
+      "place_id" : 2,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 70751,
+      "difficulty" : 36,
+      "chapter_cnt" : 2,
+      "area_id" : 10
+    },
     "281412" : {
       "append_skill" : { },
       "bg_list" : [ 8 ],
@@ -20361,6 +21017,52 @@
       "difficulty" : 34,
       "chapter_cnt" : 1,
       "area_id" : 1
+    },
+    "70732" : {
+      "append_skill" : {
+        "cid" : 7073,
+        "idx" : "2"
+      },
+      "bg_list" : [ 1, 2, 2 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 11,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7073,
+          "lv" : 38
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "這次也是下次也是天國！",
+      "place_id" : 1,
+      "quest_id" : 70732,
+      "difficulty" : 44,
+      "chapter_cnt" : 3,
+      "area_id" : 10
+    },
+    "70731" : {
+      "append_skill" : {
+        "cid" : 7073,
+        "idx" : "1"
+      },
+      "bg_list" : [ 100, 9 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 15,
+      "field_type" : [ 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7073,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "追求金錢的信徒 ",
+      "place_id" : 5,
+      "quest_id" : 70731,
+      "difficulty" : 34,
+      "chapter_cnt" : 2,
+      "area_id" : 10
     },
     "70721" : {
       "append_skill" : { },
@@ -20435,6 +21137,55 @@
       "quest_id" : 70723,
       "difficulty" : 54,
       "chapter_cnt" : 3,
+      "area_id" : 10
+    },
+    "70712" : {
+      "append_skill" : {
+        "cid" : 7071,
+        "idx" : "2"
+      },
+      "bg_list" : [ 8, 8 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 18,
+      "field_type" : [ 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7071,
+          "lv" : 45
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "真正的祈禱",
+      "place_id" : 4,
+      "quest_id" : 70712,
+      "difficulty" : 49,
+      "chapter_cnt" : 2,
+      "area_id" : 10
+    },
+    "70711" : {
+      "append_skill" : { },
+      "bg_list" : [ 1, 1 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 15,
+      "field_type" : [ 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7071,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "幼小的祈禱",
+      "place_id" : 4,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 70711,
+      "difficulty" : 36,
+      "chapter_cnt" : 2,
       "area_id" : 10
     },
     "70710" : {
@@ -36828,14 +37579,12 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "スキあり！もーらい！",
         "cid" : 7075,
         "hp" : 5600,
         "lv" : 80,
         "atk" : 9700
       } ],
       "flag" : { },
-      "icon" : "taiken_ring201602",
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "嘗試任務",
@@ -40884,6 +41633,55 @@
       "quest_id" : 10420,
       "difficulty" : 0,
       "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "10421" : {
+      "append_skill" : {
+        "cid" : 1042,
+        "idx" : "1"
+      },
+      "bg_list" : [ 1, 8, 8 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 10,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 1042,
+          "lv" : 1
+        }, {
+          "cid" : 1042,
+          "lv" : 30
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "白百合的舞會",
+      "place_id" : 5,
+      "quest_id" : 10421,
+      "difficulty" : 31,
+      "chapter_cnt" : 3,
+      "area_id" : 1
+    },
+    "10422" : {
+      "append_skill" : {
+        "cid" : 1042,
+        "idx" : "2"
+      },
+      "bg_list" : [ 9, 6, 7 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 12,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 1042,
+          "lv" : 60
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "白百合的使徒",
+      "place_id" : 4,
+      "quest_id" : 10422,
+      "difficulty" : 46,
+      "chapter_cnt" : 3,
       "area_id" : 1
     },
     "10411" : {
@@ -89569,6 +90367,52 @@
       "chapter_cnt" : 3,
       "area_id" : 3
     },
+    "75262" : {
+      "append_skill" : {
+        "cid" : 7526,
+        "idx" : "2"
+      },
+      "bg_list" : [ 122, 119, 119 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 12,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7526,
+          "lv" : 45
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "請抱緊我吧",
+      "place_id" : 11,
+      "quest_id" : 75262,
+      "difficulty" : 51,
+      "chapter_cnt" : 3,
+      "area_id" : 15
+    },
+    "75261" : {
+      "append_skill" : {
+        "cid" : 7526,
+        "idx" : "1"
+      },
+      "bg_list" : [ 119, 119, 120 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 11,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7526,
+          "lv" : 15
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "想成為人類",
+      "place_id" : 2,
+      "quest_id" : 75261,
+      "difficulty" : 43,
+      "chapter_cnt" : 3,
+      "area_id" : 15
+    },
     "75260" : {
       "append_skill" : { },
       "bg_list" : [ -1 ],
@@ -89648,6 +90492,29 @@
       "chapter_cnt" : 3,
       "area_id" : 10
     },
+    "75272" : {
+      "append_skill" : {
+        "cid" : 7527,
+        "idx" : "2"
+      },
+      "bg_list" : [ 119, 119, 121, 119 ],
+      "chapter_list" : [ 1, 2, 3, 4 ],
+      "stamina" : 9,
+      "field_type" : [ 0, 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7527,
+          "lv" : 45
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "新的約定",
+      "place_id" : 7,
+      "quest_id" : 75272,
+      "difficulty" : 51,
+      "chapter_cnt" : 4,
+      "area_id" : 15
+    },
     "300602" : {
       "append_skill" : { },
       "bg_list" : [ 11, 11, 11, 11 ],
@@ -89671,6 +90538,32 @@
       "difficulty" : 6,
       "chapter_cnt" : 4,
       "area_id" : 1008
+    },
+    "75271" : {
+      "append_skill" : { },
+      "bg_list" : [ 6, 6, 6 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 11,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7527,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "走在地獄的人",
+      "place_id" : 2,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 75271,
+      "difficulty" : 38,
+      "chapter_cnt" : 3,
+      "area_id" : 15
     },
     "300603" : {
       "append_skill" : { },
@@ -93830,6 +94723,52 @@
       "difficulty" : 54,
       "chapter_cnt" : 3,
       "area_id" : 12
+    },
+    "75501" : {
+      "append_skill" : {
+        "cid" : 7550,
+        "idx" : "1"
+      },
+      "bg_list" : [ 119, 119, 119 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 11,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7550,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "騎士的一族",
+      "place_id" : 1,
+      "quest_id" : 75501,
+      "difficulty" : 38,
+      "chapter_cnt" : 3,
+      "area_id" : 15
+    },
+    "75502" : {
+      "append_skill" : {
+        "cid" : 7550,
+        "idx" : "2"
+      },
+      "bg_list" : [ 119, 9, 9 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 12,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7550,
+          "lv" : 30
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "繼續被繼承的使命",
+      "place_id" : 3,
+      "quest_id" : 75502,
+      "difficulty" : 47,
+      "chapter_cnt" : 3,
+      "area_id" : 15
     },
     "40502" : {
       "append_skill" : {
@@ -100714,7 +101653,7 @@
       "flag" : { },
       "icon" : "Emergency01",
       "is_casino" : false,
-      "name" : "自掃門前雪2",
+      "name" : "門前掃除2",
       "place_id" : 7,
       "reward_box" : 1,
       "reward_data" : {
@@ -100736,7 +101675,7 @@
       "flag" : { },
       "icon" : "Emergency01",
       "is_casino" : false,
-      "name" : "自掃門前雪3",
+      "name" : "門前掃除3",
       "place_id" : 7,
       "reward_box" : 1,
       "reward_data" : {
@@ -100758,7 +101697,7 @@
       "flag" : { },
       "icon" : "Emergency01",
       "is_casino" : false,
-      "name" : "自掃門前雪4",
+      "name" : "門前掃除4",
       "place_id" : 7,
       "reward_box" : 1,
       "reward_data" : {
@@ -101052,7 +101991,7 @@
       "flag" : { },
       "icon" : "Emergency01",
       "is_casino" : false,
-      "name" : "自掃門前雪1",
+      "name" : "門前掃除1",
       "place_id" : 7,
       "reward_box" : 1,
       "reward_data" : {
@@ -102224,7 +103163,7 @@
       "field_type" : [ 0, 0, 0 ],
       "flag" : { },
       "is_casino" : false,
-      "name" : "王都進撃１",
+      "name" : "王都進擊1",
       "reward_box" : 1,
       "reward_data" : {
         "type" : "box",
@@ -116559,5 +117498,5 @@
     }
   },
   "res" : 0,
-  "deceive" : 1476954434
+  "deceive" : 1477558902
 }
