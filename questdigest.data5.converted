@@ -1,5 +1,5 @@
 {
-  "sv" : "1477360683",
+  "sv" : "1477879174",
   "questdigest" : {
     "0" : {
       "append_skill" : { },
@@ -38066,7 +38066,7 @@
       "reward_box" : 3,
       "reward_data" : {
         "type" : "card",
-        "id" : 85343,
+        "id" : 85391,
         "box" : 3
       },
       "quest_id" : 212103,
@@ -42349,6 +42349,54 @@
       "chapter_cnt" : 3,
       "area_id" : 1
     },
+    "280011" : {
+      "append_skill" : { },
+      "bg_list" : [ 6 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "weapon_rf",
+        "id" : 93001,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93001,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90005,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90010,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "helpers" : [ [ {
+        "skillflag" : [ true, true, true, false ],
+        "helper_comment" : "あの子もこの子もぴっかぴかでしょ！\\n[FF0000]ラブラは<打>武器を持った味方を\\nパワーアップさせることができます！",
+        "enable_act" : true,
+        "cid" : 3049,
+        "hp" : 9100,
+        "lv" : 80,
+        "atk" : 9350
+      } ] ],
+      "icon" : "280011",
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "お試しクエスト",
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 90015,
+        "box" : 3
+      },
+      "quest_id" : 280011,
+      "difficulty" : 24,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
     "80052" : {
       "append_skill" : {
         "cid" : 8005,
@@ -43655,6 +43703,7 @@
       "stamina" : 20,
       "field_type" : [ 0, 0, 0 ],
       "flag" : { },
+      "icon" : "AfterStory01",
       "is_casino" : false,
       "name" : "かみさまの森",
       "place_id" : 4,
@@ -43908,7 +43957,7 @@
       "reward_box" : 3,
       "reward_data" : {
         "type" : "card",
-        "id" : 85342,
+        "id" : 85390,
         "box" : 3
       },
       "quest_id" : 212004,
@@ -54583,6 +54632,84 @@
       "chapter_cnt" : 1,
       "area_id" : 1
     },
+    "221017" : {
+      "append_skill" : { },
+      "bg_list" : [ 110 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "item",
+        "id" : 11,
+        "val" : 200
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "VSゼィヒア",
+      "place_id" : 6,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 221017,
+      "difficulty" : 60,
+      "chapter_cnt" : 1,
+      "area_id" : 12
+    },
+    "221016" : {
+      "append_skill" : { },
+      "bg_list" : [ 110 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "item",
+        "id" : 11,
+        "val" : 200
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "VSヴァレリオ",
+      "place_id" : 6,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 221016,
+      "difficulty" : 59,
+      "chapter_cnt" : 1,
+      "area_id" : 12
+    },
     "81301" : {
       "append_skill" : {
         "cid" : 8130,
@@ -54714,6 +54841,45 @@
       },
       "quest_id" : 221012,
       "difficulty" : 55,
+      "chapter_cnt" : 1,
+      "area_id" : 12
+    },
+    "221015" : {
+      "append_skill" : { },
+      "bg_list" : [ 110 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "item",
+        "id" : 11,
+        "val" : 200
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "VSザエル",
+      "place_id" : 6,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 221015,
+      "difficulty" : 59,
       "chapter_cnt" : 1,
       "area_id" : 12
     },
@@ -56847,6 +57013,45 @@
       "chapter_cnt" : 1,
       "area_id" : 13
     },
+    "221114" : {
+      "append_skill" : { },
+      "bg_list" : [ 112 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "item",
+        "id" : 11,
+        "val" : 200
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "VSアル",
+      "place_id" : 2,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 221114,
+      "difficulty" : 60,
+      "chapter_cnt" : 1,
+      "area_id" : 13
+    },
     "81271" : {
       "append_skill" : { },
       "bg_list" : [ 12, 12 ],
@@ -56885,6 +57090,84 @@
       "difficulty" : 0,
       "chapter_cnt" : 1,
       "area_id" : 1
+    },
+    "221112" : {
+      "append_skill" : { },
+      "bg_list" : [ 113 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "item",
+        "id" : 11,
+        "val" : 200
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "VSナロ",
+      "place_id" : 2,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 221112,
+      "difficulty" : 59,
+      "chapter_cnt" : 1,
+      "area_id" : 13
+    },
+    "221113" : {
+      "append_skill" : { },
+      "bg_list" : [ 112 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "item",
+        "id" : 11,
+        "val" : 200
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "VSリン",
+      "place_id" : 2,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 221113,
+      "difficulty" : 60,
+      "chapter_cnt" : 1,
+      "area_id" : 13
     },
     "211202" : {
       "append_skill" : { },
@@ -59599,6 +59882,44 @@
       "chapter_cnt" : 1,
       "area_id" : 11
     },
+    "220911" : {
+      "append_skill" : { },
+      "bg_list" : [ 106 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "item",
+        "id" : 11,
+        "val" : 200
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "VSユギギ",
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 220911,
+      "difficulty" : 44,
+      "chapter_cnt" : 1,
+      "area_id" : 11
+    },
     "80930" : {
       "append_skill" : { },
       "bg_list" : [ -1 ],
@@ -59611,6 +59932,44 @@
       "difficulty" : 0,
       "chapter_cnt" : 1,
       "area_id" : 1
+    },
+    "220910" : {
+      "append_skill" : { },
+      "bg_list" : [ 106 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "item",
+        "id" : 11,
+        "val" : 200
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "VSグララオ",
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 220910,
+      "difficulty" : 44,
+      "chapter_cnt" : 1,
+      "area_id" : 11
     },
     "80931" : {
       "append_skill" : {
@@ -59784,6 +60143,44 @@
       },
       "quest_id" : 220906,
       "difficulty" : 52,
+      "chapter_cnt" : 1,
+      "area_id" : 11
+    },
+    "220912" : {
+      "append_skill" : { },
+      "bg_list" : [ 103 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "item",
+        "id" : 11,
+        "val" : 200
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "VSバルクス",
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 220912,
+      "difficulty" : 58,
       "chapter_cnt" : 1,
       "area_id" : 11
     },
@@ -71688,6 +72085,45 @@
       "chapter_cnt" : 2,
       "area_id" : 1
     },
+    "221324" : {
+      "append_skill" : { },
+      "bg_list" : [ 121 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "item",
+        "id" : 11,
+        "val" : 200
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "VSマスカルウィン",
+      "place_id" : 8,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 221324,
+      "difficulty" : 62,
+      "chapter_cnt" : 1,
+      "area_id" : 16
+    },
     "241102" : {
       "append_skill" : { },
       "bg_list" : [ 2, 2 ],
@@ -71710,6 +72146,45 @@
       "chapter_cnt" : 2,
       "area_id" : 1
     },
+    "221325" : {
+      "append_skill" : { },
+      "bg_list" : [ 121 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "item",
+        "id" : 11,
+        "val" : 200
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "VSラベゼリン",
+      "place_id" : 8,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 221325,
+      "difficulty" : 62,
+      "chapter_cnt" : 1,
+      "area_id" : 16
+    },
     "241103" : {
       "append_skill" : { },
       "bg_list" : [ 13, 13, 13, 114 ],
@@ -71731,6 +72206,45 @@
       "difficulty" : 19,
       "chapter_cnt" : 4,
       "area_id" : 1
+    },
+    "221326" : {
+      "append_skill" : { },
+      "bg_list" : [ 121 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "item",
+        "id" : 11,
+        "val" : 200
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "VS暴走バルクス",
+      "place_id" : 8,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 221326,
+      "difficulty" : 68,
+      "chapter_cnt" : 1,
+      "area_id" : 16
     },
     "241101" : {
       "append_skill" : { },
@@ -72208,6 +72722,32 @@
       "chapter_cnt" : 1,
       "area_id" : 16
     },
+    "30491" : {
+      "append_skill" : { },
+      "bg_list" : [ 3, 1, 6 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 6,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 3049,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "迷宮山脈の女傑",
+      "place_id" : 3,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 30491,
+      "difficulty" : 14,
+      "chapter_cnt" : 3,
+      "area_id" : 2
+    },
     "221302" : {
       "append_skill" : { },
       "bg_list" : [ 119 ],
@@ -72246,6 +72786,29 @@
       "difficulty" : 49,
       "chapter_cnt" : 1,
       "area_id" : 15
+    },
+    "30492" : {
+      "append_skill" : {
+        "cid" : 3049,
+        "idx" : "2"
+      },
+      "bg_list" : [ 3, 6 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 9,
+      "field_type" : [ 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 3049,
+          "lv" : 30
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "装飾の価値は",
+      "place_id" : 9,
+      "quest_id" : 30492,
+      "difficulty" : 21,
+      "chapter_cnt" : 2,
+      "area_id" : 2
     },
     "221303" : {
       "append_skill" : { },
@@ -72322,6 +72885,32 @@
       "difficulty" : 8,
       "chapter_cnt" : 1,
       "area_id" : 1
+    },
+    "30493" : {
+      "append_skill" : { },
+      "bg_list" : [ 9, 4, 4 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 16,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 3049,
+          "lv" : 45
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "ラブラの大望",
+      "place_id" : 1,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 30493,
+      "difficulty" : 39,
+      "chapter_cnt" : 3,
+      "area_id" : 3
     },
     "233302" : {
       "append_skill" : { },
@@ -73645,6 +74234,123 @@
       },
       "quest_id" : 221203,
       "difficulty" : 50,
+      "chapter_cnt" : 1,
+      "area_id" : 14
+    },
+    "221212" : {
+      "append_skill" : { },
+      "bg_list" : [ 117 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "item",
+        "id" : 11,
+        "val" : 200
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "VS警邏隊",
+      "place_id" : 7,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 221212,
+      "difficulty" : 52,
+      "chapter_cnt" : 1,
+      "area_id" : 14
+    },
+    "221213" : {
+      "append_skill" : { },
+      "bg_list" : [ 116 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "item",
+        "id" : 11,
+        "val" : 200
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "VS鉄煙軍人",
+      "place_id" : 7,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 221213,
+      "difficulty" : 57,
+      "chapter_cnt" : 1,
+      "area_id" : 14
+    },
+    "221214" : {
+      "append_skill" : { },
+      "bg_list" : [ 118 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "item",
+        "id" : 11,
+        "val" : 200
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "VSアロイス",
+      "place_id" : 7,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 221214,
+      "difficulty" : 66,
       "chapter_cnt" : 1,
       "area_id" : 14
     },
@@ -100516,6 +101222,19 @@
       "chapter_cnt" : 3,
       "area_id" : 1
     },
+    "75420" : {
+      "append_skill" : { },
+      "bg_list" : [ -1 ],
+      "chapter_list" : [ 1 ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "name" : "登場トゥキファト",
+      "quest_id" : 75420,
+      "difficulty" : 0,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
     "400201" : {
       "append_skill" : { },
       "bg_list" : [ 1, 1, 1 ],
@@ -115481,6 +116200,27 @@
       "chapter_cnt" : 3,
       "area_id" : 1016
     },
+    "246302" : {
+      "append_skill" : { },
+      "bg_list" : [ 1 ],
+      "chapter_list" : [ 1 ],
+      "stamina" : 10,
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "name" : "第２話",
+      "sort" : 12,
+      "reward_box" : 1,
+      "reward_data" : {
+        "type" : "item",
+        "id" : 10,
+        "box" : 1
+      },
+      "quest_id" : 246302,
+      "difficulty" : 8,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
     "301420" : {
       "append_skill" : { },
       "bg_list" : [ 7 ],
@@ -115504,6 +116244,27 @@
       "difficulty" : 29,
       "chapter_cnt" : 1,
       "area_id" : 1016
+    },
+    "246303" : {
+      "append_skill" : { },
+      "bg_list" : [ 12 ],
+      "chapter_list" : [ 1 ],
+      "stamina" : 10,
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "name" : "第３話",
+      "sort" : 11,
+      "reward_box" : 1,
+      "reward_data" : {
+        "type" : "item",
+        "id" : 10,
+        "box" : 1
+      },
+      "quest_id" : 246303,
+      "difficulty" : 12,
+      "chapter_cnt" : 1,
+      "area_id" : 1
     },
     "301423" : {
       "append_skill" : { },
@@ -115554,6 +116315,27 @@
       "difficulty" : 34,
       "chapter_cnt" : 3,
       "area_id" : 1016
+    },
+    "246301" : {
+      "append_skill" : { },
+      "bg_list" : [ 2 ],
+      "chapter_list" : [ 1 ],
+      "stamina" : 10,
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "name" : "第１話",
+      "sort" : 13,
+      "reward_box" : 1,
+      "reward_data" : {
+        "type" : "item",
+        "id" : 10,
+        "box" : 1
+      },
+      "quest_id" : 246301,
+      "difficulty" : 5,
+      "chapter_cnt" : 1,
+      "area_id" : 1
     },
     "301409" : {
       "append_skill" : { },
@@ -116528,6 +117310,45 @@
       "chapter_cnt" : 1,
       "area_id" : 1016
     },
+    "246313" : {
+      "append_skill" : { },
+      "bg_list" : [ 1 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 30,
+      "eneset_treasure" : [ {
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90904,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "続・魔法少女の鍛錬",
+      "sort" : 2,
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 90905,
+        "box" : 3
+      },
+      "quest_id" : 246313,
+      "difficulty" : 34,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
     "301403" : {
       "append_skill" : { },
       "bg_list" : [ 123, 123, 123 ],
@@ -116554,6 +117375,27 @@
       "chapter_cnt" : 3,
       "area_id" : 1016
     },
+    "246312" : {
+      "append_skill" : { },
+      "bg_list" : [ 1 ],
+      "chapter_list" : [ 1 ],
+      "stamina" : 10,
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "name" : "最終話",
+      "sort" : 7,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 246312,
+      "difficulty" : 4,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
     "301401" : {
       "append_skill" : { },
       "bg_list" : [ 123, 123, 123 ],
@@ -116573,6 +117415,45 @@
       "difficulty" : 6,
       "chapter_cnt" : 3,
       "area_id" : 1016
+    },
+    "246314" : {
+      "append_skill" : { },
+      "bg_list" : [ 411 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 20,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 1000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 3000
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "ランクアップ",
+      "sort" : 4,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "item",
+        "id" : 1,
+        "box" : 2
+      },
+      "quest_id" : 246314,
+      "difficulty" : 14,
+      "chapter_cnt" : 1,
+      "area_id" : 1
     },
     "301406" : {
       "append_skill" : { },
@@ -116675,6 +117556,225 @@
       "difficulty" : 9,
       "chapter_cnt" : 1,
       "area_id" : 1016
+    },
+    "246305" : {
+      "append_skill" : { },
+      "bg_list" : [ 1 ],
+      "chapter_list" : [ 1 ],
+      "stamina" : 10,
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "name" : "第５話",
+      "sort" : 9,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 246305,
+      "difficulty" : 19,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "246304" : {
+      "append_skill" : { },
+      "bg_list" : [ 2 ],
+      "chapter_list" : [ 1 ],
+      "stamina" : 10,
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "name" : "第４話",
+      "sort" : 10,
+      "reward_box" : 1,
+      "reward_data" : {
+        "type" : "item",
+        "id" : 10,
+        "box" : 1
+      },
+      "quest_id" : 246304,
+      "difficulty" : 16,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "246306" : {
+      "append_skill" : { },
+      "bg_list" : [ 411 ],
+      "chapter_list" : [ 1 ],
+      "stamina" : 10,
+      "field_type" : [ 1 ],
+      "flag" : { },
+      "is_casino" : false,
+      "name" : "第６話",
+      "sort" : 8,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "item",
+        "id" : 7,
+        "box" : 2
+      },
+      "quest_id" : 246306,
+      "difficulty" : 24,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "246309" : {
+      "append_skill" : { },
+      "bg_list" : [ 1 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 15,
+      "eneset_treasure" : [ {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "魔法少女の鍛錬",
+      "sort" : 3,
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 90904,
+        "box" : 3
+      },
+      "quest_id" : 246309,
+      "difficulty" : 14,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "246308" : {
+      "append_skill" : { },
+      "bg_list" : [ 1 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 20,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 2000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 2000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 10000
+      }, {
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "コラボお試し",
+      "sort" : 6,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "item",
+        "id" : 7,
+        "box" : 2
+      },
+      "quest_id" : 246308,
+      "difficulty" : 24,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "246311" : {
+      "append_skill" : { },
+      "bg_list" : [ 411 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 1000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 1000
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      } ],
+      "field_type" : [ 1 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "総力戦超上級お試し",
+      "sort" : 5,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 246311,
+      "difficulty" : 80,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "246310" : {
+      "append_skill" : { },
+      "bg_list" : [ 1 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 20,
+      "eneset_treasure" : [ {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93902,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93902,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "武器のお手入れ",
+      "sort" : 1,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 93902,
+        "box" : 2
+      },
+      "quest_id" : 246310,
+      "difficulty" : 14,
+      "chapter_cnt" : 1,
+      "area_id" : 1
     },
     "301349" : {
       "append_skill" : { },
@@ -121691,7 +122791,7 @@
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "秩序の魔神探し",
-      "sort" : 7,
+      "sort" : 9,
       "reward_box" : 2,
       "reward_data" : {
         "type" : "item",
@@ -132967,5 +134067,5 @@
     }
   },
   "res" : 0,
-  "deceive" : 1477375317
+  "deceive" : 1477897237
 }

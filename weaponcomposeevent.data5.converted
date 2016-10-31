@@ -1,6 +1,21 @@
 {
-  "weapon_compose_event" : { },
-  "sv" : "1",
+  "weapon_compose_event" : {
+    "8" : {
+      "collabo" : {
+        "border_quest_check" : false,
+        "first_message" : "",
+        "hit_message" : "",
+        "hit_voice" : "",
+        "img_name" : ""
+      },
+      "text" : "【魔神襲来】期間錬金",
+      "event_type" : 20,
+      "event_id" : 8,
+      "start" : 1477980000,
+      "end" : 1478671199
+    }
+  },
+  "sv" : "1477823901",
   "res" : 0,
-  "deceive" : 1476673204
+  "deceive" : 1477897212
 }
