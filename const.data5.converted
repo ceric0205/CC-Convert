@@ -19,6 +19,40 @@
         "cost_border2" : 12,
         "type" : 1
       },
+      "raid" : {
+        "raid_id" : 24,
+        "bg" : 2000,
+        "banner" : 1,
+        "event_start" : 1477980000,
+        "event_end" : 1478671199,
+        "close" : 1478584799,
+        "name" : "トゥキファト襲来",
+        "full_time" : 130,
+        "part_time" : 90,
+        "sp_cards" : [ {
+          "cid" : "5097",
+          "skill_id" : "30050"
+        }, {
+          "cid" : "5098",
+          "skill_id" : "30050"
+        }, {
+          "cid" : "7546",
+          "skill_id" : "30051"
+        } ],
+        "full_pirica_time" : 13,
+        "part_pirica_time" : 22,
+        "hp_up" : 2,
+        "atk_up" : 2,
+        "anger_hp_up" : 2,
+        "anger_atk_up" : 2,
+        "anger_battle_time" : 30,
+        "repeat_reward" : {
+          "per_smash_cnt" : 5,
+          "type" : "weapon_ev",
+          "id" : 26000,
+          "val" : 1
+        }
+      },
       "subjugation" : [ ],
       "weaponcompose" : {
         "weapon_compose_disabled" : false
@@ -50,13 +84,13 @@
     "booklist" : 1477284365,
     "bossinfo" : 1477618547,
     "casinoinfo" : 1475140000,
-    "charainfo" : 1477571799,
+    "charainfo" : 1477976075,
     "create_weap" : 1,
     "episodeinfo" : 1477877903,
-    "eventbadge" : 1477293877,
+    "eventbadge" : 1477537897,
     "eventplace" : 1,
     "explorerinfo" : 1453707665,
-    "explorerlocation" : 1475658198,
+    "explorerlocation" : 1477033048,
     "homelist" : 1469607167,
     "itemlist" : 1476345212,
     "missionlist" : 1475657847,
@@ -64,7 +98,7 @@
     "questdigest" : 1477879174,
     "reload" : 1465398000,
     "repeatmissionlist" : 1476190647,
-    "servertime" : 1477898412,
+    "servertime" : 1477980875,
     "skilllist" : 1477634241,
     "subjugationexpeditioninfo" : 1,
     "supporterskill" : 1477461863,
