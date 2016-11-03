@@ -1,5 +1,5 @@
 {
-  "sv" : "1477879174",
+  "sv" : "1477898782",
   "questdigest" : {
     "0" : {
       "append_skill" : { },
@@ -54655,7 +54655,12 @@
         "val" : 200
       } ],
       "field_type" : [ 0 ],
-      "flag" : { },
+      "flag" : {
+        "quest" : [ {
+          "qid" : 211415,
+          "type" : 2
+        } ]
+      },
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "VSゼィヒア",
@@ -54694,7 +54699,12 @@
         "val" : 200
       } ],
       "field_type" : [ 0 ],
-      "flag" : { },
+      "flag" : {
+        "quest" : [ {
+          "qid" : 211415,
+          "type" : 2
+        } ]
+      },
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "VSヴァレリオ",
@@ -54867,7 +54877,12 @@
         "val" : 200
       } ],
       "field_type" : [ 0 ],
-      "flag" : { },
+      "flag" : {
+        "quest" : [ {
+          "qid" : 211415,
+          "type" : 2
+        } ]
+      },
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "VSザエル",
@@ -57036,7 +57051,12 @@
         "val" : 200
       } ],
       "field_type" : [ 0 ],
-      "flag" : { },
+      "flag" : {
+        "quest" : [ {
+          "qid" : 211513,
+          "type" : 2
+        } ]
+      },
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "VSアル",
@@ -57114,7 +57134,12 @@
         "val" : 200
       } ],
       "field_type" : [ 0 ],
-      "flag" : { },
+      "flag" : {
+        "quest" : [ {
+          "qid" : 211513,
+          "type" : 2
+        } ]
+      },
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "VSナロ",
@@ -57153,7 +57178,12 @@
         "val" : 200
       } ],
       "field_type" : [ 0 ],
-      "flag" : { },
+      "flag" : {
+        "quest" : [ {
+          "qid" : 211513,
+          "type" : 2
+        } ]
+      },
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "VSリン",
@@ -59905,7 +59935,12 @@
         "val" : 200
       } ],
       "field_type" : [ 0 ],
-      "flag" : { },
+      "flag" : {
+        "quest" : [ {
+          "qid" : 211313,
+          "type" : 2
+        } ]
+      },
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "VSユギギ",
@@ -59956,7 +59991,12 @@
         "val" : 200
       } ],
       "field_type" : [ 0 ],
-      "flag" : { },
+      "flag" : {
+        "quest" : [ {
+          "qid" : 211313,
+          "type" : 2
+        } ]
+      },
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "VSグララオ",
@@ -60169,7 +60209,12 @@
         "val" : 200
       } ],
       "field_type" : [ 0 ],
-      "flag" : { },
+      "flag" : {
+        "quest" : [ {
+          "qid" : 211313,
+          "type" : 2
+        } ]
+      },
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "VSバルクス",
@@ -72108,7 +72153,12 @@
         "val" : 200
       } ],
       "field_type" : [ 0 ],
-      "flag" : { },
+      "flag" : {
+        "quest" : [ {
+          "qid" : 211733,
+          "type" : 2
+        } ]
+      },
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "VSマスカルウィン",
@@ -72169,7 +72219,12 @@
         "val" : 200
       } ],
       "field_type" : [ 0 ],
-      "flag" : { },
+      "flag" : {
+        "quest" : [ {
+          "qid" : 211733,
+          "type" : 2
+        } ]
+      },
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "VSラベゼリン",
@@ -72230,7 +72285,12 @@
         "val" : 200
       } ],
       "field_type" : [ 0 ],
-      "flag" : { },
+      "flag" : {
+        "quest" : [ {
+          "qid" : 211733,
+          "type" : 2
+        } ]
+      },
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "VS暴走バルクス",
@@ -74260,7 +74320,12 @@
         "val" : 200
       } ],
       "field_type" : [ 0 ],
-      "flag" : { },
+      "flag" : {
+        "quest" : [ {
+          "qid" : 211614,
+          "type" : 2
+        } ]
+      },
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "VS警邏隊",
@@ -74299,7 +74364,12 @@
         "val" : 200
       } ],
       "field_type" : [ 0 ],
-      "flag" : { },
+      "flag" : {
+        "quest" : [ {
+          "qid" : 211614,
+          "type" : 2
+        } ]
+      },
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "VS鉄煙軍人",
@@ -74338,7 +74408,12 @@
         "val" : 200
       } ],
       "field_type" : [ 0 ],
-      "flag" : { },
+      "flag" : {
+        "quest" : [ {
+          "qid" : 211614,
+          "type" : 2
+        } ]
+      },
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "VSアロイス",
@@ -134067,5 +134142,5 @@
     }
   },
   "res" : 0,
-  "deceive" : 1477897237
+  "deceive" : 1478156489
 }

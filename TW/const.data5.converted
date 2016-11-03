@@ -1,26 +1,6 @@
 {
   "body" : [ {
     "data" : {
-      "cover" : {
-        "cover_id" : 11,
-        "name" : "王都綻放的白百合",
-        "area_id" : 1013,
-        "dist_start" : 1477497600,
-        "event_start" : 1477497600,
-        "event_end" : 1478152800,
-        "dist_end" : 1478152800,
-        "bgm" : "",
-        "normal_fever" : 1,
-        "great_fever" : 1,
-        "sp_cards" : [ 1041, 1044, 1008 ]
-      },
-      "expup" : {
-        "cids" : [ 34, 45, 40, 46, 41, 63, 7024, 1041, 1044, 1008 ],
-        "end" : 1478152799,
-        "exp_rate" : 1.5,
-        "id" : 25,
-        "start" : 1476338400
-      },
       "global" : {
         "purchase" : 1,
         "raid_item" : -1,
@@ -57,10 +37,10 @@
   } ],
   "mVer" : {
     "battleinfo" : 1472724210,
-    "booklist" : 1474432893,
-    "bossinfo" : 1477278994,
+    "booklist" : 1478145667,
+    "bossinfo" : 1478157230,
     "casinoinfo" : 0,
-    "charainfo" : 1477463745,
+    "charainfo" : 1478157234,
     "create_weap" : 1,
     "episodeinfo" : 1477540932,
     "eventbadge" : 1,
@@ -71,13 +51,13 @@
     "itemlist" : 1472724211,
     "missionlist" : 1477283968,
     "motionlist" : 1459929200,
-    "questdigest" : 1477549308,
+    "questdigest" : 1478157378,
     "reload" : 1464594693,
     "repeatmissionlist" : 1473021262,
-    "servertime" : 1477980789,
-    "skilllist" : 1477472684,
+    "servertime" : 1478163898,
+    "skilllist" : 1478157234,
     "subjugationexpeditioninfo" : 1,
-    "supporterskill" : 1477281841,
+    "supporterskill" : 1478157232,
     "teacherdisciple" : 0,
     "uzuinfo" : 0,
     "various" : 1475117341,

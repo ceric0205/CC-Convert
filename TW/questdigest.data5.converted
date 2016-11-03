@@ -1,5 +1,5 @@
 {
-  "sv" : "1477549308",
+  "sv" : "1478157378",
   "questdigest" : {
     "0" : {
       "append_skill" : { },
@@ -2112,7 +2112,7 @@
         } ]
       },
       "is_casino" : false,
-      "name" : "家人和玩家人扮家家酒",
+      "name" : "家人和玩扮家家酒",
       "place_id" : 1,
       "reward_box" : 2,
       "reward_data" : {
@@ -2792,7 +2792,7 @@
       "field_type" : [ 0 ],
       "flag" : { },
       "is_casino" : false,
-      "name" : "古魯＝法爾登場",
+      "name" : "古魯威爾登場",
       "quest_id" : 130220,
       "difficulty" : 0,
       "chapter_cnt" : 1,
@@ -90614,7 +90614,7 @@
       "field_type" : [ 0 ],
       "flag" : { },
       "is_casino" : false,
-      "name" : "瑪斯卡路茵登場",
+      "name" : "馬斯加爾文登場",
       "quest_id" : 75270,
       "difficulty" : 0,
       "chapter_cnt" : 1,
@@ -117498,5 +117498,5 @@
     }
   },
   "res" : 0,
-  "deceive" : 1477558902
+  "deceive" : 1478163659
 }
