@@ -2,11 +2,11 @@
   "body" : [ {
     "data" : {
       "expup" : {
-        "cids" : [ 5097, 5098, 34, 45, 40, 46, 41, 63, 7024 ],
-        "end" : 1478584799,
-        "exp_rate" : 2.0,
-        "id" : 44,
-        "start" : 1477375200
+        "cids" : [ 34, 45, 40, 46, 41, 63, 7024 ],
+        "end" : 1479967199,
+        "exp_rate" : 1.5,
+        "id" : 45,
+        "start" : 1478584800
       },
       "global" : {
         "purchase" : 1,
@@ -80,25 +80,25 @@
     "limit" : 20000
   } ],
   "mVer" : {
-    "battleinfo" : 1473419366,
-    "booklist" : 1477284365,
+    "battleinfo" : 1476329073,
+    "booklist" : 1478497707,
     "bossinfo" : 1477618547,
     "casinoinfo" : 1475140000,
     "charainfo" : 1478064375,
     "create_weap" : 1,
-    "episodeinfo" : 1477898237,
-    "eventbadge" : 1477537897,
-    "eventplace" : 1,
+    "episodeinfo" : 1478226428,
+    "eventbadge" : 1478510441,
+    "eventplace" : 1478510344,
     "explorerinfo" : 1453707665,
-    "explorerlocation" : 1477033048,
+    "explorerlocation" : 1478516382,
     "homelist" : 1469607167,
     "itemlist" : 1476345212,
-    "missionlist" : 1475657847,
+    "missionlist" : 1478509630,
     "motionlist" : 1477389804,
-    "questdigest" : 1477898782,
+    "questdigest" : 1478520643,
     "reload" : 1465398000,
-    "repeatmissionlist" : 1476190647,
-    "servertime" : 1478579075,
+    "repeatmissionlist" : 1478512908,
+    "servertime" : 1478586719,
     "skilllist" : 1478069593,
     "subjugationexpeditioninfo" : 1,
     "supporterskill" : 1478070140,
@@ -108,7 +108,7 @@
     "weaponcompose" : 1475059706,
     "weaponcomposeevent" : 1477823901,
     "weaponlist" : 1477391635,
-    "worldinfo" : 1474874777
+    "worldinfo" : 1478084416
   },
   "friend" : false,
   "exp_up" : 604800,

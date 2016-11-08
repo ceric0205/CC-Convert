@@ -1,6 +1,14 @@
 {
-  "sv" : "1",
-  "place_event_bg" : [ ],
+  "sv" : "1478510344",
+  "place_event_bg" : [ {
+    "area_id" : 1,
+    "place_id" : 0,
+    "bg" : 246,
+    "start" : 1478584800,
+    "end" : 1479949199,
+    "name" : "まどか☆マギカコラボ",
+    "bgm" : [ "BGM_MADOMAGI_03" ]
+  } ],
   "res" : 0,
-  "deceive" : 1476673203
+  "deceive" : 1478585891
 }

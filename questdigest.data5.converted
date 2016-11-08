@@ -1,5 +1,5 @@
 {
-  "sv" : "1477898782",
+  "sv" : "1478520643",
   "questdigest" : {
     "0" : {
       "append_skill" : { },
@@ -63850,6 +63850,68 @@
       "chapter_cnt" : 2,
       "area_id" : 1
     },
+    "220611" : {
+      "append_skill" : { },
+      "wave_cnt" : 8,
+      "bg_list" : [ 8 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 1,
+      "disable_continue" : true,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 100
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 100
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 100
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 100
+      } ],
+      "entry_limited" : {
+        "category" : "home",
+        "param" : {
+          "home" : [ 1 ]
+        }
+      },
+      "field_type" : [ 0 ],
+      "flag" : {
+        "quest" : [ {
+          "qid" : 211733,
+          "type" : 2
+        } ]
+      },
+      "helpers" : [ [ {
+        "skillflag" : [ true, true, true, false ],
+        "helper_comment" : "何度でも、戦えます！",
+        "enable_act" : false,
+        "cid" : 7074,
+        "hp" : 4800,
+        "lv" : 60,
+        "atk" : 7600
+      } ] ],
+      "is_casino" : false,
+      "is_infinite" : true,
+      "kind_prm" : 1,
+      "name" : "義勇軍、死闘再び",
+      "place_id" : 6,
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 7502,
+        "box" : 3
+      },
+      "quest_id" : 220611,
+      "difficulty" : 80,
+      "chapter_cnt" : 1,
+      "area_id" : 6
+    },
     "242401" : {
       "append_skill" : { },
       "bg_list" : [ 12, 12, 12 ],
@@ -63885,6 +63947,33 @@
       "difficulty" : 1,
       "chapter_cnt" : 3,
       "area_id" : 1
+    },
+    "220610" : {
+      "append_skill" : { },
+      "bg_list" : [ 8 ],
+      "chapter_list" : [ 1 ],
+      "stamina" : 10,
+      "field_type" : [ 0 ],
+      "flag" : {
+        "quest" : [ {
+          "qid" : 211733,
+          "type" : 2
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "死闘再び・序",
+      "place_id" : 6,
+      "sort" : 9,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 220610,
+      "difficulty" : 24,
+      "chapter_cnt" : 1,
+      "area_id" : 6
     },
     "242407" : {
       "append_skill" : { },
@@ -98300,6 +98389,45 @@
       "chapter_cnt" : 3,
       "area_id" : 10
     },
+    "82071" : {
+      "append_skill" : { },
+      "bg_list" : [ 10, 10, 10 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 5,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 8207,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "願いの果てに",
+      "place_id" : 8,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 82071,
+      "difficulty" : 14,
+      "chapter_cnt" : 3,
+      "area_id" : 1
+    },
+    "82070" : {
+      "append_skill" : { },
+      "bg_list" : [ -1 ],
+      "chapter_list" : [ 1 ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "name" : "登場まどか",
+      "quest_id" : 82070,
+      "difficulty" : 0,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
     "82060" : {
       "append_skill" : { },
       "bg_list" : [ -1 ],
@@ -98370,6 +98498,122 @@
       "difficulty" : 29,
       "chapter_cnt" : 3,
       "area_id" : 1
+    },
+    "82111" : {
+      "append_skill" : { },
+      "bg_list" : [ 2, 2, 2 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 5,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 8211,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "幻の果実を求めて",
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 82111,
+      "difficulty" : 14,
+      "chapter_cnt" : 3,
+      "area_id" : 4
+    },
+    "82110" : {
+      "append_skill" : { },
+      "bg_list" : [ -1 ],
+      "chapter_list" : [ 1 ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "name" : "登場佐倉杏子",
+      "quest_id" : 82110,
+      "difficulty" : 0,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "82101" : {
+      "append_skill" : { },
+      "bg_list" : [ 12, 12, 12 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 5,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 8210,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "ふたりの女剣士",
+      "place_id" : 7,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 82101,
+      "difficulty" : 14,
+      "chapter_cnt" : 3,
+      "area_id" : 5
+    },
+    "82100" : {
+      "append_skill" : { },
+      "bg_list" : [ -1 ],
+      "chapter_list" : [ 1 ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "name" : "登場美樹さやか",
+      "quest_id" : 82100,
+      "difficulty" : 0,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "82090" : {
+      "append_skill" : { },
+      "bg_list" : [ -1 ],
+      "chapter_list" : [ 1 ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "name" : "登場巴マミ",
+      "quest_id" : 82090,
+      "difficulty" : 0,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "82091" : {
+      "append_skill" : { },
+      "bg_list" : [ 1, 1, 1 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 5,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 8209,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "優等生と問題児",
+      "place_id" : 1,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 82091,
+      "difficulty" : 14,
+      "chapter_cnt" : 3,
+      "area_id" : 2
     },
     "75272" : {
       "append_skill" : {
@@ -98591,6 +98835,19 @@
       "chapter_cnt" : 1,
       "area_id" : 1008
     },
+    "82080" : {
+      "append_skill" : { },
+      "bg_list" : [ -1 ],
+      "chapter_list" : [ 1 ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "name" : "登場ほむら",
+      "quest_id" : 82080,
+      "difficulty" : 0,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
     "300605" : {
       "append_skill" : { },
       "bg_list" : [ 7, 7, 7, 7 ],
@@ -98615,6 +98872,32 @@
       "difficulty" : 7,
       "chapter_cnt" : 4,
       "area_id" : 1008
+    },
+    "82081" : {
+      "append_skill" : { },
+      "bg_list" : [ 10, 10, 10 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 5,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 8208,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "抗いの果てに",
+      "place_id" : 8,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 82081,
+      "difficulty" : 14,
+      "chapter_cnt" : 3,
+      "area_id" : 1
     },
     "300613" : {
       "append_skill" : { },
@@ -98986,6 +99269,32 @@
       "chapter_cnt" : 4,
       "area_id" : 1008
     },
+    "82131" : {
+      "append_skill" : { },
+      "bg_list" : [ 1, 123, 2 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 5,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 8213,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "友久の花",
+      "place_id" : 6,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 82131,
+      "difficulty" : 14,
+      "chapter_cnt" : 3,
+      "area_id" : 2
+    },
     "300622" : {
       "append_skill" : { },
       "bg_list" : [ 7, 7, 7, 7 ],
@@ -99010,6 +99319,19 @@
       "difficulty" : 21,
       "chapter_cnt" : 4,
       "area_id" : 1008
+    },
+    "82130" : {
+      "append_skill" : { },
+      "bg_list" : [ -1 ],
+      "chapter_list" : [ 1 ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "name" : "登場暁美ほむら",
+      "quest_id" : 82130,
+      "difficulty" : 0,
+      "chapter_cnt" : 1,
+      "area_id" : 1
     },
     "300617" : {
       "append_skill" : { },
@@ -99176,6 +99498,19 @@
       "chapter_cnt" : 4,
       "area_id" : 1008
     },
+    "82120" : {
+      "append_skill" : { },
+      "bg_list" : [ -1 ],
+      "chapter_list" : [ 1 ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "name" : "登場百江なぎさ",
+      "quest_id" : 82120,
+      "difficulty" : 0,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
     "400314" : {
       "append_skill" : { },
       "bg_list" : [ 7, 7 ],
@@ -99240,6 +99575,32 @@
       "difficulty" : 29,
       "chapter_cnt" : 1,
       "area_id" : 1008
+    },
+    "82121" : {
+      "append_skill" : { },
+      "bg_list" : [ 1, 1, 9 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 5,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 8212,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "なぎさの選択",
+      "place_id" : 1,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 82121,
+      "difficulty" : 14,
+      "chapter_cnt" : 3,
+      "area_id" : 1
     },
     "400313" : {
       "append_skill" : { },
@@ -116282,14 +116643,15 @@
       "stamina" : 10,
       "field_type" : [ 0 ],
       "flag" : { },
+      "icon" : "madomagi_event1",
       "is_casino" : false,
-      "name" : "第２話",
+      "name" : "学園と魔法少女",
       "sort" : 12,
-      "reward_box" : 1,
+      "reward_box" : 3,
       "reward_data" : {
-        "type" : "item",
-        "id" : 10,
-        "box" : 1
+        "type" : "card",
+        "id" : 8213,
+        "box" : 3
       },
       "quest_id" : 246302,
       "difficulty" : 8,
@@ -116322,19 +116684,20 @@
     },
     "246303" : {
       "append_skill" : { },
-      "bg_list" : [ 12 ],
+      "bg_list" : [ 2 ],
       "chapter_list" : [ 1 ],
       "stamina" : 10,
       "field_type" : [ 0 ],
       "flag" : { },
+      "icon" : "madomagi_event1",
       "is_casino" : false,
-      "name" : "第３話",
+      "name" : "燃える国にて",
       "sort" : 11,
-      "reward_box" : 1,
+      "reward_box" : 3,
       "reward_data" : {
-        "type" : "item",
-        "id" : 10,
-        "box" : 1
+        "type" : "card",
+        "id" : 8213,
+        "box" : 3
       },
       "quest_id" : 246303,
       "difficulty" : 12,
@@ -116398,14 +116761,15 @@
       "stamina" : 10,
       "field_type" : [ 0 ],
       "flag" : { },
+      "icon" : "madomagi_event1",
       "is_casino" : false,
-      "name" : "第１話",
+      "name" : "異世界行きのバス",
       "sort" : 13,
-      "reward_box" : 1,
+      "reward_box" : 3,
       "reward_data" : {
-        "type" : "item",
-        "id" : 10,
-        "box" : 1
+        "type" : "card",
+        "id" : 8213,
+        "box" : 3
       },
       "quest_id" : 246301,
       "difficulty" : 5,
@@ -117409,6 +117773,7 @@
       } ],
       "field_type" : [ 0 ],
       "flag" : { },
+      "icon" : "madomagi_event1",
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "続・魔法少女の鍛錬",
@@ -117457,8 +117822,9 @@
       "stamina" : 10,
       "field_type" : [ 0 ],
       "flag" : { },
+      "icon" : "madomagi_event1",
       "is_casino" : false,
-      "name" : "最終話",
+      "name" : "旅立ちの物語",
       "sort" : 7,
       "reward_box" : 2,
       "reward_data" : {
@@ -117515,6 +117881,7 @@
       } ],
       "field_type" : [ 0 ],
       "flag" : { },
+      "icon" : "madomagi_event1",
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "ランクアップ",
@@ -117639,8 +118006,9 @@
       "stamina" : 10,
       "field_type" : [ 0 ],
       "flag" : { },
+      "icon" : "madomagi_event1",
       "is_casino" : false,
-      "name" : "第５話",
+      "name" : "たどり着いた真相",
       "sort" : 9,
       "reward_box" : 2,
       "reward_data" : {
@@ -117660,14 +118028,15 @@
       "stamina" : 10,
       "field_type" : [ 0 ],
       "flag" : { },
+      "icon" : "madomagi_event1",
       "is_casino" : false,
-      "name" : "第４話",
+      "name" : "古の森にて",
       "sort" : 10,
-      "reward_box" : 1,
+      "reward_box" : 3,
       "reward_data" : {
-        "type" : "item",
-        "id" : 10,
-        "box" : 1
+        "type" : "card",
+        "id" : 8213,
+        "box" : 3
       },
       "quest_id" : 246304,
       "difficulty" : 16,
@@ -117681,8 +118050,9 @@
       "stamina" : 10,
       "field_type" : [ 1 ],
       "flag" : { },
+      "icon" : "madomagi_event1",
       "is_casino" : false,
-      "name" : "第６話",
+      "name" : "戦う少女たち",
       "sort" : 8,
       "reward_box" : 2,
       "reward_data" : {
@@ -117719,6 +118089,7 @@
       } ],
       "field_type" : [ 0 ],
       "flag" : { },
+      "icon" : "madomagi_event1",
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "魔法少女の鍛錬",
@@ -117758,6 +118129,32 @@
       } ],
       "field_type" : [ 0 ],
       "flag" : { },
+      "helpers" : [ [ {
+        "skillflag" : [ true, true, true, false ],
+        "helper_comment" : "ずっと一緒だよ",
+        "enable_act" : false,
+        "cid" : 8207,
+        "hp" : 7200,
+        "lv" : 80,
+        "atk" : 9500
+      }, {
+        "skillflag" : [ true, true, true, false ],
+        "helper_comment" : "この時を待ってた……",
+        "enable_act" : false,
+        "cid" : 8208,
+        "hp" : 6700,
+        "lv" : 80,
+        "atk" : 10000
+      }, {
+        "skillflag" : [ true, true, true, false ],
+        "helper_comment" : "ティロ・フィナーレ！",
+        "enable_act" : false,
+        "cid" : 8209,
+        "hp" : 6600,
+        "lv" : 80,
+        "atk" : 9400
+      } ] ],
+      "icon" : "madomagi_event2",
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "コラボお試し",
@@ -117797,15 +118194,16 @@
       } ],
       "field_type" : [ 1 ],
       "flag" : { },
+      "icon" : "madomagi_event3",
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "総力戦超上級お試し",
       "sort" : 5,
-      "reward_box" : 2,
+      "reward_box" : 3,
       "reward_data" : {
-        "type" : "stone",
-        "id" : 0,
-        "box" : 2
+        "type" : "card",
+        "id" : 90904,
+        "box" : 3
       },
       "quest_id" : 246311,
       "difficulty" : 80,
@@ -117836,6 +118234,7 @@
       } ],
       "field_type" : [ 0 ],
       "flag" : { },
+      "icon" : "madomagi_event1",
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "武器のお手入れ",
@@ -134139,8 +134538,502 @@
       "difficulty" : 24,
       "chapter_cnt" : 1,
       "area_id" : 1
+    },
+    "246806" : {
+      "append_skill" : { },
+      "bg_list" : [ 1 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 25,
+      "eneset_treasure" : [ {
+        "type" : "chara_rf",
+        "id" : 90009,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90014,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90014,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90019,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "竜徹の部屋・騎魔",
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 96045,
+        "box" : 3
+      },
+      "quest_id" : 246806,
+      "difficulty" : 64,
+      "chapter_cnt" : 1,
+      "area_id" : 10
+    },
+    "246807" : {
+      "append_skill" : { },
+      "bg_list" : [ 1 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 25,
+      "eneset_treasure" : [ {
+        "type" : "chara_rf",
+        "id" : 90005,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90010,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90010,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90015,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "竜徹の部屋・戦士",
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 96020,
+        "box" : 3
+      },
+      "quest_id" : 246807,
+      "difficulty" : 72,
+      "chapter_cnt" : 1,
+      "area_id" : 10
+    },
+    "246804" : {
+      "append_skill" : { },
+      "bg_list" : [ 1 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 35,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 5000
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90904,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90904,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "VSオールスターズ",
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 85227,
+        "box" : 3
+      },
+      "quest_id" : 246804,
+      "difficulty" : 70,
+      "chapter_cnt" : 1,
+      "area_id" : 10
+    },
+    "246805" : {
+      "append_skill" : { },
+      "bg_list" : [ 401 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 20,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 1000
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "猫又の恐怖",
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 85206,
+        "box" : 3
+      },
+      "quest_id" : 246805,
+      "difficulty" : 54,
+      "chapter_cnt" : 1,
+      "area_id" : 10
+    },
+    "246802" : {
+      "append_skill" : { },
+      "bg_list" : [ 6 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 36,
+      "eneset_treasure" : [ {
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90904,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90904,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "500万の甘味・激",
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 85005,
+        "box" : 3
+      },
+      "quest_id" : 246802,
+      "difficulty" : 70,
+      "chapter_cnt" : 1,
+      "area_id" : 10
+    },
+    "246803" : {
+      "append_skill" : { },
+      "bg_list" : [ 401 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 35,
+      "eneset_treasure" : [ {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90904,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "夏の思い出・地獄釜",
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 85058,
+        "box" : 3
+      },
+      "quest_id" : 246803,
+      "difficulty" : 70,
+      "chapter_cnt" : 1,
+      "area_id" : 10
+    },
+    "246801" : {
+      "append_skill" : { },
+      "bg_list" : [ 402 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 20,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 1000
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "河童軍団",
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 2063,
+        "box" : 3
+      },
+      "quest_id" : 246801,
+      "difficulty" : 54,
+      "chapter_cnt" : 1,
+      "area_id" : 10
+    },
+    "246812" : {
+      "append_skill" : { },
+      "bg_list" : [ 11 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 30,
+      "eneset_treasure" : [ {
+        "type" : "weapon_rf",
+        "id" : 93902,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90904,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "王城の護り手",
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 79,
+        "box" : 3
+      },
+      "quest_id" : 246812,
+      "difficulty" : 75,
+      "chapter_cnt" : 1,
+      "area_id" : 10
+    },
+    "246813" : {
+      "append_skill" : { },
+      "bg_list" : [ 105 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 35,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 10000
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90904,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90904,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "死闘！三魔神",
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 246813,
+      "difficulty" : 80,
+      "chapter_cnt" : 1,
+      "area_id" : 10
+    },
+    "246810" : {
+      "append_skill" : { },
+      "bg_list" : [ 115 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 20,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 1000
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "急襲！多脚戦車",
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 48,
+        "box" : 3
+      },
+      "quest_id" : 246810,
+      "difficulty" : 54,
+      "chapter_cnt" : 1,
+      "area_id" : 10
+    },
+    "246811" : {
+      "append_skill" : { },
+      "bg_list" : [ 3 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 30,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 10000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 20000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 30000
+      }, {
+        "type" : "weapon_ev",
+        "id" : 26002,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "決死の錬金素材集め",
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 64,
+        "box" : 3
+      },
+      "quest_id" : 246811,
+      "difficulty" : 75,
+      "chapter_cnt" : 1,
+      "area_id" : 10
+    },
+    "246808" : {
+      "append_skill" : { },
+      "bg_list" : [ 1 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 25,
+      "eneset_treasure" : [ {
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90904,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "竜徹の部屋・集合",
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 96120,
+        "box" : 3
+      },
+      "quest_id" : 246808,
+      "difficulty" : 74,
+      "chapter_cnt" : 1,
+      "area_id" : 10
+    },
+    "246809" : {
+      "append_skill" : { },
+      "bg_list" : [ 402 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 30,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 5000
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90904,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90904,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "妖怪大決戦",
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 85038,
+        "box" : 3
+      },
+      "quest_id" : 246809,
+      "difficulty" : 80,
+      "chapter_cnt" : 1,
+      "area_id" : 10
     }
   },
   "res" : 0,
-  "deceive" : 1478156489
+  "deceive" : 1478585907
 }

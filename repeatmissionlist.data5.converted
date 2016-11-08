@@ -1,5 +1,5 @@
 {
-  "sv" : "1476190647",
+  "sv" : "1478512908",
   "repeatmissionlist" : [ {
     "help" : "",
     "title" : "タイムボーナスを達成せよ！",
@@ -23,18 +23,6 @@
     },
     "max_num" : 1,
     "id" : 4,
-    "type" : 0
-  }, {
-    "help" : "",
-    "title" : "必殺フィニッシュボーナスを達成せよ！",
-    "sub_id" : "Result",
-    "reward" : {
-      "id" : "13",
-      "type" : "item",
-      "val" : "1"
-    },
-    "max_num" : 1,
-    "id" : 7,
     "type" : 0
   }, {
     "help" : "",
@@ -81,17 +69,6 @@
     },
     "max_num" : 5,
     "id" : 3,
-    "type" : 1
-  }, {
-    "help" : "5回、バトル中のマナスロットを3つ揃えよう",
-    "title" : "3マナを5回揃えろ",
-    "sub_id" : "Mana",
-    "reward" : {
-      "type" : "stone",
-      "val" : "1"
-    },
-    "max_num" : 5,
-    "id" : 5,
     "type" : 1
   }, {
     "help" : "曜日クエストの宝箱を全て開こう！\\n何曜日でもいいよ！",
@@ -211,42 +188,6 @@
     "id" : 5,
     "type" : 0
   }, {
-    "help" : "最後の敵を魔法使いで倒そう！",
-    "title" : "魔法使いでとどめを刺せ！",
-    "sub_id" : "Finish",
-    "reward" : {
-      "id" : "13",
-      "type" : "item",
-      "val" : "1"
-    },
-    "max_num" : 1,
-    "id" : 6,
-    "type" : 0
-  }, {
-    "help" : "最後の敵を騎士で倒そう！",
-    "title" : "騎士でとどめを刺せ！",
-    "sub_id" : "Finish",
-    "reward" : {
-      "id" : "13",
-      "type" : "item",
-      "val" : "1"
-    },
-    "max_num" : 1,
-    "id" : 8,
-    "type" : 0
-  }, {
-    "help" : "最後の敵を「突」タイプの武器で倒そう！",
-    "title" : "突タイプの武器でとどめを刺せ！",
-    "sub_id" : "Finish",
-    "reward" : {
-      "id" : "13",
-      "type" : "item",
-      "val" : "1"
-    },
-    "max_num" : 1,
-    "id" : 9,
-    "type" : 0
-  }, {
     "help" : "最後の敵を弓使いで倒そう！",
     "title" : "弓使いでとどめを刺せ！",
     "sub_id" : "Finish",
@@ -316,7 +257,67 @@
     "max_num" : 20,
     "id" : 0,
     "type" : 1
+  }, {
+    "help" : "最後の敵を魔法使いで倒そう！",
+    "title" : "魔法使いでとどめを刺せ！",
+    "sub_id" : "Finish",
+    "reward" : {
+      "id" : "10",
+      "type" : "item",
+      "val" : "1000"
+    },
+    "max_num" : 1,
+    "id" : 6,
+    "type" : 0
+  }, {
+    "help" : "",
+    "title" : "必殺フィニッシュボーナスを達成せよ！",
+    "sub_id" : "Result",
+    "reward" : {
+      "id" : "10",
+      "type" : "item",
+      "val" : "1000"
+    },
+    "max_num" : 1,
+    "id" : 7,
+    "type" : 0
+  }, {
+    "help" : "最後の敵を騎士で倒そう！",
+    "title" : "騎士でとどめを刺せ！",
+    "sub_id" : "Finish",
+    "reward" : {
+      "id" : "10",
+      "type" : "item",
+      "val" : "1000"
+    },
+    "max_num" : 1,
+    "id" : 8,
+    "type" : 0
+  }, {
+    "help" : "最後の敵を「突」タイプの武器で倒そう！",
+    "title" : "突タイプの武器でとどめを刺せ！",
+    "sub_id" : "Finish",
+    "reward" : {
+      "id" : "10",
+      "type" : "item",
+      "val" : "1000"
+    },
+    "max_num" : 1,
+    "id" : 9,
+    "type" : 0
+  }, {
+    "help" : "5回、バトル中のマナスロットを3つ揃えよう",
+    "title" : "3マナを5回揃えろ",
+    "sub_id" : "Mana",
+    "reward" : {
+      "id" : "10",
+      "type" : "item",
+      "val" : "1000"
+    },
+    "max_num" : 5,
+    "id" : 5,
+    "type" : 1
   } ],
   "res" : 0,
-  "deceive" : 1476770397
+  "deceive" : 1478585891
 }
