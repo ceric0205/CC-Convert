@@ -1,5 +1,5 @@
 {
-  "sv" : "1475543640",
+  "sv" : "1477389804",
   "motionlist" : {
     "11000" : {
       "_appear" : "damage02",
@@ -3950,16 +3950,16 @@
       "_motionID" : 2013
     },
     "14001" : {
-      "_appear" : "neutral01",
+      "_appear" : "appear01",
       "_atk" : "neutral01",
       "_atk2" : "neutral01",
       "_boneType" : "kurumi",
       "_charaType" : "くるみ割りの魔女",
-      "_collision" : "neutral01",
-      "_death" : "neutral01",
-      "_dmg_l" : "neutral01",
-      "_dmg_s" : "neutral01",
-      "_guard" : "neutral01",
+      "_collision" : "damage01",
+      "_death" : "dead01",
+      "_dmg_l" : "damage02",
+      "_dmg_s" : "damage01",
+      "_guard" : "damage01",
       "_win" : "neutral01",
       "_shot" : "neutral01",
       "_shot2" : "neutral01",
@@ -4002,7 +4002,7 @@
       "_dmg_l" : "damage02",
       "_dmg_s" : "damage01",
       "_guard" : "attack01",
-      "_win" : "dead01",
+      "_win" : "neutral01",
       "_shot" : "attack01",
       "_shot2" : "attack01",
       "_stun" : "stun01",
@@ -4432,6 +4432,27 @@
       "_walkWarn" : "fighter_walk_tired01",
       "_motionID" : 1003
     },
+    "1408" : {
+      "_appear" : "ah_damage01",
+      "_atk" : "gun_attack_hand01",
+      "_atk2" : "gun_attack_hand02",
+      "_boneType" : "human",
+      "_charaType" : "銃使い・ハンドガン３回攻撃（暁美ほむら対応）",
+      "_collision" : "ah_collision01",
+      "_death" : "ah_dead01",
+      "_dmg_l" : "ah_damage01",
+      "_dmg_s" : "ah_wizard_damage01",
+      "_guard" : "gun_guard01",
+      "_win" : "gun_win01",
+      "_shot" : "gun_attack01_02",
+      "_shot2" : "gun_attack02_02",
+      "_stun" : "ah_stun01",
+      "_wait" : "gun_neutral01",
+      "_waitWarn" : "ah_neutral_tired01",
+      "_walk" : "gun_walk01",
+      "_walkWarn" : "gun_walk_tired01",
+      "_motionID" : 1408
+    },
     "1002" : {
       "_appear" : "damage01",
       "_atk" : "archer_hand_attack01",
@@ -4770,5 +4791,5 @@
     }
   },
   "res" : 0,
-  "deceive" : 1476673204
+  "deceive" : 1478574003
 }
