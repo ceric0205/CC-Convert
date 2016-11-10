@@ -1,5 +1,5 @@
 {
-  "sv" : "1478157378",
+  "sv" : "1478743609",
   "questdigest" : {
     "0" : {
       "append_skill" : { },
@@ -26597,17 +26597,15 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "虹よ…きらめけ！\t",
         "cid" : 13020,
         "hp" : 6400,
         "lv" : 80,
         "atk" : 9700
       } ],
       "flag" : { },
-      "icon" : "Event014",
       "is_casino" : false,
       "kind_prm" : 1,
-      "name" : "魔法彈・上級",
+      "name" : "魔力彈・上級",
       "reward_box" : 3,
       "reward_data" : {
         "type" : "card",
@@ -26644,14 +26642,12 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "ひとりになっても！",
         "cid" : 13005,
         "hp" : 9100,
         "lv" : 80,
         "atk" : 9500
       } ],
       "flag" : { },
-      "icon" : "Event013",
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "迴力鏢・上級",
@@ -26691,17 +26687,15 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "虹よ…きらめけ！\t",
         "cid" : 13020,
         "hp" : 6400,
         "lv" : 80,
         "atk" : 9700
       } ],
       "flag" : { },
-      "icon" : "Event014",
       "is_casino" : false,
       "kind_prm" : 1,
-      "name" : "嘗試魔法彈",
+      "name" : "嘗試魔力彈",
       "reward_box" : 2,
       "reward_data" : {
         "type" : "card",
@@ -26738,14 +26732,12 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "ひとりになっても！",
         "cid" : 13005,
         "hp" : 9100,
         "lv" : 80,
         "atk" : 9500
       } ],
       "flag" : { },
-      "icon" : "Event013",
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "嘗試迴力鏢",
@@ -27112,6 +27104,82 @@
       "chapter_cnt" : 3,
       "area_id" : 10
     },
+    "1000131" : {
+      "append_skill" : { },
+      "bg_list" : [ 1 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 15,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 2000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 3000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 5000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 10000
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "義勇軍的強化費用",
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "box",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 1000131,
+      "difficulty" : 14,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "1000130" : {
+      "append_skill" : { },
+      "bg_list" : [ 1 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 15,
+      "eneset_treasure" : [ {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "義勇軍的武器整備",
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 1000130,
+      "difficulty" : 14,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
     "80231" : {
       "append_skill" : {
         "cid" : 8023,
@@ -27131,6 +27199,44 @@
       "quest_id" : 80231,
       "difficulty" : 14,
       "chapter_cnt" : 3,
+      "area_id" : 1
+    },
+    "1000129" : {
+      "append_skill" : { },
+      "bg_list" : [ 1 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 15,
+      "eneset_treasure" : [ {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "義勇軍的成長",
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 0,
+        "box" : 3
+      },
+      "quest_id" : 1000129,
+      "difficulty" : 18,
+      "chapter_cnt" : 1,
       "area_id" : 1
     },
     "1000128" : {
@@ -46063,6 +46169,78 @@
       "chapter_cnt" : 1,
       "area_id" : 1
     },
+    "50761" : {
+      "append_skill" : {
+        "cid" : 5076,
+        "idx" : "1"
+      },
+      "bg_list" : [ 1, 13, 13 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 5,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 5076,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "白頭鷹戰士",
+      "place_id" : 1,
+      "quest_id" : 50761,
+      "difficulty" : 14,
+      "chapter_cnt" : 3,
+      "area_id" : 1
+    },
+    "50762" : {
+      "append_skill" : { },
+      "bg_list" : [ 9, 13, 13 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 7,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 5076,
+          "lv" : 15
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "煩惱永無止盡",
+      "place_id" : 2,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 50762,
+      "difficulty" : 21,
+      "chapter_cnt" : 3,
+      "area_id" : 1
+    },
+    "50763" : {
+      "append_skill" : {
+        "cid" : 5076,
+        "idx" : "2"
+      },
+      "bg_list" : [ 1, 1 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 18,
+      "field_type" : [ 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 5076,
+          "lv" : 30
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "天空之風",
+      "place_id" : 5,
+      "quest_id" : 50763,
+      "difficulty" : 31,
+      "chapter_cnt" : 2,
+      "area_id" : 1
+    },
     "235002" : {
       "append_skill" : { },
       "bg_list" : [ 13 ],
@@ -47428,27 +47606,6 @@
       },
       "quest_id" : 234902,
       "difficulty" : 5,
-      "chapter_cnt" : 1,
-      "area_id" : 1
-    },
-    "2394151" : {
-      "append_skill" : { },
-      "bg_list" : [ 1 ],
-      "chapter_list" : [ 1 ],
-      "stamina" : 10,
-      "field_type" : [ 0 ],
-      "flag" : { },
-      "is_casino" : false,
-      "name" : "二週年宴會",
-      "sort" : 92,
-      "reward_box" : 2,
-      "reward_data" : {
-        "type" : "stone",
-        "id" : 0,
-        "box" : 2
-      },
-      "quest_id" : 2394151,
-      "difficulty" : 19,
       "chapter_cnt" : 1,
       "area_id" : 1
     },
@@ -58762,7 +58919,7 @@
       "field_type" : [ 0, 0, 0 ],
       "flag" : { },
       "is_casino" : false,
-      "name" : "邁向狹縫大陸",
+      "name" : "邁向夾縫大陸",
       "place_id" : 8,
       "reward_box" : 2,
       "reward_data" : {
@@ -58907,7 +59064,7 @@
       "field_type" : [ 0, 0, 0 ],
       "flag" : { },
       "is_casino" : false,
-      "name" : "時乃鑢",
+      "name" : "時之鑢",
       "place_id" : 5,
       "reward_box" : 2,
       "reward_data" : {
@@ -117498,5 +117655,5 @@
     }
   },
   "res" : 0,
-  "deceive" : 1478163659
+  "deceive" : 1478768538
 }
