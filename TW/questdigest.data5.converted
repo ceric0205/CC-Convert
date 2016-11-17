@@ -1,5 +1,5 @@
 {
-  "sv" : "1478743609",
+  "sv" : "1479369033",
   "questdigest" : {
     "0" : {
       "append_skill" : { },
@@ -14658,7 +14658,7 @@
       "field_type" : [ 0 ],
       "flag" : { },
       "is_casino" : false,
-      "name" : "西斯登場",
+      "name" : "席絲登場",
       "quest_id" : 1080,
       "difficulty" : 0,
       "chapter_cnt" : 1,
@@ -27107,76 +27107,83 @@
     "1000131" : {
       "append_skill" : { },
       "bg_list" : [ 1 ],
-      "chapter_list" : [ 0 ],
-      "stamina" : 15,
+      "chapter_list" : [ 1 ],
+      "stamina" : 20,
       "eneset_treasure" : [ {
-        "type" : "item",
-        "id" : 10,
-        "val" : 2000
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
       }, {
-        "type" : "item",
-        "id" : 10,
-        "val" : 3000
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
       }, {
-        "type" : "item",
-        "id" : 10,
-        "val" : 5000
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
       }, {
-        "type" : "item",
-        "id" : 10,
-        "val" : 10000
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
       } ],
       "field_type" : [ 0 ],
+      "fixed_help" : [ {
+        "skillflag" : [ true, true, true, false ],
+        "cid" : 8882,
+        "hp" : 6450,
+        "lv" : 80,
+        "atk" : 9550
+      } ],
       "flag" : { },
       "is_casino" : false,
       "kind_prm" : 1,
-      "name" : "義勇軍的強化費用",
-      "reward_box" : 2,
+      "name" : "神明的愛的訓練！",
+      "reward_box" : 3,
       "reward_data" : {
-        "type" : "box",
+        "type" : "card",
         "id" : 0,
-        "box" : 2
+        "box" : 3
       },
       "quest_id" : 1000131,
-      "difficulty" : 14,
+      "difficulty" : 12,
       "chapter_cnt" : 1,
       "area_id" : 1
     },
     "1000130" : {
       "append_skill" : { },
       "bg_list" : [ 1 ],
-      "chapter_list" : [ 0 ],
-      "stamina" : 15,
+      "chapter_list" : [ 1 ],
+      "stamina" : 4,
       "eneset_treasure" : [ {
-        "type" : "weapon_rf",
-        "id" : 93901,
+        "type" : "item",
+        "id" : 10,
+        "val" : 500
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 500
+      }, {
+        "type" : "chara_rf",
+        "id" : 90000,
         "val" : 1
       }, {
         "type" : "weapon_rf",
-        "id" : 93901,
-        "val" : 1
-      }, {
-        "type" : "weapon_rf",
-        "id" : 93901,
-        "val" : 1
-      }, {
-        "type" : "weapon_rf",
-        "id" : 93901,
+        "id" : 93000,
         "val" : 1
       } ],
       "field_type" : [ 0 ],
       "flag" : { },
       "is_casino" : false,
       "kind_prm" : 1,
-      "name" : "義勇軍的武器整備",
+      "name" : "尋找夏彌爾",
       "reward_box" : 2,
       "reward_data" : {
-        "type" : "card",
+        "type" : "box",
         "id" : 0,
         "box" : 2
       },
       "quest_id" : 1000130,
-      "difficulty" : 14,
+      "difficulty" : 1,
       "chapter_cnt" : 1,
       "area_id" : 1
     },
@@ -27203,40 +27210,22 @@
     },
     "1000129" : {
       "append_skill" : { },
-      "bg_list" : [ 1 ],
-      "chapter_list" : [ 0 ],
-      "stamina" : 15,
-      "eneset_treasure" : [ {
-        "type" : "chara_rf",
-        "id" : 90902,
-        "val" : 1
-      }, {
-        "type" : "chara_rf",
-        "id" : 90902,
-        "val" : 1
-      }, {
-        "type" : "chara_rf",
-        "id" : 90902,
-        "val" : 1
-      }, {
-        "type" : "chara_rf",
-        "id" : 90903,
-        "val" : 1
-      } ],
-      "field_type" : [ 0 ],
+      "bg_list" : [ 1, 1, 1, 1 ],
+      "chapter_list" : [ 1, 2, 3, 4 ],
+      "stamina" : 5,
+      "field_type" : [ 0, 0, 0, 0 ],
       "flag" : { },
       "is_casino" : false,
-      "kind_prm" : 1,
-      "name" : "義勇軍的成長",
-      "reward_box" : 3,
+      "name" : "從天而降的女神與徒兒",
+      "reward_box" : 2,
       "reward_data" : {
-        "type" : "card",
+        "type" : "box",
         "id" : 0,
-        "box" : 3
+        "box" : 2
       },
       "quest_id" : 1000129,
-      "difficulty" : 18,
-      "chapter_cnt" : 1,
+      "difficulty" : 10,
+      "chapter_cnt" : 4,
       "area_id" : 1
     },
     "1000128" : {
@@ -27327,6 +27316,44 @@
       "chapter_cnt" : 4,
       "area_id" : 10
     },
+    "1000135" : {
+      "append_skill" : { },
+      "bg_list" : [ 1 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 15,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 2000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 3000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 5000
+      }, {
+        "type" : "item",
+        "id" : 10,
+        "val" : 10000
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "義勇軍的強化費用",
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "box",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 1000135,
+      "difficulty" : 14,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
     "90051" : {
       "append_skill" : {
         "cid" : 9005,
@@ -27376,6 +27403,44 @@
       "chapter_cnt" : 4,
       "area_id" : 2
     },
+    "1000134" : {
+      "append_skill" : { },
+      "bg_list" : [ 1 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 15,
+      "eneset_treasure" : [ {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "義勇軍的武器整備",
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 1000134,
+      "difficulty" : 14,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
     "90050" : {
       "append_skill" : { },
       "bg_list" : [ -1 ],
@@ -27409,6 +27474,44 @@
       "chapter_cnt" : 3,
       "area_id" : 2
     },
+    "1000133" : {
+      "append_skill" : { },
+      "bg_list" : [ 1 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 15,
+      "eneset_treasure" : [ {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "義勇軍的成長",
+      "reward_box" : 3,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 0,
+        "box" : 3
+      },
+      "quest_id" : 1000133,
+      "difficulty" : 18,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
     "50500" : {
       "append_skill" : { },
       "bg_list" : [ -1 ],
@@ -27417,6 +27520,51 @@
       "name" : "托巴拉歐登場",
       "quest_id" : 50500,
       "difficulty" : 0,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "1000132" : {
+      "append_skill" : { },
+      "bg_list" : [ 1 ],
+      "chapter_list" : [ 1 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93902,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "fixed_help" : [ {
+        "skillflag" : [ true, true, true, false ],
+        "cid" : 8883,
+        "hp" : 9400,
+        "lv" : 80,
+        "atk" : 9200
+      } ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "神明的愛的鍊成！",
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "card",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 1000132,
+      "difficulty" : 12,
       "chapter_cnt" : 1,
       "area_id" : 1
     },
@@ -28691,7 +28839,7 @@
       "field_type" : [ 0, 0, 0, 0 ],
       "flag" : { },
       "is_casino" : false,
-      "name" : "聚集！魔神饗宴！！",
+      "name" : "集結！魔神之宴！！",
       "reward_box" : 2,
       "reward_data" : {
         "type" : "box",
@@ -28767,7 +28915,7 @@
       "flag" : { },
       "is_casino" : false,
       "kind_prm" : 1,
-      "name" : "尋找饗宴魔神",
+      "name" : "尋找宴之魔神",
       "reward_box" : 2,
       "reward_data" : {
         "type" : "box",
@@ -90577,7 +90725,7 @@
       "field_type" : [ 0 ],
       "flag" : { },
       "is_casino" : false,
-      "name" : "拉貝傑琳登場",
+      "name" : "拉貝潔琳登場",
       "quest_id" : 75260,
       "difficulty" : 0,
       "chapter_cnt" : 1,
@@ -95109,6 +95257,52 @@
       "difficulty" : 51,
       "chapter_cnt" : 3,
       "area_id" : 12
+    },
+    "40482" : {
+      "append_skill" : {
+        "cid" : 4048,
+        "idx" : "2"
+      },
+      "bg_list" : [ 9, 9, 9 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 11,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 4048,
+          "lv" : 45
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "勇者的條件",
+      "place_id" : 1,
+      "quest_id" : 40482,
+      "difficulty" : 45,
+      "chapter_cnt" : 3,
+      "area_id" : 3
+    },
+    "40481" : {
+      "append_skill" : {
+        "cid" : 4048,
+        "idx" : "1"
+      },
+      "bg_list" : [ 9, 9, 9 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 7,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 4048,
+          "lv" : 15
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "舞台上的勇者",
+      "place_id" : 1,
+      "quest_id" : 40481,
+      "difficulty" : 21,
+      "chapter_cnt" : 3,
+      "area_id" : 3
     },
     "40480" : {
       "append_skill" : { },
@@ -101472,6 +101666,29 @@
       "chapter_cnt" : 3,
       "area_id" : 1
     },
+    "75912" : {
+      "append_skill" : {
+        "cid" : 7591,
+        "idx" : "2"
+      },
+      "bg_list" : [ 1, 6 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 15,
+      "field_type" : [ 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7591,
+          "lv" : 30
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "宇波浮的夢想",
+      "place_id" : 10,
+      "quest_id" : 75912,
+      "difficulty" : 31,
+      "chapter_cnt" : 2,
+      "area_id" : 2
+    },
     "75910" : {
       "append_skill" : { },
       "bg_list" : [ -1 ],
@@ -101483,6 +101700,78 @@
       "quest_id" : 75910,
       "difficulty" : 0,
       "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "75911" : {
+      "append_skill" : { },
+      "bg_list" : [ 1, 1 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 8,
+      "field_type" : [ 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7591,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "真正的宴會",
+      "place_id" : 9,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 75911,
+      "difficulty" : 14,
+      "chapter_cnt" : 2,
+      "area_id" : 1
+    },
+    "75922" : {
+      "append_skill" : {
+        "cid" : 7592,
+        "idx" : "2"
+      },
+      "bg_list" : [ 2, 2 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 16,
+      "field_type" : [ 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7592,
+          "lv" : 45
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "真正的侍女",
+      "place_id" : 7,
+      "quest_id" : 75922,
+      "difficulty" : 39,
+      "chapter_cnt" : 2,
+      "area_id" : 1
+    },
+    "75921" : {
+      "append_skill" : {
+        "cid" : 7592,
+        "idx" : "1"
+      },
+      "bg_list" : [ 9, 9 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 11,
+      "field_type" : [ 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7592,
+          "lv" : 15
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "這才是真的侍女",
+      "place_id" : 6,
+      "quest_id" : 75921,
+      "difficulty" : 21,
+      "chapter_cnt" : 2,
       "area_id" : 1
     },
     "75920" : {
@@ -117655,5 +117944,5 @@
     }
   },
   "res" : 0,
-  "deceive" : 1478768538
+  "deceive" : 1479371881
 }
