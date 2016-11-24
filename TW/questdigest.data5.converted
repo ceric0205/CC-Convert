@@ -1,5 +1,5 @@
 {
-  "sv" : "1479369033",
+  "sv" : "1479952437",
   "questdigest" : {
     "0" : {
       "append_skill" : { },
@@ -27589,6 +27589,51 @@
       "chapter_cnt" : 3,
       "area_id" : 1
     },
+    "1000138" : {
+      "append_skill" : { },
+      "bg_list" : [ 103 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 2000
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "fixed_help" : [ {
+        "skillflag" : [ true, true, true, false ],
+        "cid" : 8891,
+        "hp" : 9700,
+        "lv" : 80,
+        "atk" : 9300
+      } ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "華妃試聽會",
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 1000138,
+      "difficulty" : 24,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
     "90062" : {
       "append_skill" : { },
       "bg_list" : [ 1, 2 ],
@@ -27614,6 +27659,51 @@
       "chapter_cnt" : 2,
       "area_id" : 10
     },
+    "1000137" : {
+      "append_skill" : { },
+      "bg_list" : [ 1 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 2000
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "fixed_help" : [ {
+        "skillflag" : [ true, true, true, false ],
+        "cid" : 8890,
+        "hp" : 6000,
+        "lv" : 80,
+        "atk" : 10000
+      } ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "金魚姬試聽會",
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 1000137,
+      "difficulty" : 24,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
     "90061" : {
       "append_skill" : {
         "cid" : 9006,
@@ -27638,6 +27728,51 @@
       "difficulty" : 40,
       "chapter_cnt" : 3,
       "area_id" : 10
+    },
+    "1000136" : {
+      "append_skill" : { },
+      "bg_list" : [ 5 ],
+      "chapter_list" : [ 0 ],
+      "stamina" : 10,
+      "eneset_treasure" : [ {
+        "type" : "item",
+        "id" : 10,
+        "val" : 2000
+      }, {
+        "type" : "chara_rf",
+        "id" : 90902,
+        "val" : 1
+      }, {
+        "type" : "weapon_rf",
+        "id" : 93901,
+        "val" : 1
+      }, {
+        "type" : "chara_rf",
+        "id" : 90903,
+        "val" : 1
+      } ],
+      "field_type" : [ 0 ],
+      "fixed_help" : [ {
+        "skillflag" : [ true, true, true, false ],
+        "cid" : 8889,
+        "hp" : 7200,
+        "lv" : 80,
+        "atk" : 9000
+      } ],
+      "flag" : { },
+      "is_casino" : false,
+      "kind_prm" : 1,
+      "name" : "夏恩試聽會",
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 1000136,
+      "difficulty" : 24,
+      "chapter_cnt" : 1,
+      "area_id" : 1
     },
     "90060" : {
       "append_skill" : { },
@@ -37786,14 +37921,12 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "演技が大好きなの",
         "cid" : 4048,
         "hp" : 10000,
         "lv" : 80,
         "atk" : 8750
       } ],
       "flag" : { },
-      "icon" : "taiken_ring201603",
       "is_casino" : false,
       "kind_prm" : 1,
       "name" : "嘗試任務",
@@ -49036,6 +49169,29 @@
       "chapter_cnt" : 1,
       "area_id" : 12
     },
+    "88891" : {
+      "append_skill" : {
+        "cid" : 8889,
+        "idx" : "2"
+      },
+      "bg_list" : [ 4, 4 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 15,
+      "field_type" : [ 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 8889,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "為己高歌",
+      "place_id" : 1,
+      "quest_id" : 88891,
+      "difficulty" : 14,
+      "chapter_cnt" : 2,
+      "area_id" : 3
+    },
     "234004" : {
       "append_skill" : { },
       "bg_list" : [ 100 ],
@@ -49077,6 +49233,17 @@
       },
       "quest_id" : 234004,
       "difficulty" : 60,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "88890" : {
+      "append_skill" : { },
+      "bg_list" : [ -1 ],
+      "chapter_list" : [ 1 ],
+      "flag" : { },
+      "name" : "夏恩登場",
+      "quest_id" : 88890,
+      "difficulty" : 4,
       "chapter_cnt" : 1,
       "area_id" : 1
     },
@@ -49904,6 +50071,51 @@
       "chapter_cnt" : 2,
       "area_id" : 1
     },
+    "88900" : {
+      "append_skill" : { },
+      "bg_list" : [ -1 ],
+      "chapter_list" : [ 1 ],
+      "flag" : { },
+      "name" : "金魚姬登場",
+      "quest_id" : 88900,
+      "difficulty" : 4,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "88901" : {
+      "append_skill" : {
+        "cid" : 8890,
+        "idx" : "2"
+      },
+      "bg_list" : [ 4, 9 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 15,
+      "field_type" : [ 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 8890,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "金魚迷走中",
+      "place_id" : 1,
+      "quest_id" : 88901,
+      "difficulty" : 14,
+      "chapter_cnt" : 2,
+      "area_id" : 3
+    },
+    "88910" : {
+      "append_skill" : { },
+      "bg_list" : [ -1 ],
+      "chapter_list" : [ 1 ],
+      "flag" : { },
+      "name" : "華妃登場",
+      "quest_id" : 88910,
+      "difficulty" : 4,
+      "chapter_cnt" : 1,
+      "area_id" : 1
+    },
     "81391" : {
       "append_skill" : { },
       "bg_list" : [ 1, 1, 114 ],
@@ -49929,6 +50141,29 @@
       "difficulty" : 14,
       "chapter_cnt" : 3,
       "area_id" : 1
+    },
+    "88911" : {
+      "append_skill" : {
+        "cid" : 8891,
+        "idx" : "2"
+      },
+      "bg_list" : [ 4, 4, 4 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 10,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 8891,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "計畫再開",
+      "place_id" : 1,
+      "quest_id" : 88911,
+      "difficulty" : 14,
+      "chapter_cnt" : 3,
+      "area_id" : 3
     },
     "81390" : {
       "append_skill" : { },
@@ -117944,5 +118179,5 @@
     }
   },
   "res" : 0,
-  "deceive" : 1479371881
+  "deceive" : 1479980805
 }

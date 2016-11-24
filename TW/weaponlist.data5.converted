@@ -12069,6 +12069,19 @@
       "type_cri" : 2,
       "type_grd" : 3
     },
+    "95839" : {
+      "rank" : 2,
+      "name" : "新潮戰槌",
+      "model" : "weapon95839_body",
+      "id" : 95839,
+      "guardMax" : 4,
+      "criticalMax" : 9,
+      "attackMax" : 9,
+      "type" : 1,
+      "type_atk" : 1,
+      "type_cri" : 2,
+      "type_grd" : 3
+    },
     "1016" : {
       "name" : "敵方用黑白熊之劍",
       "model" : "weapon70004_body",
@@ -12081,6 +12094,19 @@
       "type_cri" : 2,
       "type_grd" : 3
     },
+    "95838" : {
+      "rank" : 2,
+      "name" : "金魚的迴廊",
+      "model" : "weapon95838_body",
+      "id" : 95838,
+      "guardMax" : 10,
+      "criticalMax" : 5,
+      "attackMax" : 7,
+      "type" : 5,
+      "type_atk" : 1,
+      "type_cri" : 2,
+      "type_grd" : 3
+    },
     "1017" : {
       "name" : "敵方用鶴嘴鎬",
       "model" : "weapon1017_body",
@@ -12089,6 +12115,19 @@
       "criticalMax" : 0,
       "attackMax" : 0,
       "type" : 1,
+      "type_atk" : 1,
+      "type_cri" : 2,
+      "type_grd" : 3
+    },
+    "95837" : {
+      "rank" : 2,
+      "name" : "靛羽麥克風",
+      "model" : "weapon95837_body",
+      "id" : 95837,
+      "guardMax" : 8,
+      "criticalMax" : 6,
+      "attackMax" : 8,
+      "type" : 4,
       "type_atk" : 1,
       "type_cri" : 2,
       "type_grd" : 3
@@ -13490,7 +13529,7 @@
       "type_grd" : 3
     }
   },
-  "sv" : "1476264054",
+  "sv" : "1479699846",
   "res" : 0,
-  "deceive" : 1476356202
+  "deceive" : 1479980776
 }

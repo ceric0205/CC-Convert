@@ -19,6 +19,31 @@
         "cost_border2" : 12,
         "type" : 1
       },
+      "raid" : {
+        "raid_id" : 20,
+        "bg" : 2000,
+        "banner" : 1,
+        "event_start" : 1479696253,
+        "event_end" : 1480658400,
+        "close" : 1480572000,
+        "name" : "宇波浮襲來",
+        "full_time" : 130,
+        "part_time" : 90,
+        "sp_cards" : [ {
+          "cid" : "7592",
+          "skill_id" : "30042"
+        }, {
+          "cid" : "7545",
+          "skill_id" : "30043"
+        } ],
+        "full_pirica_time" : 13,
+        "part_pirica_time" : 22,
+        "hp_up" : 2,
+        "atk_up" : 2,
+        "anger_hp_up" : 2,
+        "anger_atk_up" : 2,
+        "anger_battle_time" : 30
+      },
       "subjugation" : [ ],
       "weaponcompose" : {
         "weapon_compose_disabled" : false
@@ -47,9 +72,9 @@
     "booklist" : 1478145667,
     "bossinfo" : 1479193855,
     "casinoinfo" : 0,
-    "charainfo" : 1479353114,
+    "charainfo" : 1479951329,
     "create_weap" : 1,
-    "episodeinfo" : 1479187258,
+    "episodeinfo" : 1479699852,
     "eventbadge" : 1,
     "eventplace" : 1,
     "explorerinfo" : 1453707665,
@@ -58,19 +83,19 @@
     "itemlist" : 1472724211,
     "missionlist" : 1477283968,
     "motionlist" : 1459929200,
-    "questdigest" : 1479369033,
+    "questdigest" : 1479952437,
     "reload" : 1464594693,
     "repeatmissionlist" : 1473021262,
-    "servertime" : 1479373389,
-    "skilllist" : 1479353114,
+    "servertime" : 1479980907,
+    "skilllist" : 1479951329,
     "subjugationexpeditioninfo" : 1,
-    "supporterskill" : 1478597945,
+    "supporterskill" : 1479807582,
     "teacherdisciple" : 0,
     "uzuinfo" : 0,
     "various" : 1478490226,
     "weaponcompose" : 1459669083,
     "weaponcomposeevent" : 1,
-    "weaponlist" : 1476264054,
+    "weaponlist" : 1479699846,
     "worldinfo" : 1473287277
   },
   "friend" : false,
