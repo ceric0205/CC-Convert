@@ -1,5 +1,5 @@
 {
-  "sv" : "1479952437",
+  "sv" : "1480563418",
   "questdigest" : {
     "0" : {
       "append_skill" : { },
@@ -11697,6 +11697,32 @@
       "chapter_cnt" : 2,
       "area_id" : 1
     },
+    "731" : {
+      "append_skill" : { },
+      "bg_list" : [ 9, 2, 2 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 5,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 73,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "刺激的賭局",
+      "place_id" : 1,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 731,
+      "difficulty" : 14,
+      "chapter_cnt" : 3,
+      "area_id" : 1
+    },
     "210902" : {
       "append_skill" : { },
       "bg_list" : [ 7, 7, 7 ],
@@ -11715,6 +11741,29 @@
       "difficulty" : 35,
       "chapter_cnt" : 3,
       "area_id" : 3
+    },
+    "732" : {
+      "append_skill" : {
+        "cid" : 73,
+        "idx" : "2"
+      },
+      "bg_list" : [ 8, 8 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 16,
+      "field_type" : [ 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 73,
+          "lv" : 45
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "以賭場作為賭注",
+      "place_id" : 1,
+      "quest_id" : 732,
+      "difficulty" : 39,
+      "chapter_cnt" : 2,
+      "area_id" : 1
     },
     "210903" : {
       "append_skill" : { },
@@ -14648,6 +14697,52 @@
       },
       "quest_id" : 87011,
       "difficulty" : 10,
+      "chapter_cnt" : 3,
+      "area_id" : 1
+    },
+    "1082" : {
+      "append_skill" : {
+        "cid" : 108,
+        "idx" : "2"
+      },
+      "bg_list" : [ 8, 8, 8 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 8,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 108,
+          "lv" : 38
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "攤牌！",
+      "place_id" : 1,
+      "quest_id" : 1082,
+      "difficulty" : 29,
+      "chapter_cnt" : 3,
+      "area_id" : 1
+    },
+    "1081" : {
+      "append_skill" : {
+        "cid" : 108,
+        "idx" : "1"
+      },
+      "bg_list" : [ 8, 8, 8 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 5,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 108,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "賭場的守護者",
+      "place_id" : 1,
+      "quest_id" : 1081,
+      "difficulty" : 14,
       "chapter_cnt" : 3,
       "area_id" : 1
     },
@@ -34531,7 +34626,7 @@
       "flag" : { },
       "is_casino" : false,
       "kind_prm" : 1,
-      "name" : "監獄的賺錢術",
+      "name" : "在監獄賺取金幣",
       "reward_box" : 2,
       "reward_data" : {
         "type" : "box",
@@ -34597,7 +34692,7 @@
       "field_type" : [ 0, 0, 0 ],
       "flag" : { },
       "is_casino" : false,
-      "name" : "歡迎來到地下賭場",
+      "name" : "歡迎來到裏賭場",
       "reward_box" : 2,
       "reward_data" : {
         "type" : "stone",
@@ -34839,7 +34934,7 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "賭るか反るか！",
+        "helper_comment" : "聽天由命吧！",
         "cid" : 11044,
         "hp" : 5620,
         "lv" : 80,
@@ -34849,7 +34944,7 @@
       "icon" : "casino01",
       "is_casino" : true,
       "kind_prm" : 1,
-      "name" : "多利休嘗試盤",
+      "name" : "杜莉修嘗試盤",
       "place_id" : 11,
       "quest_id" : 243007,
       "difficulty" : 30,
@@ -35077,7 +35172,7 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "最高のドキドキをっ！",
+        "helper_comment" : "追加最棒的刺激！",
         "cid" : 73,
         "hp" : 9300,
         "lv" : 80,
@@ -36802,7 +36897,7 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "信じていますから",
+        "helper_comment" : "因為我相信你",
         "cid" : 7017,
         "hp" : 2800,
         "lv" : 60,
@@ -37282,7 +37377,7 @@
       "icon" : "casino01",
       "is_casino" : true,
       "kind_prm" : 1,
-      "name" : "砂漠的應盤",
+      "name" : "沙漠之鷹盤",
       "place_id" : 11,
       "sort" : 10,
       "quest_id" : 243018,
@@ -57580,7 +57675,6 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "つらぬけ！蒼い炎よ！",
         "cid" : 8150,
         "hp" : 7000,
         "lv" : 80,
@@ -57590,7 +57684,7 @@
       "icon" : "Event010",
       "is_casino" : false,
       "kind_prm" : 1,
-      "name" : "共同戰鬥－裡艾菈・難",
+      "name" : "共同戰鬥－里艾菈．難",
       "reward_box" : 3,
       "reward_data" : {
         "type" : "card",
@@ -57627,7 +57721,6 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "生かしてはおかない！",
         "cid" : 8151,
         "hp" : 9550,
         "lv" : 80,
@@ -57637,7 +57730,7 @@
       "icon" : "Event011",
       "is_casino" : false,
       "kind_prm" : 1,
-      "name" : "共同戰鬥－伊穆卡・難",
+      "name" : "共同戰鬥－伊穆卡．難",
       "reward_box" : 3,
       "reward_data" : {
         "type" : "card",
@@ -57674,7 +57767,6 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "消えろ！",
         "cid" : 8149,
         "hp" : 10100,
         "lv" : 80,
@@ -57684,7 +57776,7 @@
       "icon" : "Event008",
       "is_casino" : false,
       "kind_prm" : 1,
-      "name" : "共同戰鬥－塞爾貝利亞・難",
+      "name" : "共同戰鬥－塞貝莉雅．難",
       "reward_box" : 3,
       "reward_data" : {
         "type" : "card",
@@ -57732,7 +57824,6 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "守りたい、みんなを！",
         "cid" : 8153,
         "hp" : 5700,
         "lv" : 80,
@@ -57742,7 +57833,7 @@
       "icon" : "Event009",
       "is_casino" : false,
       "kind_prm" : 1,
-      "name" : "共同戰鬥－艾莉西雅・難",
+      "name" : "共同戰鬥－亞莉希雅．難",
       "reward_box" : 3,
       "reward_data" : {
         "type" : "card",
@@ -57924,14 +58015,12 @@
       "field_type" : [ 0, 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "消えろ！",
         "cid" : 8149,
         "hp" : 10100,
         "lv" : 80,
         "atk" : 9250
       }, {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "消えろ！",
         "cid" : 8149,
         "hp" : 10100,
         "lv" : 80,
@@ -57940,7 +58029,7 @@
       "flag" : { },
       "icon" : "Event007",
       "is_casino" : false,
-      "name" : "塞爾貝利亞的戰鬥",
+      "name" : "塞貝莉雅的戰鬥",
       "reward_box" : 3,
       "reward_data" : {
         "type" : "card",
@@ -58015,7 +58104,7 @@
       "icon" : "Event007",
       "is_casino" : false,
       "kind_prm" : 1,
-      "name" : "VS塞爾貝利亞",
+      "name" : "VS塞貝莉雅",
       "reward_box" : 2,
       "reward_data" : {
         "type" : "box",
@@ -58229,7 +58318,7 @@
       "icon" : "Event007",
       "is_casino" : false,
       "kind_prm" : 1,
-      "name" : "卡裡亞軍式訓練・易",
+      "name" : "加利亞式訓練．易",
       "reward_box" : 3,
       "reward_data" : {
         "type" : "card",
@@ -58250,7 +58339,7 @@
       "flag" : { },
       "icon" : "Event007",
       "is_casino" : false,
-      "name" : "卡裡亞軍式訓練・難",
+      "name" : "加利亞式訓練．難",
       "reward_box" : 2,
       "reward_data" : {
         "type" : "box",
@@ -58287,7 +58376,6 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "生かしてはおかない！",
         "cid" : 8151,
         "hp" : 9550,
         "lv" : 80,
@@ -58358,7 +58446,6 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "つらぬけ！蒼い炎よ！",
         "cid" : 8150,
         "hp" : 7000,
         "lv" : 80,
@@ -58368,7 +58455,7 @@
       "icon" : "Event010",
       "is_casino" : false,
       "kind_prm" : 1,
-      "name" : "共同戰鬥－裡艾菈",
+      "name" : "共同戰鬥－里艾菈",
       "place_id" : 1,
       "reward_box" : 3,
       "reward_data" : {
@@ -58417,7 +58504,6 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "守りたい、みんなを！",
         "cid" : 8153,
         "hp" : 5700,
         "lv" : 80,
@@ -58427,7 +58513,7 @@
       "icon" : "Event009",
       "is_casino" : false,
       "kind_prm" : 1,
-      "name" : "共同戰鬥－艾莉西雅",
+      "name" : "共同戰鬥－亞莉希雅",
       "place_id" : 1,
       "reward_box" : 3,
       "reward_data" : {
@@ -58465,7 +58551,6 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "消えろ！",
         "cid" : 8149,
         "hp" : 10100,
         "lv" : 80,
@@ -58475,7 +58560,7 @@
       "icon" : "Event008",
       "is_casino" : false,
       "kind_prm" : 1,
-      "name" : "共同戰鬥－塞爾貝利亞",
+      "name" : "共同戰鬥－塞貝莉雅",
       "place_id" : 1,
       "reward_box" : 3,
       "reward_data" : {
@@ -95264,6 +95349,52 @@
       "chapter_cnt" : 3,
       "area_id" : 12
     },
+    "110442" : {
+      "append_skill" : {
+        "cid" : 11044,
+        "idx" : "2"
+      },
+      "bg_list" : [ 107, 107, 110 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 12,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 11044,
+          "lv" : 45
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "無盡的野心！",
+      "place_id" : 9,
+      "quest_id" : 110442,
+      "difficulty" : 51,
+      "chapter_cnt" : 3,
+      "area_id" : 12
+    },
+    "110441" : {
+      "append_skill" : {
+        "cid" : 11044,
+        "idx" : "1"
+      },
+      "bg_list" : [ 110, 110 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 16,
+      "field_type" : [ 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 11044,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "潛入私人賭場",
+      "place_id" : 4,
+      "quest_id" : 110441,
+      "difficulty" : 38,
+      "chapter_cnt" : 2,
+      "area_id" : 12
+    },
     "75501" : {
       "append_skill" : {
         "cid" : 7550,
@@ -118179,5 +118310,5 @@
     }
   },
   "res" : 0,
-  "deceive" : 1479980805
+  "deceive" : 1480583055
 }

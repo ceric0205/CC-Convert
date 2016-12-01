@@ -7347,7 +7347,7 @@
     },
     "85191" : {
       "rank" : 3,
-      "name" : "四條花紋",
+      "name" : "鐵支",
       "model" : "weapon85191_body",
       "id" : 85191,
       "guardMax" : 11,
@@ -7388,7 +7388,7 @@
     },
     "85192" : {
       "rank" : 3,
-      "name" : "四條花紋．防",
+      "name" : "鐵支．防",
       "model" : "weapon85191_body",
       "id" : 85192,
       "guardMax" : 11,
@@ -7429,7 +7429,7 @@
     },
     "85193" : {
       "rank" : 3,
-      "name" : "解鎖手槍",
+      "name" : "解鎖",
       "model" : "weapon85193_body",
       "id" : 85193,
       "guardMax" : 12,
@@ -7469,7 +7469,7 @@
     },
     "85194" : {
       "rank" : 3,
-      "name" : "解鎖手槍．防",
+      "name" : "解鎖．防",
       "model" : "weapon85193_body",
       "id" : 85194,
       "guardMax" : 12,
@@ -8757,7 +8757,7 @@
     },
     "85141" : {
       "rank" : 3,
-      "name" : "咖利安A-7",
+      "name" : "加利亞A-7",
       "model" : "weapon85141_body",
       "id" : 85141,
       "guardMax" : 9,
@@ -8770,7 +8770,7 @@
     },
     "85140" : {
       "rank" : 3,
-      "name" : "塞爾貝利亞之槍",
+      "name" : "塞貝莉雅之槍",
       "model" : "weapon85140_body",
       "id" : 85140,
       "guardMax" : 15,
@@ -8783,7 +8783,7 @@
     },
     "85143" : {
       "rank" : 2,
-      "name" : "熔岩A-FF-F",
+      "name" : "馬古斯A-FF-F",
       "model" : "weapon85143_body",
       "id" : 85143,
       "guardMax" : 5,
@@ -8796,7 +8796,7 @@
     },
     "85142" : {
       "rank" : 3,
-      "name" : "華爾",
+      "name" : "瓦爾",
       "model" : "weapon85142_body",
       "id" : 85142,
       "guardMax" : 6,
@@ -8905,7 +8905,7 @@
     },
     "85145" : {
       "rank" : 2,
-      "name" : "熔岩M30R",
+      "name" : "馬古斯M30R",
       "model" : "weapon85145_body",
       "id" : 85145,
       "guardMax" : 5,
@@ -8918,7 +8918,7 @@
     },
     "85144" : {
       "rank" : 3,
-      "name" : "咖利安-S20R",
+      "name" : "加利亞-S20R",
       "model" : "weapon85144_body",
       "id" : 85144,
       "guardMax" : 7,
@@ -8945,7 +8945,7 @@
     },
     "85146" : {
       "rank" : 2,
-      "name" : "咖利安-S1R",
+      "name" : "加利亞-S1R",
       "model" : "weapon85146_body",
       "id" : 85146,
       "guardMax" : 7,
@@ -8983,7 +8983,7 @@
     },
     "85156" : {
       "rank" : 3,
-      "name" : "雅莉希亞之槍",
+      "name" : "亞莉希雅之槍",
       "model" : "weapon85156_body",
       "id" : 85156,
       "guardMax" : 12,
@@ -9008,7 +9008,7 @@
     },
     "85155" : {
       "rank" : 3,
-      "name" : "裡艾菈之槍",
+      "name" : "里艾菈之槍",
       "model" : "weapon85155_body",
       "id" : 85155,
       "guardMax" : 7,
@@ -9021,7 +9021,7 @@
     },
     "85153" : {
       "rank" : 2,
-      "name" : "艾貝爾大劍",
+      "name" : "艾貝爾之劍",
       "model" : "weapon85153_body",
       "id" : 85153,
       "guardMax" : 11,
@@ -13529,7 +13529,7 @@
       "type_grd" : 3
     }
   },
-  "sv" : "1479699846",
+  "sv" : "1480562932",
   "res" : 0,
-  "deceive" : 1479980776
+  "deceive" : 1480583027
 }
