@@ -1,6 +1,13 @@
 {
   "body" : [ {
     "data" : {
+      "expup" : {
+        "cids" : [ 34, 45, 40, 46, 41, 63, 7024, 7581, 7582 ],
+        "end" : 1482386399,
+        "exp_rate" : 2.0,
+        "id" : 30,
+        "start" : 1481126400
+      },
       "global" : {
         "purchase" : 1,
         "raid_item" : -1,
@@ -11,31 +18,6 @@
         "cost_border1" : 16,
         "cost_border2" : 12,
         "type" : 1
-      },
-      "raid" : {
-        "raid_id" : 20,
-        "bg" : 2000,
-        "banner" : 1,
-        "event_start" : 1479696253,
-        "event_end" : 1480658400,
-        "close" : 1480572000,
-        "name" : "宇波浮襲來",
-        "full_time" : 130,
-        "part_time" : 90,
-        "sp_cards" : [ {
-          "cid" : "7592",
-          "skill_id" : "30042"
-        }, {
-          "cid" : "7545",
-          "skill_id" : "30043"
-        } ],
-        "full_pirica_time" : 13,
-        "part_pirica_time" : 22,
-        "hp_up" : 2,
-        "atk_up" : 2,
-        "anger_hp_up" : 2,
-        "anger_atk_up" : 2,
-        "anger_battle_time" : 30
       },
       "subjugation" : [ ],
       "weaponcompose" : {
@@ -62,12 +44,12 @@
   } ],
   "mVer" : {
     "battleinfo" : 1472724210,
-    "booklist" : 1478145667,
+    "booklist" : 1481093902,
     "bossinfo" : 1480306978,
     "casinoinfo" : 0,
-    "charainfo" : 1480565230,
+    "charainfo" : 1481163176,
     "create_weap" : 1,
-    "episodeinfo" : 1480305901,
+    "episodeinfo" : 1480906072,
     "eventbadge" : 1,
     "eventplace" : 1,
     "explorerinfo" : 1453707665,
@@ -76,11 +58,11 @@
     "itemlist" : 1472724211,
     "missionlist" : 1480499237,
     "motionlist" : 1459929200,
-    "questdigest" : 1480563418,
+    "questdigest" : 1481179643,
     "reload" : 1464594693,
     "repeatmissionlist" : 1473021262,
-    "servertime" : 1480586111,
-    "skilllist" : 1480392147,
+    "servertime" : 1481189913,
+    "skilllist" : 1481163176,
     "subjugationexpeditioninfo" : 1,
     "supporterskill" : 1479807582,
     "teacherdisciple" : 0,
@@ -88,7 +70,7 @@
     "various" : 1478490226,
     "weaponcompose" : 1459669083,
     "weaponcomposeevent" : 1,
-    "weaponlist" : 1480562932,
+    "weaponlist" : 1480906066,
     "worldinfo" : 1473287277
   },
   "friend" : false,

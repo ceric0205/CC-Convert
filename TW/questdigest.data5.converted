@@ -1,5 +1,5 @@
 {
-  "sv" : "1480563418",
+  "sv" : "1481179643",
   "questdigest" : {
     "0" : {
       "append_skill" : { },
@@ -40831,7 +40831,7 @@
       "field_type" : [ 0, 0 ],
       "flag" : { },
       "is_casino" : false,
-      "name" : "因緣魔神・後日談",
+      "name" : "緣之魔神・後日談",
       "reward_box" : 2,
       "reward_data" : {
         "type" : "box",
@@ -40869,7 +40869,7 @@
       "flag" : { },
       "is_casino" : false,
       "kind_prm" : 1,
-      "name" : "尋找因緣魔神",
+      "name" : "尋找緣之魔神",
       "reward_box" : 2,
       "reward_data" : {
         "type" : "box",
@@ -40906,7 +40906,6 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "この一刀は泰平のため",
         "cid" : 7582,
         "hp" : 9300,
         "lv" : 80,
@@ -41079,7 +41078,7 @@
       "field_type" : [ 0, 0, 0, 0 ],
       "flag" : { },
       "is_casino" : false,
-      "name" : "復甦的歷史３",
+      "name" : "復甦的歷史3",
       "reward_box" : 2,
       "reward_data" : {
         "type" : "box",
@@ -41223,7 +41222,6 @@
       "field_type" : [ 0 ],
       "fixed_help" : [ {
         "skillflag" : [ true, true, true, false ],
-        "helper_comment" : "我が剣に曇りなし",
         "cid" : 7581,
         "hp" : 9600,
         "lv" : 80,
@@ -104071,6 +104069,29 @@
       "chapter_cnt" : 1,
       "area_id" : 1
     },
+    "75802" : {
+      "append_skill" : {
+        "cid" : 7580,
+        "idx" : "2"
+      },
+      "bg_list" : [ 1, 1, 1 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 11,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7580,
+          "lv" : 45
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "心裡描繪的英雄",
+      "place_id" : 3,
+      "quest_id" : 75802,
+      "difficulty" : 39,
+      "chapter_cnt" : 3,
+      "area_id" : 1
+    },
     "75800" : {
       "append_skill" : { },
       "bg_list" : [ -1 ],
@@ -104082,6 +104103,32 @@
       "quest_id" : 75800,
       "difficulty" : 0,
       "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "75801" : {
+      "append_skill" : { },
+      "bg_list" : [ 1, 7 ],
+      "chapter_list" : [ 1, 2 ],
+      "stamina" : 8,
+      "field_type" : [ 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7580,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "幻想的盡頭",
+      "place_id" : 2,
+      "reward_box" : 2,
+      "reward_data" : {
+        "type" : "stone",
+        "id" : 0,
+        "box" : 2
+      },
+      "quest_id" : 75801,
+      "difficulty" : 14,
+      "chapter_cnt" : 2,
       "area_id" : 1
     },
     "200208" : {
@@ -104105,6 +104152,29 @@
       "chapter_cnt" : 3,
       "area_id" : 4
     },
+    "75811" : {
+      "append_skill" : {
+        "cid" : 7581,
+        "idx" : "1"
+      },
+      "bg_list" : [ 1, 1, 1 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 7,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7581,
+          "lv" : 15
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "劍的傳說",
+      "place_id" : 9,
+      "quest_id" : 75811,
+      "difficulty" : 21,
+      "chapter_cnt" : 3,
+      "area_id" : 1
+    },
     "75810" : {
       "append_skill" : { },
       "bg_list" : [ -1 ],
@@ -104118,6 +104188,52 @@
       "chapter_cnt" : 1,
       "area_id" : 1
     },
+    "75812" : {
+      "append_skill" : {
+        "cid" : 7581,
+        "idx" : "2"
+      },
+      "bg_list" : [ 1, 11, 11 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 11,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7581,
+          "lv" : 45
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "傳說的繼承者們",
+      "place_id" : 5,
+      "quest_id" : 75812,
+      "difficulty" : 39,
+      "chapter_cnt" : 3,
+      "area_id" : 1
+    },
+    "75821" : {
+      "append_skill" : {
+        "cid" : 7582,
+        "idx" : "1"
+      },
+      "bg_list" : [ 12, 12, 12 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 7,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7582,
+          "lv" : 15
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "小村莊的基石",
+      "place_id" : 3,
+      "quest_id" : 75821,
+      "difficulty" : 21,
+      "chapter_cnt" : 3,
+      "area_id" : 5
+    },
     "75820" : {
       "append_skill" : { },
       "bg_list" : [ -1 ],
@@ -104130,6 +104246,29 @@
       "difficulty" : 0,
       "chapter_cnt" : 1,
       "area_id" : 1
+    },
+    "75822" : {
+      "append_skill" : {
+        "cid" : 7582,
+        "idx" : "2"
+      },
+      "bg_list" : [ 12, 12, 12 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 11,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 7582,
+          "lv" : 45
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "作為母親",
+      "place_id" : 3,
+      "quest_id" : 75822,
+      "difficulty" : 39,
+      "chapter_cnt" : 3,
+      "area_id" : 5
     },
     "231002" : {
       "append_skill" : { },
@@ -118310,5 +118449,5 @@
     }
   },
   "res" : 0,
-  "deceive" : 1480583055
+  "deceive" : 1481188130
 }

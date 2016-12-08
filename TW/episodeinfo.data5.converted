@@ -1,5 +1,5 @@
 {
-  "sv" : "1480305901",
+  "sv" : "1480906072",
   "episodeinfo" : {
     "(1,1)" : {
       "episode" : [ {
@@ -5468,6 +5468,40 @@
       "id" : 1057,
       "type" : 0
     },
+    "(7582,0)" : {
+      "collabo" : false,
+      "episode" : [ {
+        "quest" : [ 75821, 75822 ],
+        "name" : "羈絆物語",
+        "develop_only" : 0
+      } ],
+      "id" : 7582,
+      "type" : 0
+    },
+    "(7581,0)" : {
+      "collabo" : false,
+      "episode" : [ {
+        "quest" : [ 75811, 75812 ],
+        "name" : "羈絆物語",
+        "develop_only" : 0
+      } ],
+      "id" : 7581,
+      "type" : 0
+    },
+    "(7580,0)" : {
+      "collabo" : false,
+      "episode" : [ {
+        "quest" : [ 75801 ],
+        "name" : "命運物語",
+        "develop_only" : 0
+      }, {
+        "quest" : [ 75802 ],
+        "name" : "羈絆物語",
+        "develop_only" : 0
+      } ],
+      "id" : 7580,
+      "type" : 0
+    },
     "(7535,0)" : {
       "episode" : [ {
         "quest" : [ 75351, 75352 ],
@@ -8483,5 +8517,5 @@
     }
   },
   "res" : 0,
-  "deceive" : 1480583027
+  "deceive" : 1481188099
 }
