@@ -19,6 +19,34 @@
         "cost_border2" : 12,
         "type" : 1
       },
+      "raid" : {
+        "raid_id" : 21,
+        "bg" : 2000,
+        "banner" : 1,
+        "event_start" : 1481263200,
+        "event_end" : 1482472800,
+        "close" : 1482386400,
+        "name" : "拉札尼爾襲來",
+        "full_time" : 130,
+        "part_time" : 90,
+        "sp_cards" : [ {
+          "cid" : "7581",
+          "skill_id" : "30044"
+        }, {
+          "cid" : "7582",
+          "skill_id" : "30044"
+        }, {
+          "cid" : "7591",
+          "skill_id" : "30045"
+        } ],
+        "full_pirica_time" : 13,
+        "part_pirica_time" : 22,
+        "hp_up" : 2,
+        "atk_up" : 2,
+        "anger_hp_up" : 2,
+        "anger_atk_up" : 2,
+        "anger_battle_time" : 30
+      },
       "subjugation" : [ ],
       "weaponcompose" : {
         "weapon_compose_disabled" : false
@@ -45,11 +73,11 @@
   "mVer" : {
     "battleinfo" : 1472724210,
     "booklist" : 1481093902,
-    "bossinfo" : 1480306978,
+    "bossinfo" : 1481530011,
     "casinoinfo" : 0,
-    "charainfo" : 1481163176,
+    "charainfo" : 1481769951,
     "create_weap" : 1,
-    "episodeinfo" : 1480906072,
+    "episodeinfo" : 1481508008,
     "eventbadge" : 1,
     "eventplace" : 1,
     "explorerinfo" : 1453707665,
@@ -58,19 +86,19 @@
     "itemlist" : 1472724211,
     "missionlist" : 1480499237,
     "motionlist" : 1459929200,
-    "questdigest" : 1481179643,
+    "questdigest" : 1481776595,
     "reload" : 1464594693,
     "repeatmissionlist" : 1473021262,
-    "servertime" : 1481189913,
-    "skilllist" : 1481163176,
+    "servertime" : 1481792482,
+    "skilllist" : 1481774782,
     "subjugationexpeditioninfo" : 1,
-    "supporterskill" : 1479807582,
+    "supporterskill" : 1481530013,
     "teacherdisciple" : 0,
     "uzuinfo" : 0,
     "various" : 1478490226,
     "weaponcompose" : 1459669083,
-    "weaponcomposeevent" : 1,
-    "weaponlist" : 1480906066,
+    "weaponcomposeevent" : 1459757467,
+    "weaponlist" : 1481534221,
     "worldinfo" : 1473287277
   },
   "friend" : false,

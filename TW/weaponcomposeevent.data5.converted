@@ -1,6 +1,15 @@
 {
-  "weapon_compose_event" : { },
-  "sv" : "1",
+  "weapon_compose_event" : {
+    "3" : {
+      "text" : "半額キャンペーン中！",
+      "gold" : [ 25000, 17500, 12500, 7500 ],
+      "event_type" : 12,
+      "event_id" : 3,
+      "start" : 1459836000,
+      "end" : 1482386400
+    }
+  },
+  "sv" : "1459757467",
   "res" : 0,
-  "deceive" : 1476356199
+  "deceive" : 1481792449
 }
