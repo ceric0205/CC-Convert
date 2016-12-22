@@ -1,5 +1,5 @@
 {
-  "sv" : "1481776595",
+  "sv" : "1482309574",
   "questdigest" : {
     "0" : {
       "append_skill" : { },
@@ -42143,6 +42143,29 @@
       "chapter_cnt" : 1,
       "area_id" : 1
     },
+    "80772" : {
+      "append_skill" : {
+        "cid" : 8077,
+        "idx" : "2"
+      },
+      "bg_list" : [ 1, 8, 6, 6 ],
+      "chapter_list" : [ 1, 2, 3, 4 ],
+      "stamina" : 8,
+      "field_type" : [ 0, 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 8077,
+          "lv" : 45
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "對等的契約",
+      "place_id" : 6,
+      "quest_id" : 80772,
+      "difficulty" : 39,
+      "chapter_cnt" : 4,
+      "area_id" : 1
+    },
     "234504" : {
       "append_skill" : { },
       "bg_list" : [ 2 ],
@@ -42178,6 +42201,29 @@
       "quest_id" : 234504,
       "difficulty" : 24,
       "chapter_cnt" : 1,
+      "area_id" : 1
+    },
+    "80771" : {
+      "append_skill" : {
+        "cid" : 8077,
+        "idx" : "1"
+      },
+      "bg_list" : [ 1, 1, 6 ],
+      "chapter_list" : [ 1, 2, 3 ],
+      "stamina" : 5,
+      "field_type" : [ 0, 0, 0 ],
+      "flag" : {
+        "chara" : [ {
+          "cid" : 8077,
+          "lv" : 1
+        } ]
+      },
+      "is_casino" : false,
+      "name" : "鍊金術公會長",
+      "place_id" : 9,
+      "quest_id" : 80771,
+      "difficulty" : 14,
+      "chapter_cnt" : 3,
       "area_id" : 1
     },
     "80770" : {
@@ -51150,7 +51196,7 @@
       "icon" : "Event006",
       "is_casino" : false,
       "kind_prm" : 1,
-      "name" : "聖誕夜的養成・難",
+      "name" : "聖夜的養成・難",
       "reward_box" : 3,
       "reward_data" : {
         "type" : "card",
@@ -51711,7 +51757,7 @@
       "icon" : "Event006",
       "is_casino" : false,
       "kind_prm" : 1,
-      "name" : "聖誕夜的養成",
+      "name" : "聖夜的養成",
       "reward_box" : 2,
       "reward_data" : {
         "type" : "card",
@@ -51882,7 +51928,7 @@
       "icon" : "Event006",
       "is_casino" : false,
       "kind_prm" : 1,
-      "name" : "聖誕夜的鍛造",
+      "name" : "聖夜的鍛造",
       "reward_box" : 2,
       "reward_data" : {
         "type" : "card",
@@ -61417,7 +61463,6 @@
       "is_casino" : false,
       "name" : "土與火的迷宮・序",
       "place_id" : 9,
-      "sort" : 1,
       "reward_box" : 2,
       "reward_data" : {
         "type" : "stone",
@@ -118872,5 +118917,5 @@
     }
   },
   "res" : 0,
-  "deceive" : 1481792475
+  "deceive" : 1482397532
 }
