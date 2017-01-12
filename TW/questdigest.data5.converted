@@ -1,5 +1,5 @@
 {
-  "deceive": 1483609930,
+  "deceive": 1484212977,
   "questdigest": {
     "20": {
       "append_skill": {},
@@ -9241,7 +9241,7 @@
       "chapter_list": [1],
       "difficulty": 0,
       "flag": {},
-      "name": "莫爾芭登場",
+      "name": "摩爾帕登場",
       "quest_id": 30260,
       "bg_list": [-1],
       "chapter_cnt": 1,
@@ -25909,7 +25909,7 @@
       "chapter_list": [1],
       "difficulty": 0,
       "flag": {},
-      "name": "塞爾貝利亞登場",
+      "name": "塞貝莉雅登場",
       "quest_id": 81490,
       "bg_list": [-1],
       "chapter_cnt": 1,
@@ -25927,7 +25927,7 @@
       "flag": {
         "chara": [{"cid":8149,"lv":30}]
       },
-      "name": "義勇軍的塞爾貝利亞",
+      "name": "義勇軍的塞貝莉雅",
       "quest_id": 81491,
       "bg_list": [12,12,12],
       "chapter_cnt": 3,
@@ -25942,7 +25942,7 @@
       "chapter_list": [1],
       "difficulty": 0,
       "flag": {},
-      "name": "登場裡艾菈",
+      "name": "登場里艾菈",
       "quest_id": 81500,
       "bg_list": [-1],
       "chapter_cnt": 1,
@@ -26008,7 +26008,7 @@
       "chapter_list": [1],
       "difficulty": 0,
       "flag": {},
-      "name": "庫爾托登場",
+      "name": "克爾特登場",
       "quest_id": 81520,
       "bg_list": [-1],
       "chapter_cnt": 1,
@@ -26041,7 +26041,7 @@
       "chapter_list": [1],
       "difficulty": 0,
       "flag": {},
-      "name": "艾莉西雅登場",
+      "name": "亞莉希雅登場",
       "quest_id": 81530,
       "bg_list": [-1],
       "chapter_cnt": 1,
@@ -26059,7 +26059,7 @@
       "flag": {
         "chara": [{"cid":8153,"lv":30}]
       },
-      "name": "艾莉西雅的麵包教室",
+      "name": "亞莉希雅的麵包教室",
       "quest_id": 81531,
       "bg_list": [1,1,13],
       "chapter_cnt": 3,
@@ -26092,7 +26092,7 @@
       "flag": {
         "chara": [{"cid":8154,"lv":13}]
       },
-      "name": "第七小隊的偶像",
+      "name": "第7小隊的偶像",
       "quest_id": 81541,
       "bg_list": [2,11],
       "chapter_cnt": 2,
@@ -35113,7 +35113,7 @@
       "chapter_list": [1],
       "difficulty": 0,
       "flag": {},
-      "name": "庫爾托登場",
+      "name": "克爾特登場",
       "quest_id": 120340,
       "bg_list": [-1],
       "chapter_cnt": 1,
@@ -35128,7 +35128,7 @@
       "flag": {
         "chara": [{"cid":12034,"lv":1}]
       },
-      "name": "庫爾托之夢",
+      "name": "克爾特之夢",
       "quest_id": 120341,
       "bg_list": [7,7,7],
       "chapter_cnt": 3,
@@ -43307,7 +43307,7 @@
       "chapter_list": [1,2,3],
       "difficulty": 51,
       "flag": {},
-      "name": "別哭！庫爾托",
+      "name": "別哭！克爾特",
       "quest_id": 211602,
       "bg_list": [115,115,115],
       "chapter_cnt": 3,
@@ -59828,7 +59828,7 @@
       },
       "field_type": [0,0,0],
       "icon": "Event007",
-      "fixed_help": [null,{"cid":8153,"lv":80,"hp":5700,"atk":9750,"helper_comment":"守りたい、みんなを！","skillflag":[true,true,true,false]},{"cid":8153,"lv":80,"hp":5700,"atk":9750,"helper_comment":"守りたい、みんなを！","skillflag":[true,true,true,false]}]
+      "fixed_help": [null,{"cid":8153,"lv":80,"hp":5700,"atk":9750,"helper_comment":"我想用這個力量…守護大家！","skillflag":[true,true,true,false]},{"cid":8153,"lv":80,"hp":5700,"atk":9750,"helper_comment":"我想用這個力量…守護大家！","skillflag":[true,true,true,false]}]
     },
     "242402": {
       "append_skill": {},
@@ -59849,7 +59849,7 @@
       },
       "field_type": [0,0],
       "icon": "Event007",
-      "fixed_help": [{"cid":8149,"lv":80,"hp":10100,"atk":9250,"helper_comment":"消えろ！","skillflag":[true,true,true,false]},{"cid":8149,"lv":80,"hp":10100,"atk":9250,"helper_comment":"消えろ！","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":8149,"lv":80,"hp":10100,"atk":9250,"helper_comment":null,"skillflag":[true,true,true,false]},{"cid":8149,"lv":80,"hp":10100,"atk":9250,"helper_comment":null,"skillflag":[true,true,true,false]}]
     },
     "242403": {
       "append_skill": {},
@@ -59870,7 +59870,7 @@
       },
       "field_type": [0,0],
       "icon": "Event007",
-      "fixed_help": [null,{"cid":8151,"lv":80,"hp":9550,"atk":9550,"helper_comment":"生かしてはおかない！","skillflag":[true,true,true,false]}]
+      "fixed_help": [null,{"cid":8151,"lv":80,"hp":9550,"atk":9550,"helper_comment":null,"skillflag":[true,true,true,false]}]
     },
     "242404": {
       "append_skill": {},
@@ -60062,7 +60062,7 @@
       "icon": "Event008",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":500},{"type":"item","id":10,"val":500},{"type":"weapon_rf","id":93002,"val":1},{"type":"chara_rf","id":90009,"val":1}],
-      "fixed_help": [{"cid":8149,"lv":80,"hp":10100,"atk":9250,"helper_comment":"消えろ！","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":8149,"lv":80,"hp":10100,"atk":9250,"helper_comment":"消失吧！","skillflag":[true,true,true,false]}]
     },
     "242413": {
       "append_skill": {},
@@ -60086,7 +60086,7 @@
       "icon": "Event009",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":500},{"type":"item","id":10,"val":500},{"type":"weapon_rf","id":93020,"val":1},{"type":"chara_rf","id":90006,"val":1}],
-      "fixed_help": [{"cid":8153,"lv":80,"hp":5700,"atk":9750,"helper_comment":"守りたい、みんなを！","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":8153,"lv":80,"hp":5700,"atk":9750,"helper_comment":"我想用這個力量…守護大家！","skillflag":[true,true,true,false]}]
     },
     "242414": {
       "append_skill": {},
@@ -60110,7 +60110,7 @@
       "icon": "Event010",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":500},{"type":"item","id":10,"val":500},{"type":"weapon_rf","id":93020,"val":1},{"type":"chara_rf","id":90006,"val":1}],
-      "fixed_help": [{"cid":8150,"lv":80,"hp":7000,"atk":9700,"helper_comment":"つらぬけ！蒼い炎よ！","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":8150,"lv":80,"hp":7000,"atk":9700,"helper_comment":"貫穿吧！蒼之炎！","skillflag":[true,true,true,false]}]
     },
     "242415": {
       "append_skill": {},
@@ -60134,7 +60134,7 @@
       "icon": "Event011",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":500},{"type":"item","id":10,"val":500},{"type":"weapon_rf","id":93000,"val":1},{"type":"chara_rf","id":90005,"val":1}],
-      "fixed_help": [{"cid":8151,"lv":80,"hp":9550,"atk":9550,"helper_comment":"生かしてはおかない！","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":8151,"lv":80,"hp":9550,"atk":9550,"helper_comment":"絕對不可以放過！","skillflag":[true,true,true,false]}]
     },
     "242416": {
       "append_skill": {},
@@ -60157,7 +60157,7 @@
       "icon": "Event008",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":1000},{"type":"weapon_rf","id":93002,"val":1},{"type":"weapon_rf","id":93002,"val":1},{"type":"chara_rf","id":90014,"val":1}],
-      "fixed_help": [{"cid":8149,"lv":80,"hp":10100,"atk":9250,"helper_comment":"消えろ！","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":8149,"lv":80,"hp":10100,"atk":9250,"helper_comment":"消失吧！","skillflag":[true,true,true,false]}]
     },
     "242417": {
       "append_skill": {},
@@ -60180,7 +60180,7 @@
       "icon": "Event009",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":1000},{"type":"weapon_rf","id":93020,"val":1},{"type":"weapon_rf","id":93020,"val":1},{"type":"chara_rf","id":90011,"val":1}],
-      "fixed_help": [{"cid":8153,"lv":80,"hp":5700,"atk":9750,"helper_comment":"守りたい、みんなを！","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":8153,"lv":80,"hp":5700,"atk":9750,"helper_comment":"我想用這個力量…守護大家！","skillflag":[true,true,true,false]}]
     },
     "242418": {
       "append_skill": {},
@@ -60203,7 +60203,7 @@
       "icon": "Event010",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":1000},{"type":"weapon_rf","id":93020,"val":1},{"type":"weapon_rf","id":93020,"val":1},{"type":"chara_rf","id":90011,"val":1}],
-      "fixed_help": [{"cid":8150,"lv":80,"hp":7000,"atk":9700,"helper_comment":"つらぬけ！蒼い炎よ！","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":8150,"lv":80,"hp":7000,"atk":9700,"helper_comment":"貫穿吧！蒼之炎！","skillflag":[true,true,true,false]}]
     },
     "242419": {
       "append_skill": {},
@@ -60226,7 +60226,7 @@
       "icon": "Event011",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":1000},{"type":"weapon_rf","id":93000,"val":1},{"type":"weapon_rf","id":93000,"val":1},{"type":"chara_rf","id":90010,"val":1}],
-      "fixed_help": [{"cid":8151,"lv":80,"hp":9550,"atk":9550,"helper_comment":"生かしてはおかない！","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":8151,"lv":80,"hp":9550,"atk":9550,"helper_comment":"絕對不可以放過！","skillflag":[true,true,true,false]}]
     },
     "242501": {
       "append_skill": {},
@@ -62794,7 +62794,7 @@
       "chapter_list": [1],
       "difficulty": 30,
       "flag": {},
-      "name": "測試莫爾芭",
+      "name": "測試摩爾帕",
       "quest_id": 244005,
       "bg_list": [3],
       "chapter_cnt": 1,
@@ -88472,5 +88472,5 @@
     }
   },
   "res": 0,
-  "sv": "1483605358"
+  "sv": "1484185265"
 }
