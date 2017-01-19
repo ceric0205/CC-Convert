@@ -1,5 +1,5 @@
 {
-  "deceive": 1484212977,
+  "deceive": 1484817639,
   "questdigest": {
     "20": {
       "append_skill": {},
@@ -62704,7 +62704,6 @@
         "type": "stone",
         "box": 2
       },
-      "sort": 101,
       "field_type": [0,0,0,0]
     },
     "244001": {
@@ -62724,7 +62723,6 @@
         "type": "box",
         "box": 2
       },
-      "sort": 100,
       "field_type": [0]
     },
     "244002": {
@@ -62744,7 +62742,6 @@
         "type": "stone",
         "box": 2
       },
-      "sort": 90,
       "field_type": [0]
     },
     "244003": {
@@ -62764,7 +62761,6 @@
         "type": "stone",
         "box": 2
       },
-      "sort": 80,
       "field_type": [0]
     },
     "244004": {
@@ -62773,7 +62769,7 @@
       "chapter_list": [1],
       "difficulty": 4,
       "flag": {},
-      "name": "渡雪之盾・4",
+      "name": "渡雪之盾．4",
       "quest_id": 244004,
       "bg_list": [3],
       "chapter_cnt": 1,
@@ -62784,9 +62780,8 @@
         "type": "stone",
         "box": 2
       },
-      "sort": 70,
       "field_type": [0],
-      "fixed_help": [{"cid":3026,"lv":80,"hp":9850,"atk":9300,"helper_comment":"こういう戦い方もある","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":3026,"lv":80,"hp":9850,"atk":9300,"helper_comment":null,"skillflag":[true,true,true,false]}]
     },
     "244005": {
       "append_skill": {},
@@ -62808,7 +62803,7 @@
       "field_type": [0],
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":500},{"type":"chara_rf","id":90009,"val":1},{"type":"weapon_rf","id":93002,"val":1},{"type":"chara_rf","id":90014,"val":1}],
-      "fixed_help": [{"cid":3026,"lv":80,"hp":9850,"atk":9300,"helper_comment":"こういう戦い方もある","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":3026,"lv":80,"hp":9850,"atk":9300,"helper_comment":null,"skillflag":[true,true,true,false]}]
     },
     "244006": {
       "append_skill": {},
@@ -62827,7 +62822,6 @@
         "type": "box",
         "box": 3
       },
-      "sort": 30,
       "field_type": [0],
       "kind_prm": 1,
       "eneset_treasure": [{"type":"chara_rf","id":90005,"val":1},{"type":"chara_rf","id":90005,"val":1},{"type":"chara_rf","id":90010,"val":1},{"type":"chara_rf","id":90010,"val":1}]
@@ -62849,7 +62843,6 @@
         "type": "box",
         "box": 3
       },
-      "sort": 40,
       "field_type": [0],
       "kind_prm": 1,
       "eneset_treasure": [{"type":"chara_rf","id":90009,"val":1},{"type":"chara_rf","id":90008,"val":1},{"type":"chara_rf","id":90014,"val":1},{"type":"chara_rf","id":90013,"val":1}]
@@ -62871,7 +62864,6 @@
         "type": "box",
         "box": 3
       },
-      "sort": 50,
       "field_type": [0],
       "kind_prm": 1,
       "eneset_treasure": [{"type":"chara_rf","id":90007,"val":1},{"type":"chara_rf","id":90007,"val":1},{"type":"chara_rf","id":90012,"val":1},{"type":"chara_rf","id":90012,"val":1}]
@@ -62893,7 +62885,6 @@
         "type": "card",
         "box": 3
       },
-      "sort": 60,
       "field_type": [0],
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":5000},{"type":"weapon_rf","id":93902,"val":1},{"type":"chara_rf","id":90904,"val":1},{"type":"chara_rf","id":90904,"val":1}]
@@ -85163,7 +85154,7 @@
       "flag": {
         "quest": [{"type":6,"qid":301218}]
       },
-      "name": "貫徹意思的人們1",
+      "name": "貫徹意志的人們1",
       "quest_id": 301219,
       "bg_list": [1,1,1],
       "chapter_cnt": 3,
@@ -85185,7 +85176,7 @@
       "flag": {
         "quest": [{"type":6,"qid":301219}]
       },
-      "name": "貫徹意思的人們2",
+      "name": "貫徹意志的人們2",
       "quest_id": 301220,
       "bg_list": [1,1,1],
       "chapter_cnt": 3,
@@ -85207,7 +85198,7 @@
       "flag": {
         "quest": [{"type":6,"qid":301220}]
       },
-      "name": "貫徹意思的人們3",
+      "name": "貫徹意志的人們3",
       "quest_id": 301221,
       "bg_list": [1,1,1],
       "chapter_cnt": 3,
@@ -85229,7 +85220,7 @@
       "flag": {
         "quest": [{"type":6,"qid":301221}]
       },
-      "name": "貫徹意思的人們4",
+      "name": "貫徹意志的人們4",
       "quest_id": 301222,
       "bg_list": [1,1,1],
       "chapter_cnt": 3,
@@ -85433,7 +85424,7 @@
       "flag": {
         "quest": [{"type":6,"qid":301226}]
       },
-      "name": "據點靜定",
+      "name": "鎮壓據點",
       "quest_id": 301231,
       "bg_list": [13],
       "chapter_cnt": 1,
@@ -86809,7 +86800,7 @@
       "chapter_list": [1,2,3],
       "difficulty": 34,
       "flag": {},
-      "name": "魔神多爾瓦多絲",
+      "name": "魔神托爾瓦托斯",
       "quest_id": 400114,
       "bg_list": [13,13,13],
       "chapter_cnt": 3,
@@ -88472,5 +88463,5 @@
     }
   },
   "res": 0,
-  "sv": "1484185265"
+  "sv": "1484821990"
 }
