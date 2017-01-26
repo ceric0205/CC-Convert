@@ -1,5 +1,5 @@
 {
-  "deceive": 1484817625,
+  "deceive": 1485424369,
   "weaponlist": {
     "1": {
       "id": 1,
@@ -12355,7 +12355,7 @@
     },
     "85296": {
       "id": 85296,
-      "name": "無銘の刀",
+      "name": "無銘之刀",
       "type_atk": 1,
       "attackMax": 8,
       "type_cri": 2,
@@ -14689,8 +14689,61 @@
       "type_grd": 3,
       "guardMax": 1,
       "type": 6
+    },
+    "95840": {
+      "id": 95840,
+      "name": "龍頭大鍘刀．改",
+      "type_atk": 1,
+      "attackMax": 12,
+      "type_cri": 2,
+      "criticalMax": 5,
+      "type_grd": 3,
+      "guardMax": 7,
+      "type": 0,
+      "model": "weapon95840_body",
+      "rank": 2
+    },
+    "95841": {
+      "id": 95841,
+      "name": "百獸爪斷",
+      "type_atk": 1,
+      "attackMax": 8,
+      "type_cri": 2,
+      "criticalMax": 8,
+      "type_grd": 3,
+      "guardMax": 8,
+      "type": 1,
+      "model": "weapon95841_body",
+      "rank": 2
+    },
+    "95844": {
+      "id": 95844,
+      "name": "招財進寶",
+      "type_atk": 1,
+      "attackMax": 12,
+      "type_cri": 2,
+      "criticalMax": 8,
+      "type_grd": 3,
+      "guardMax": 10,
+      "type": 1,
+      "model": "weapon95844_body",
+      "rank": 3
+    },
+    "95845": {
+      "id": 95845,
+      "name": "心誠則靈",
+      "type_atk": 1,
+      "attackMax": 12,
+      "type_cri": 2,
+      "criticalMax": 12,
+      "type_grd": 3,
+      "guardMax": 12,
+      "type": 0,
+      "model": "weapon95845_body",
+      "rank": 3,
+      "skill": 88967
     }
   },
   "res": 0,
-  "sv": "1484721629"
+  "sv": "1485151096"
 }

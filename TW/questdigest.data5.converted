@@ -1,5 +1,5 @@
 {
-  "deceive": 1484817639,
+  "deceive": 1485424396,
   "questdigest": {
     "20": {
       "append_skill": {},
@@ -19905,6 +19905,19 @@
       "place_id": 9,
       "stamina": 13
     },
+    "75200": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [1],
+      "difficulty": 0,
+      "flag": {},
+      "name": "莉貝菈登場",
+      "quest_id": 75200,
+      "bg_list": [-1],
+      "chapter_cnt": 1,
+      "is_casino": false,
+      "field_type": [0]
+    },
     "75201": {
       "append_skill": {},
       "area_id": 10,
@@ -29939,6 +29952,120 @@
       "place_id": 1,
       "stamina": 10,
       "field_type": [0,0,0]
+    },
+    "88921": {
+      "append_skill": {},
+      "area_id": 2,
+      "chapter_list": [1,2],
+      "difficulty": 24,
+      "flag": {
+        "chara": [{"cid":8892,"lv":1}]
+      },
+      "name": "有龍自東方來",
+      "quest_id": 88921,
+      "bg_list": [13,6],
+      "chapter_cnt": 2,
+      "is_casino": false,
+      "stamina": 5,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0]
+    },
+    "88922": {
+      "append_skill": {
+        "cid": 8892,
+        "idx": "2"
+      },
+      "area_id": 1,
+      "chapter_list": [1,2,3],
+      "difficulty": 54,
+      "flag": {
+        "chara": [{"cid":8892,"lv":60}]
+      },
+      "name": "龍飛於天麟舞於地",
+      "quest_id": 88922,
+      "bg_list": [13,13,13],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 9,
+      "stamina": 10,
+      "field_type": [0,0,0]
+    },
+    "88931": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [1,2],
+      "difficulty": 14,
+      "flag": {
+        "chara": [{"cid":8893,"lv":1}]
+      },
+      "name": "不入虎穴焉得虎子",
+      "quest_id": 88931,
+      "bg_list": [8,8],
+      "chapter_cnt": 2,
+      "is_casino": false,
+      "place_id": 1,
+      "stamina": 5,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0]
+    },
+    "88932": {
+      "append_skill": {
+        "cid": 8893,
+        "idx": "2"
+      },
+      "area_id": 12,
+      "chapter_list": [1,2],
+      "difficulty": 54,
+      "flag": {
+        "chara": [{"cid":8893,"lv":60}]
+      },
+      "name": "虎落監獄被犬欺？",
+      "quest_id": 88932,
+      "bg_list": [110,110],
+      "chapter_cnt": 2,
+      "is_casino": false,
+      "place_id": 3,
+      "stamina": 10,
+      "field_type": [0,0]
+    },
+    "88960": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [1],
+      "difficulty": 4,
+      "flag": {},
+      "name": "財神登場",
+      "quest_id": 88960,
+      "bg_list": [-1],
+      "chapter_cnt": 1
+    },
+    "88961": {
+      "append_skill": {
+        "cid": 8896,
+        "idx": "2"
+      },
+      "area_id": 1,
+      "chapter_list": [1,2],
+      "difficulty": 54,
+      "flag": {
+        "chara": [{"cid":8896,"lv":60}]
+      },
+      "name": "財神賜福",
+      "quest_id": 88961,
+      "bg_list": [9,1],
+      "chapter_cnt": 2,
+      "is_casino": false,
+      "place_id": 1,
+      "stamina": 8,
+      "field_type": [0,0]
     },
     "90020": {
       "append_skill": {},
@@ -59467,9 +59594,7 @@
         "type": "box",
         "box": 3
       },
-      "sort": 3,
-      "field_type": [0],
-      "icon": "242001"
+      "field_type": [0]
     },
     "242002": {
       "append_skill": {},
@@ -59488,7 +59613,6 @@
         "type": "card",
         "box": 3
       },
-      "sort": 2,
       "field_type": [0,0,0]
     },
     "242101": {
@@ -62948,7 +63072,6 @@
         "type": "stone",
         "box": 2
       },
-      "sort": 1,
       "field_type": [0,0,0]
     },
     "244102": {
@@ -62999,7 +63122,7 @@
       "chapter_list": [0],
       "difficulty": 45,
       "flag": {},
-      "name": "艱難的武器收集",
+      "name": "拼命收集武器",
       "quest_id": 244104,
       "bg_list": [3],
       "chapter_cnt": 1,
@@ -63020,7 +63143,7 @@
       "chapter_list": [0],
       "difficulty": 75,
       "flag": {},
-      "name": "艱困的煉金材料收集",
+      "name": "拼命收集鍊金素材",
       "quest_id": 244105,
       "bg_list": [3],
       "chapter_cnt": 1,
@@ -63663,6 +63786,51 @@
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":1000},{"type":"item","id":10,"val":1000},{"type":"item","id":10,"val":1000},{"type":"chara_rf","id":90011,"val":1}],
       "fixed_help": [{"cid":7009,"lv":70,"hp":4870,"atk":6940,"helper_comment":"遠くから……殺す！","skillflag":[true,true,true,false]}]
+    },
+    "244808": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [1],
+      "difficulty": 35,
+      "flag": {},
+      "name": "莉貝菈 體驗任務",
+      "quest_id": 244808,
+      "bg_list": [119],
+      "chapter_cnt": 1,
+      "is_casino": false,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0],
+      "kind_prm": 1,
+      "eneset_treasure": [{"type":"chara_rf","id":90902,"val":1},{"type":"weapon_rf","id":93901,"val":1},{"type":"weapon_rf","id":93901,"val":1},{"type":"chara_rf","id":90902,"val":1}],
+      "fixed_help": [{"cid":7520,"lv":80,"hp":9500,"atk":9500,"helper_comment":null,"skillflag":[true,true,true,false]}]
+    },
+    "244809": {
+      "append_skill": {},
+      "area_id": 10,
+      "chapter_list": [0],
+      "difficulty": 75,
+      "flag": {},
+      "name": "莉貝菈 體驗任務監獄篇",
+      "quest_id": 244809,
+      "bg_list": [110],
+      "chapter_cnt": 1,
+      "is_casino": false,
+      "stamina": 5,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0],
+      "icon": "244808",
+      "kind_prm": 1,
+      "eneset_treasure": [{"type":"item","id":10,"val":100},{"type":"item","id":10,"val":100},{"type":"item","id":10,"val":100},{"type":"item","id":10,"val":100}],
+      "fixed_help": [{"cid":7520,"lv":80,"hp":9500,"atk":9500,"helper_comment":null,"skillflag":[true,true,true,false]}]
     },
     "244905": {
       "append_skill": {},
@@ -64540,10 +64708,9 @@
         "box": 3
       },
       "field_type": [0],
-      "icon": "taiken_ring201605",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"chara_rf","id":90008,"val":1},{"type":"weapon_rf","id":93005,"val":1},{"type":"weapon_rf","id":93005,"val":1},{"type":"chara_rf","id":90013,"val":1}],
-      "fixed_help": [{"cid":3004,"lv":80,"hp":6500,"atk":9550,"helper_comment":"年の功じゃ","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":3004,"lv":80,"hp":6500,"atk":9550,"helper_comment":null,"skillflag":[true,true,true,false]}]
     },
     "280008": {
       "append_skill": {},
@@ -69134,6 +69301,88 @@
       "field_type": [0],
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":2000},{"type":"item","id":10,"val":3000},{"type":"item","id":10,"val":5000},{"type":"item","id":10,"val":10000}]
+    },
+    "1000142": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [1,2],
+      "difficulty": 10,
+      "flag": {},
+      "name": "迎財神",
+      "quest_id": 1000142,
+      "bg_list": [1,1],
+      "chapter_cnt": 2,
+      "is_casino": false,
+      "stamina": 5,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "box",
+        "box": 2
+      },
+      "field_type": [0,0]
+    },
+    "1000143": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [0],
+      "difficulty": 1,
+      "flag": {},
+      "name": "財神到",
+      "quest_id": 1000143,
+      "bg_list": [1],
+      "chapter_cnt": 1,
+      "is_casino": false,
+      "stamina": 4,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "box",
+        "box": 2
+      },
+      "field_type": [0],
+      "kind_prm": 1,
+      "eneset_treasure": [{"type":"item","id":10,"val":168},{"type":"item","id":10,"val":168},{"type":"item","id":10,"val":168},{"type":"item","id":10,"val":168}]
+    },
+    "1000144": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [1],
+      "difficulty": 12,
+      "flag": {},
+      "name": "發福啦",
+      "quest_id": 1000144,
+      "bg_list": [1],
+      "chapter_cnt": 1,
+      "is_casino": false,
+      "stamina": 20,
+      "reward_box": 3,
+      "reward_data": {
+        "type": "card",
+        "box": 3
+      },
+      "field_type": [0],
+      "kind_prm": 1,
+      "eneset_treasure": [{"type":"chara_rf","id":90902,"val":1},{"type":"chara_rf","id":90902,"val":1},{"type":"chara_rf","id":90903,"val":1},{"type":"chara_rf","id":90903,"val":1}]
+    },
+    "1000145": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [1],
+      "difficulty": 12,
+      "flag": {},
+      "name": "花錢啦",
+      "quest_id": 1000145,
+      "bg_list": [1],
+      "chapter_cnt": 1,
+      "is_casino": false,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "card",
+        "box": 2
+      },
+      "field_type": [0],
+      "kind_prm": 1,
+      "eneset_treasure": [{"type":"weapon_rf","id":93901,"val":1},{"type":"weapon_rf","id":93901,"val":1},{"type":"weapon_rf","id":93901,"val":1},{"type":"weapon_rf","id":93902,"val":1}]
     },
     "2394151": {
       "append_skill": {},
@@ -88463,5 +88712,5 @@
     }
   },
   "res": 0,
-  "sv": "1484821990"
+  "sv": "1485409858"
 }
