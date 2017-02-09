@@ -1,10 +1,10 @@
 {
-  "deceive": 1484212951,
+  "deceive": 1486631380,
   "explorer_location": {
     "0": {
       "location": 0,
       "name": "城砦",
-      "timestamp": "1482908400754",
+      "timestamp": "1486360916754",
       "quest_type": 2,
       "quest_id": 210206,
       "tab": 1,
@@ -20,7 +20,7 @@
           "val": 3000
         }
       },
-      "get_item": [{"type":"weapon_ev","id":96057,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"chara_rf","id":90024,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"weapon_rf","id":93008,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"item","id":1001,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"item","id":1002,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"item","id":7,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"card","id":82,"val":1,"category_id":0,"priority":0,"limit":null}]
+      "get_item": [{"type":"weapon_ev","id":96057,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"chara_rf","id":90024,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"weapon_rf","id":93008,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"item","id":1001,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"item","id":1002,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"item","id":7,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"card","id":1069,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"card","id":82,"val":1,"category_id":0,"priority":0,"limit":null}]
     },
     "1": {
       "location": 1,
@@ -179,5 +179,5 @@
     }
   },
   "res": 0,
-  "sv": "1484150401"
+  "sv": "1486360917"
 }

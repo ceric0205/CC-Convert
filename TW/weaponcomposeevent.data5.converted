@@ -1,6 +1,14 @@
 {
-  "deceive": 1484212952,
-  "weapon_compose_event": {},
+  "deceive": 1486631380,
+  "weapon_compose_event": {
+    "2": {
+      "event_id": 2,
+      "start": 1486362301,
+      "end": 1487224800,
+      "event_type": 12,
+      "text": "半價優惠中！"
+    }
+  },
   "res": 0,
-  "sv": "1"
+  "sv": "1486362836"
 }
