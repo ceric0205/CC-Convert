@@ -1,5 +1,5 @@
 {
-  "deceive": 1486631375,
+  "deceive": 1487235699,
   "evolve": {
     "26000": {
       "evol_dst": 26000,
@@ -6922,8 +6922,74 @@
       "usable0": -1,
       "usable1": -1,
       "usable2": -1
+    },
+    "85231": {
+      "evol_dst": 85231,
+      "id": 85231,
+      "name": "慾望",
+      "profile": "魔神スクロロン武器",
+      "rank_limit": 2,
+      "rarity": 5,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1
+    },
+    "85233": {
+      "evol_dst": 85233,
+      "id": 85233,
+      "name": "慾望．攻",
+      "profile": "魔神スクロロン武器",
+      "rank_limit": 2,
+      "rarity": 5,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1
+    },
+    "85234": {
+      "evol_dst": 85234,
+      "id": 85234,
+      "name": "慾望．速",
+      "profile": "魔神スクロロン武器",
+      "rank_limit": 2,
+      "rarity": 5,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1
+    },
+    "85235": {
+      "evol_dst": 85235,
+      "id": 85235,
+      "name": "慾望．體",
+      "profile": "魔神スクロロン武器",
+      "rank_limit": 2,
+      "rarity": 5,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1
+    },
+    "85236": {
+      "evol_dst": 85236,
+      "id": 85236,
+      "name": "石英之藤",
+      "profile": "魔神スクロロン武器　特攻キャラ用",
+      "rank_limit": 2,
+      "rarity": 4,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1
+    },
+    "85237": {
+      "evol_dst": 85237,
+      "id": 85237,
+      "name": "薔薇之蔓",
+      "profile": "魔神スクロロン武器　特攻キャラ用",
+      "rank_limit": 2,
+      "rarity": 4,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1
     }
   },
   "res": 0,
-  "sv": "1486546860"
+  "sv": "1487225811"
 }

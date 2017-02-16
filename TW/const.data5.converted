@@ -26,20 +26,20 @@
   "casino_coin_exchange_limit": 0,
   "casino_coin_price": 50,
   "res": 0,
-  "body": [{"type":14,"data":{"global":{"tmp_interval":600,"purchase":1,"raid_item":-1,"review":1},"cover":null,"raid":{"raid_id":112,"bg":2000,"banner":1,"event_start":1486015200,"event_end":1486706400,"close":1486620000,"name":"雞咕雞咕新年財","full_time":130,"part_time":90,"sp_cards":[{"cid":"7520","skill_id":"88968"}],"full_pirica_time":13,"part_pirica_time":22,"hp_up":2,"atk_up":2,"anger_hp_up":2,"anger_atk_up":2,"anger_battle_time":30,"repeat_reward":{"per_smash_cnt":5,"type":"item","id":10,"val":100000}},"totalwar":null,"subjugation":[],"expup":null,"weaponcompose":{"weapon_compose_disabled":false},"party_opt":{"type":1,"cost_border1":16,"cost_border2":12}},"proc":0}],
+  "body": [{"type":14,"data":{"global":{"tmp_interval":600,"purchase":1,"raid_item":-1,"review":1},"cover":null,"raid":null,"totalwar":null,"subjugation":[],"expup":{"id":34,"start":1487138400,"end":1488434399,"exp_rate":2.0,"cids":[34,45,40,46,41,63,7024,7574,7575]},"weaponcompose":{"weapon_compose_disabled":false},"party_opt":{"type":1,"cost_border1":16,"cost_border2":12}},"proc":0}],
   "mVer": {
-    "charainfo": 1486537377,
-    "weaponlist": 1486546860,
-    "skilllist": 1486537377,
+    "charainfo": 1487133109,
+    "weaponlist": 1487225811,
+    "skilllist": 1487138376,
     "worldinfo": 1484558921,
-    "episodeinfo": 1486524043,
-    "questdigest": 1486610375,
+    "episodeinfo": 1486978862,
+    "questdigest": 1487211274,
     "itemlist": 1480392028,
-    "booklist": 1482473608,
+    "booklist": 1486633060,
     "motionlist": 1466661459,
     "missionlist": 1486370605,
     "repeatmissionlist": 1480392028,
-    "bossinfo": 1485323716,
+    "bossinfo": 1487133105,
     "battleinfo": 1482473793,
     "homelist": 1480392027,
     "supporterskill": 1486349402,
@@ -55,7 +55,7 @@
     "eventbadge": 1,
     "casinoinfo": 482250627,
     "reload": 1465398000,
-    "servertime": 1486631401
+    "servertime": 1487235735
   },
   "sv": "0"
 }
