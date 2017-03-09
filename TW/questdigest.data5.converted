@@ -1,5 +1,5 @@
 {
-  "deceive": 1488450361,
+  "deceive": 1489050159,
   "questdigest": {
     "20": {
       "append_skill": {},
@@ -61924,7 +61924,7 @@
       "chapter_list": [1,2],
       "difficulty": 4,
       "flag": {},
-      "name": "神秘森林・壹",
+      "name": "神秘森林．壹",
       "quest_id": 243102,
       "bg_list": [1,2],
       "chapter_cnt": 2,
@@ -61944,7 +61944,7 @@
       "chapter_list": [1,2],
       "difficulty": 5,
       "flag": {},
-      "name": "神秘森林・貳",
+      "name": "神秘森林．貳",
       "quest_id": 243103,
       "bg_list": [123,123],
       "chapter_cnt": 2,
@@ -61964,7 +61964,7 @@
       "chapter_list": [1,2],
       "difficulty": 6,
       "flag": {},
-      "name": "神秘森林・參",
+      "name": "神秘森林．參",
       "quest_id": 243104,
       "bg_list": [1,1],
       "chapter_cnt": 2,
@@ -61984,7 +61984,7 @@
       "chapter_list": [1,2,3],
       "difficulty": 7,
       "flag": {},
-      "name": "神秘森林・四",
+      "name": "神秘森林．四",
       "quest_id": 243105,
       "bg_list": [1,2,8],
       "chapter_cnt": 3,
@@ -62024,7 +62024,7 @@
       "chapter_list": [1,2,3],
       "difficulty": 9,
       "flag": {},
-      "name": "神秘森林・完結",
+      "name": "神秘森林．結",
       "quest_id": 243107,
       "bg_list": [1,1,1],
       "chapter_cnt": 3,
@@ -62125,7 +62125,7 @@
       "icon": "Event017",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":500},{"type":"weapon_rf","id":93000,"val":1},{"type":"chara_rf","id":90005,"val":1},{"type":"chara_rf","id":90005,"val":1}],
-      "fixed_help": [{"cid":8157,"lv":60,"hp":6000,"atk":6000,"helper_comment":"これでどうだぁ！","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":8157,"lv":60,"hp":6000,"atk":6000,"helper_comment":"這樣如何！","skillflag":[true,true,true,false]}]
     },
     "243112": {
       "append_skill": {},
@@ -62148,7 +62148,7 @@
       "icon": "Event018",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":500},{"type":"weapon_rf","id":93018,"val":1},{"type":"chara_rf","id":90008,"val":1},{"type":"chara_rf","id":90008,"val":1}],
-      "fixed_help": [{"cid":8158,"lv":60,"hp":6250,"atk":7470,"helper_comment":"舞い散れ、命の花！","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":8158,"lv":60,"hp":6250,"atk":7470,"helper_comment":"飛舞飄散吧、命之花！","skillflag":[true,true,true,false]}]
     },
     "243113": {
       "append_skill": {},
@@ -62171,7 +62171,7 @@
       "icon": "Event019",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":500},{"type":"weapon_rf","id":93002,"val":1},{"type":"chara_rf","id":90005,"val":1},{"type":"chara_rf","id":90005,"val":1}],
-      "fixed_help": [{"cid":8161,"lv":60,"hp":6820,"atk":8020,"helper_comment":"まっぷたっつぅー！！","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":8161,"lv":60,"hp":6820,"atk":8020,"helper_comment":"切成兩半－－！！","skillflag":[true,true,true,false]}]
     },
     "243114": {
       "append_skill": {},
@@ -62194,7 +62194,7 @@
       "icon": "Event017",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"weapon_rf","id":93000,"val":1},{"type":"weapon_rf","id":93000,"val":1},{"type":"chara_rf","id":90010,"val":1},{"type":"chara_rf","id":90010,"val":1}],
-      "fixed_help": [{"cid":8157,"lv":80,"hp":8000,"atk":8000,"helper_comment":"これでどうだぁ！","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":8157,"lv":80,"hp":8000,"atk":8000,"helper_comment":"這樣如何！","skillflag":[true,true,true,false]}]
     },
     "243115": {
       "append_skill": {},
@@ -62217,7 +62217,7 @@
       "icon": "Event018",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"weapon_rf","id":93018,"val":1},{"type":"weapon_rf","id":93018,"val":1},{"type":"chara_rf","id":90013,"val":1},{"type":"chara_rf","id":90013,"val":1}],
-      "fixed_help": [{"cid":8158,"lv":80,"hp":8250,"atk":9470,"helper_comment":"舞い散れ、命の花！","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":8158,"lv":80,"hp":8250,"atk":9470,"helper_comment":"飛舞飄散吧、命之花！","skillflag":[true,true,true,false]}]
     },
     "243116": {
       "append_skill": {},
@@ -62240,7 +62240,7 @@
       "icon": "Event019",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"weapon_rf","id":93002,"val":1},{"type":"weapon_rf","id":93002,"val":1},{"type":"chara_rf","id":90010,"val":1},{"type":"chara_rf","id":90010,"val":1}],
-      "fixed_help": [{"cid":8161,"lv":80,"hp":8820,"atk":10020,"helper_comment":"まっぷたっつぅー！！","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":8161,"lv":80,"hp":8820,"atk":10020,"helper_comment":"切成兩半－－！！","skillflag":[true,true,true,false]}]
     },
     "243201": {
       "append_skill": {},
@@ -70454,7 +70454,7 @@
         "box": 3
       },
       "field_type": [0,0,0],
-      "fixed_help": [{"cid":6002,"lv":60,"hp":6900,"atk":7400,"helper_comment":"ゲホッ……ゲホゲホ","skillflag":[true,true,true,false]},{"cid":6034,"lv":50,"hp":5600,"atk":5560,"helper_comment":"兄者、大丈夫かな","skillflag":[true,true,true,false]},{"cid":6034,"lv":50,"hp":5600,"atk":5560,"helper_comment":"何だか見覚えが……","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":6002,"lv":60,"hp":6900,"atk":7400,"helper_comment":"咳……咳、咳咳","skillflag":[true,true,true,false]},{"cid":6034,"lv":50,"hp":5600,"atk":5560,"helper_comment":"哥哥，沒問題嗎","skillflag":[true,true,true,false]},{"cid":6034,"lv":50,"hp":5600,"atk":5560,"helper_comment":"不知怎麼有點熟悉……","skillflag":[true,true,true,false]}]
     },
     "220122": {
       "append_skill": {},
@@ -70462,7 +70462,7 @@
       "chapter_list": [1,2,3],
       "difficulty": 10,
       "flag": {},
-      "name": "他本尊的原形",
+      "name": "他的原形",
       "quest_id": 220122,
       "bg_list": [8,2,8],
       "chapter_cnt": 3,
@@ -70475,7 +70475,7 @@
         "box": 3
       },
       "field_type": [0,0,0],
-      "fixed_help": [{"cid":2010,"lv":60,"hp":3700,"atk":6400,"helper_comment":"爆ぜろぉぉ！","skillflag":[true,true,true,false]},{"cid":2010,"lv":60,"hp":3700,"atk":6400,"helper_comment":"さて、魔物討伐か","skillflag":[true,true,true,false]},{"cid":2010,"lv":60,"hp":3700,"atk":6400,"helper_comment":"あいつら、ぶっ殺す！","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":2010,"lv":60,"hp":3700,"atk":6400,"helper_comment":"爆發吧！","skillflag":[true,true,true,false]},{"cid":2010,"lv":60,"hp":3700,"atk":6400,"helper_comment":"再來是，討伐魔物嗎","skillflag":[true,true,true,false]},{"cid":2010,"lv":60,"hp":3700,"atk":6400,"helper_comment":"把他們，全部炸掉！","skillflag":[true,true,true,false]}]
     },
     "220123": {
       "append_skill": {},
@@ -88701,5 +88701,5 @@
     }
   },
   "res": 0,
-  "sv": "1488449708"
+  "sv": "1489028891"
 }

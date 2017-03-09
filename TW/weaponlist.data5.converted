@@ -1,5 +1,5 @@
 {
-  "deceive": 1487235699,
+  "deceive": 1488445219,
   "weaponlist": {
     "1": {
       "id": 1,
@@ -11152,7 +11152,7 @@
     },
     "85172": {
       "id": 85172,
-      "name": "白的鐵扇",
+      "name": "哈克的鐵扇",
       "type_atk": 1,
       "attackMax": 12,
       "type_cri": 2,
@@ -11204,7 +11204,7 @@
     },
     "85176": {
       "id": 85176,
-      "name": "阿托伊之槍",
+      "name": "阿圖依之槍",
       "type_atk": 1,
       "attackMax": 15,
       "type_cri": 2,
@@ -14742,8 +14742,22 @@
       "model": "weapon95845_body",
       "rank": 3,
       "skill": 88967
+    },
+    "412": {
+      "id": 412,
+      "name": "維達殊坦特之銃",
+      "type_atk": 1,
+      "attackMax": 15,
+      "type_cri": 2,
+      "criticalMax": 15,
+      "type_grd": 3,
+      "guardMax": 5,
+      "type": 9,
+      "model": "weapon412_body",
+      "rank": 3,
+      "skill": 26015
     }
   },
   "res": 0,
-  "sv": "1487225811"
+  "sv": "1487908558"
 }
