@@ -1,5 +1,5 @@
 {
-  "deceive": 1489654911,
+  "deceive": 1490259639,
   "questdigest": {
     "20": {
       "append_skill": {},
@@ -64518,7 +64518,7 @@
       "chapter_list": [1,2],
       "difficulty": 5,
       "flag": {},
-      "name": "我喜歡大海！！",
+      "name": "最喜歡大海！！",
       "quest_id": 245001,
       "bg_list": [9,100],
       "chapter_cnt": 2,
@@ -70337,7 +70337,7 @@
       "flag": {},
       "name": "強者們的洞窟",
       "quest_id": 220116,
-      "bg_list": [6],
+      "bg_list": [100],
       "chapter_cnt": 1,
       "is_casino": false,
       "place_id": 7,
@@ -70350,6 +70350,7 @@
       "field_type": [0],
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":200},{"type":"item","id":10,"val":200},{"type":"item","id":10,"val":200},{"type":"item","id":10,"val":200}],
+      "fixed_help": [{"cid":5068,"lv":80,"hp":9150,"atk":9250,"helper_comment":null,"skillflag":[true,true,true,false]}],
       "is_infinite": true,
       "wave_cnt": 50
     },
@@ -88700,5 +88701,5 @@
     }
   },
   "res": 0,
-  "sv": "1489629366"
+  "sv": "1490253169"
 }

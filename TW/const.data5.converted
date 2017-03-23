@@ -26,14 +26,14 @@
   "casino_coin_exchange_limit": 0,
   "casino_coin_price": 50,
   "res": 0,
-  "body": [{"type":14,"data":{"global":{"tmp_interval":600,"purchase":1,"raid_item":-1,"review":1},"cover":null,"raid":null,"totalwar":null,"subjugation":[],"expup":null,"weaponcompose":{"weapon_compose_disabled":false},"party_opt":{"type":1,"cost_border1":16,"cost_border2":12}},"proc":0}],
+  "body": [{"type":14,"data":{"global":{"tmp_interval":600,"purchase":1,"raid_item":-1,"review":1},"cover":null,"raid":null,"totalwar":{"totalwar_id":4,"event_start":1489680000,"close":1490284799,"event_end":1490284799,"token_cnt_per_request":100,"banner_image":"160323_UtawareTotalwar_top","start_cnt":[1,2,3,5],"close_interval":10,"first_border_ap":10,"event_days":7,"rest_border_ap":30},"subjugation":[],"expup":null,"weaponcompose":{"weapon_compose_disabled":false},"party_opt":{"type":1,"cost_border1":16,"cost_border2":12}},"proc":0}],
   "mVer": {
-    "charainfo": 1489398780,
-    "weaponlist": 1487908558,
-    "skilllist": 1489398889,
+    "charainfo": 1490234229,
+    "weaponlist": 1490234226,
+    "skilllist": 1489977663,
     "worldinfo": 1484558921,
     "episodeinfo": 1487905282,
-    "questdigest": 1489629366,
+    "questdigest": 1490253169,
     "itemlist": 1480392028,
     "booklist": 1486633060,
     "motionlist": 1488420743,
@@ -55,7 +55,7 @@
     "eventbadge": 1,
     "casinoinfo": 482250627,
     "reload": 1465398000,
-    "servertime": 1489655106
+    "servertime": 1490259683
   },
   "sv": "0"
 }
