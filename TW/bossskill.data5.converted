@@ -1,5 +1,5 @@
 {
-  "deceive": 1489654875,
+  "deceive": 1490864730,
   "bossskill": {
     "1": {
       "atkspeed": "3",
@@ -11285,8 +11285,33 @@
       "spmotname": "ss_battou03",
       "skillparam3": 3.5,
       "skillparam2": 4.5
+    },
+    "50920": {
+      "skillflag0_0": 0,
+      "skillflag0_1": 0,
+      "skillflag1_0": 0,
+      "skillflag1_1": 0,
+      "skillid": 50920,
+      "skillid0": 66,
+      "skillparam1": 1.0,
+      "spmotname": "sp_powerup01",
+      "skillparam4": 2.0,
+      "skillparam5": 120.0,
+      "skillparam0": 7.0
+    },
+    "50921": {
+      "skillflag0_0": 0,
+      "skillflag0_1": 0,
+      "skillflag1_0": 0,
+      "skillflag1_1": 0,
+      "skillid": 50921,
+      "skillid0": 44,
+      "skillparam1": 0.8,
+      "spmotname": "sp_shoot_repeat01",
+      "skillparam3": 6.0,
+      "skillparam2": 0.15
     }
   },
   "res": 0,
-  "sv": "1489398776"
+  "sv": "1491062400"
 }

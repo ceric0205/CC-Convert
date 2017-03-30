@@ -1,5 +1,5 @@
 {
-  "deceive": 1490259639,
+  "deceive": 1490864766,
   "questdigest": {
     "20": {
       "append_skill": {},
@@ -14267,6 +14267,48 @@
       "place_id": 1,
       "stamina": 12,
       "field_type": [0,0]
+    },
+    "50921": {
+      "append_skill": {},
+      "area_id": 4,
+      "chapter_list": [1,2],
+      "difficulty": 14,
+      "flag": {
+        "chara": [{"cid":5092,"lv":1}]
+      },
+      "name": "森林之力",
+      "quest_id": 50921,
+      "bg_list": [2,2],
+      "chapter_cnt": 2,
+      "is_casino": false,
+      "place_id": 7,
+      "stamina": 8,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0]
+    },
+    "50922": {
+      "append_skill": {
+        "cid": 5092,
+        "idx": "2"
+      },
+      "area_id": 1,
+      "chapter_list": [1,2,3],
+      "difficulty": 31,
+      "flag": {
+        "chara": [{"cid":5092,"lv":30}]
+      },
+      "name": "大自然的守護",
+      "quest_id": 50922,
+      "bg_list": [2,2,2],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 7,
+      "stamina": 10,
+      "field_type": [0,0,0]
     },
     "60011": {
       "append_skill": {},
@@ -52665,7 +52707,7 @@
       "chapter_list": [1],
       "difficulty": 1,
       "flag": {},
-      "name": "魔神加比魯茲襲擊",
+      "name": "魔神加比魯茲襲來…？",
       "quest_id": 237801,
       "bg_list": [5],
       "chapter_cnt": 1,
@@ -61114,6 +61156,28 @@
       "casino_coin": 200,
       "casino_reward_up_rate": 2
     },
+    "242611": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [1],
+      "difficulty": 4,
+      "flag": {},
+      "name": "魔神加比魯茲襲來…？",
+      "quest_id": 242611,
+      "bg_list": [5],
+      "chapter_cnt": 1,
+      "is_casino": false,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "box",
+        "box": 2
+      },
+      "field_type": [0],
+      "icon": "20150401",
+      "kind_prm": 1,
+      "eneset_treasure": [{"type":"card","id":7559,"val":1}]
+    },
     "242701": {
       "append_skill": {},
       "area_id": 1,
@@ -65308,6 +65372,29 @@
       "kind_prm": 1,
       "eneset_treasure": [{"type":"chara_rf","id":90007,"val":1},{"type":"weapon_rf","id":93004,"val":1},{"type":"weapon_rf","id":93004,"val":1},{"type":"chara_rf","id":90012,"val":1}],
       "fixed_help": [{"cid":4051,"lv":80,"hp":5550,"atk":9550,"helper_comment":"星光啊……","skillflag":[true,true,true,false]}]
+    },
+    "280007": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [0],
+      "difficulty": 26,
+      "flag": {},
+      "name": "嘗試任務",
+      "quest_id": 280007,
+      "bg_list": [4],
+      "chapter_cnt": 1,
+      "is_casino": false,
+      "stamina": 10,
+      "reward_box": 3,
+      "reward_data": {
+        "type": "card",
+        "box": 3
+      },
+      "field_type": [0],
+      "icon": "taiken_ring201607",
+      "kind_prm": 1,
+      "eneset_treasure": [{"type":"item","id":10,"val":1000},{"type":"item","id":10,"val":1000},{"type":"item","id":10,"val":1000},{"type":"item","id":10,"val":1000}],
+      "fixed_help": [{"cid":5092,"lv":80,"hp":5500,"atk":9200,"helper_comment":null,"skillflag":[true,true,true,false]}]
     },
     "280008": {
       "append_skill": {},
@@ -70337,7 +70424,7 @@
       "flag": {},
       "name": "強者們的洞窟",
       "quest_id": 220116,
-      "bg_list": [100],
+      "bg_list": [6],
       "chapter_cnt": 1,
       "is_casino": false,
       "place_id": 7,
@@ -70350,7 +70437,6 @@
       "field_type": [0],
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":200},{"type":"item","id":10,"val":200},{"type":"item","id":10,"val":200},{"type":"item","id":10,"val":200}],
-      "fixed_help": [{"cid":5068,"lv":80,"hp":9150,"atk":9250,"helper_comment":null,"skillflag":[true,true,true,false]}],
       "is_infinite": true,
       "wave_cnt": 50
     },
@@ -73959,6 +74045,320 @@
       "field_type": [0],
       "kind_prm": 1,
       "eneset_treasure": [{"type":"weapon_rf","id":93004,"val":1},{"type":"item","id":11,"val":700},{"type":"chara_rf","id":90007,"val":1},{"type":"weapon_rf","id":93004,"val":1}]
+    },
+    "221501": {
+      "append_skill": {},
+      "area_id": 10,
+      "chapter_list": [1,2,3],
+      "difficulty": 41,
+      "flag": {},
+      "name": "大海的規矩",
+      "quest_id": 221501,
+      "bg_list": [9,101,101],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 5,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221502": {
+      "append_skill": {},
+      "area_id": 11,
+      "chapter_list": [1,2,3],
+      "difficulty": 42,
+      "flag": {},
+      "name": "公正商人繁盛紀",
+      "quest_id": 221502,
+      "bg_list": [2,2,2],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 3,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221503": {
+      "append_skill": {},
+      "area_id": 10,
+      "chapter_list": [1,2,3],
+      "difficulty": 41,
+      "flag": {},
+      "name": "海底散步",
+      "quest_id": 221503,
+      "bg_list": [102,102,102],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 3,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221504": {
+      "append_skill": {},
+      "area_id": 12,
+      "chapter_list": [1,2,3],
+      "difficulty": 43,
+      "flag": {},
+      "name": "夢幻逸品",
+      "quest_id": 221504,
+      "bg_list": [101,107,107],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 1,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221505": {
+      "append_skill": {},
+      "area_id": 11,
+      "chapter_list": [1,2,3],
+      "difficulty": 42,
+      "flag": {},
+      "name": "義勇軍的音樂隊",
+      "quest_id": 221505,
+      "bg_list": [13,13,13],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 8,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221506": {
+      "append_skill": {},
+      "area_id": 10,
+      "chapter_list": [1,2,3],
+      "difficulty": 41,
+      "flag": {},
+      "name": "義勇軍漂流記1",
+      "quest_id": 221506,
+      "bg_list": [100,100,100],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 10,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221507": {
+      "append_skill": {},
+      "area_id": 10,
+      "chapter_list": [1,2,3],
+      "difficulty": 41,
+      "flag": {},
+      "name": "義勇軍漂流記2",
+      "quest_id": 221507,
+      "bg_list": [100,100,100],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 10,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221508": {
+      "append_skill": {},
+      "area_id": 13,
+      "chapter_list": [1,2,3],
+      "difficulty": 44,
+      "flag": {},
+      "name": "文化的萌芽",
+      "quest_id": 221508,
+      "bg_list": [101,113,113],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221509": {
+      "append_skill": {},
+      "area_id": 10,
+      "chapter_list": [1,2,3],
+      "difficulty": 41,
+      "flag": {},
+      "name": "復活的勇者！",
+      "quest_id": 221509,
+      "bg_list": [101,101,101],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 7,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221510": {
+      "append_skill": {},
+      "area_id": 4,
+      "chapter_list": [1,2,3],
+      "difficulty": 41,
+      "flag": {},
+      "name": "舉行！海風GP！",
+      "quest_id": 221510,
+      "bg_list": [100,6,100],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 9,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221511": {
+      "append_skill": {},
+      "area_id": 10,
+      "chapter_list": [1,2,3],
+      "difficulty": 41,
+      "flag": {},
+      "name": "千金小姐們的午後時光",
+      "quest_id": 221511,
+      "bg_list": [9,9,9],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 4,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221512": {
+      "append_skill": {},
+      "area_id": 14,
+      "chapter_list": [1,2,3],
+      "difficulty": 45,
+      "flag": {},
+      "name": "機關車ＶＳ肌肉",
+      "quest_id": 221512,
+      "bg_list": [117,117,117],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 3,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221513": {
+      "append_skill": {},
+      "area_id": 12,
+      "chapter_list": [1,2,3],
+      "difficulty": 43,
+      "flag": {},
+      "name": "義勇軍殺人事件",
+      "quest_id": 221513,
+      "bg_list": [8,8,107],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 1,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221514": {
+      "append_skill": {},
+      "area_id": 10,
+      "chapter_list": [1,2,3],
+      "difficulty": 41,
+      "flag": {},
+      "name": "表演賽盛大舉行！",
+      "quest_id": 221514,
+      "bg_list": [101,101,101],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 3,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221515": {
+      "append_skill": {},
+      "area_id": 11,
+      "chapter_list": [1,2,3],
+      "difficulty": 42,
+      "flag": {},
+      "name": "貓與虎",
+      "quest_id": 221515,
+      "bg_list": [1,6,2],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 1,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
     },
     "233106": {
       "append_skill": {},
@@ -88701,5 +89101,5 @@
     }
   },
   "res": 0,
-  "sv": "1490253169"
+  "sv": "1490848030"
 }

@@ -1,5 +1,5 @@
 {
-  "deceive": 1489654875,
+  "deceive": 1490864730,
   "bosspattern": {
     "1": {
       "che": 0,
@@ -8968,13 +8968,13 @@
       "posp": 0.0,
       "priority": 100,
       "scost": 3,
-      "sinfo": "地形が砂浜/船上/海中で使用した場合、前方範囲内の全ての敵に、氷属性の大ダメージを与え、ダウンにする。",
+      "sinfo": "若在海灘/船上/海上等地形使用的話，則必殺技的範圍會變大，並追加暈眩效果。",
       "skillid0": 70230,
       "skillid1": 0,
       "skillid2": 0,
       "skillid3": 0,
-      "sname": "ネオ・ヴォルテックス",
-      "stext": "うずしおよ！　ってあれ？",
+      "sname": "新．渦潮暴擊",
+      "stext": "潮流聽命！　咦，奇怪？",
       "voice": 0,
       "bgf": 1048576
     },
@@ -12737,8 +12737,49 @@
       "sname": "神技．玲瓏黑破斬",
       "stext": "神技．玲瓏黑破斬！",
       "voice": 4
+    },
+    "50920": {
+      "che": 0,
+      "chs": 0,
+      "flag": 0,
+      "hpend": 100.0,
+      "hpstart": 0.0,
+      "patternid": 50920,
+      "pose": 0.0,
+      "posp": 0.0,
+      "priority": 0,
+      "scost": 1,
+      "sinfo": "【地形變化】將地形長時間變更為森林。",
+      "skillid0": 50920,
+      "skillid1": 0,
+      "skillid2": 0,
+      "skillid3": 0,
+      "sname": "森林堅堡",
+      "stext": "可不能小看森林喔",
+      "voice": 0
+    },
+    "50921": {
+      "che": 0,
+      "chs": 0,
+      "flag": 0,
+      "hpend": 100.0,
+      "hpstart": 0.0,
+      "patternid": 50921,
+      "pose": 0.0,
+      "posp": 0.0,
+      "priority": 100,
+      "scost": 1,
+      "sinfo": "當地形為森林時，給予直線範圍上的1名敵人7次傷害。",
+      "skillid0": 50921,
+      "skillid1": 0,
+      "skillid2": 0,
+      "skillid3": 0,
+      "sname": "綠林連射",
+      "stext": "可不能小看森林喔",
+      "voice": 0,
+      "bgf": 4
     }
   },
   "res": 0,
-  "sv": "1489398776"
+  "sv": "1491062400"
 }
