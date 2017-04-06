@@ -1,5 +1,5 @@
 {
-  "deceive": 1490864766,
+  "deceive": 1491469276,
   "questdigest": {
     "20": {
       "append_skill": {},
@@ -74360,6 +74360,321 @@
       "field_type": [0,0,0],
       "icon": "ShortStory01"
     },
+    "221516": {
+      "append_skill": {},
+      "area_id": 14,
+      "chapter_list": [1,2,3],
+      "difficulty": 45,
+      "flag": {},
+      "name": "鐵煙旅行記",
+      "quest_id": 221516,
+      "bg_list": [117,115,116],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 1,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221517": {
+      "append_skill": {},
+      "area_id": 12,
+      "chapter_list": [1,2,3],
+      "difficulty": 41,
+      "flag": {},
+      "name": "送便當",
+      "quest_id": 221517,
+      "bg_list": [101,2,12],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 1,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221518": {
+      "append_skill": {},
+      "area_id": 14,
+      "chapter_list": [1,2,3],
+      "difficulty": 45,
+      "flag": {},
+      "name": "追求羅曼",
+      "quest_id": 221518,
+      "bg_list": [116,7,7],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 5,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221519": {
+      "append_skill": {},
+      "area_id": 12,
+      "chapter_list": [1,2,3],
+      "difficulty": 43,
+      "flag": {},
+      "name": "里昂當上所長1",
+      "quest_id": 221519,
+      "bg_list": [110,110,110],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 7,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221520": {
+      "append_skill": {},
+      "area_id": 12,
+      "chapter_list": [1,2,3],
+      "difficulty": 43,
+      "flag": {},
+      "name": "里昂當上所長2",
+      "quest_id": 221520,
+      "bg_list": [108,110,110],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 7,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221521": {
+      "append_skill": {},
+      "area_id": 10,
+      "chapter_list": [1,2,3],
+      "difficulty": 41,
+      "flag": {},
+      "name": "平息大海的歌舞",
+      "quest_id": 221521,
+      "bg_list": [104,78,104],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 5,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221522": {
+      "append_skill": {},
+      "area_id": 10,
+      "chapter_list": [1,2,3],
+      "difficulty": 41,
+      "flag": {},
+      "name": "大海第一酒豪",
+      "quest_id": 221522,
+      "bg_list": [103,103,103],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 1,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221523": {
+      "append_skill": {},
+      "area_id": 11,
+      "chapter_list": [1,2,3],
+      "difficulty": 42,
+      "flag": {},
+      "name": "獼猴桃恐慌事件",
+      "quest_id": 221523,
+      "bg_list": [2,1,6],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 1,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221524": {
+      "append_skill": {},
+      "area_id": 14,
+      "chapter_list": [1,2,3],
+      "difficulty": 45,
+      "flag": {},
+      "name": "鬍子男",
+      "quest_id": 221524,
+      "bg_list": [116,116,116],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 5,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221525": {
+      "append_skill": {},
+      "area_id": 13,
+      "chapter_list": [1,2,3],
+      "difficulty": 44,
+      "flag": {},
+      "name": "掃把星來了",
+      "quest_id": 221525,
+      "bg_list": [113,114,13],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 1,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221526": {
+      "append_skill": {},
+      "area_id": 11,
+      "chapter_list": [1,2,3],
+      "difficulty": 42,
+      "flag": {},
+      "name": "大家感情好",
+      "quest_id": 221526,
+      "bg_list": [6,6,6],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 8,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221527": {
+      "append_skill": {},
+      "area_id": 10,
+      "chapter_list": [1,2,3],
+      "difficulty": 41,
+      "flag": {},
+      "name": "多明尼克的寶物",
+      "quest_id": 221527,
+      "bg_list": [101,101,101],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 7,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221528": {
+      "append_skill": {},
+      "area_id": 12,
+      "chapter_list": [1,2,3],
+      "difficulty": 43,
+      "flag": {},
+      "name": "監獄牧場",
+      "quest_id": 221528,
+      "bg_list": [107,107,12],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 1,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221529": {
+      "append_skill": {},
+      "area_id": 10,
+      "chapter_list": [1,2,3],
+      "difficulty": 41,
+      "flag": {},
+      "name": "老人與生銹",
+      "quest_id": 221529,
+      "bg_list": [101,101,101],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 7,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
+    "221530": {
+      "append_skill": {},
+      "area_id": 10,
+      "chapter_list": [1,2,3],
+      "difficulty": 41,
+      "flag": {},
+      "name": "支持者們",
+      "quest_id": 221530,
+      "bg_list": [9,9,9],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 4,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0],
+      "icon": "ShortStory01"
+    },
     "233106": {
       "append_skill": {},
       "area_id": 1,
@@ -89101,5 +89416,5 @@
     }
   },
   "res": 0,
-  "sv": "1490848030"
+  "sv": "1491389036"
 }
