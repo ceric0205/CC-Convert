@@ -1,5 +1,5 @@
 {
-  "deceive": 1490864730,
+  "deceive": 1492074010,
   "bossskill": {
     "1": {
       "atkspeed": "3",
@@ -11310,8 +11310,151 @@
       "spmotname": "sp_shoot_repeat01",
       "skillparam3": 6.0,
       "skillparam2": 0.15
+    },
+    "81280": {
+      "skillflag0_0": 0,
+      "skillflag0_1": 0,
+      "skillflag1_0": 0,
+      "skillflag1_1": 0,
+      "skillid": 81280,
+      "skillid0": 1,
+      "skillparam1": 0.625,
+      "spmotname": "monk_sp_rush01",
+      "skillparam3": 7.0,
+      "skillparam2": 0.17
+    },
+    "81281": {
+      "skillflag0_0": 16,
+      "skillflag0_1": 0,
+      "skillflag1_0": 0,
+      "skillflag1_1": 0,
+      "skillid": 81281,
+      "skillid0": 3,
+      "skillparam1": 7.0,
+      "spmotname": "monk_sp_punch01",
+      "skillparam2": 1.2,
+      "skillflag": 17
+    },
+    "81310": {
+      "skillflag0_0": 0,
+      "skillflag0_1": 0,
+      "skillflag1_0": 0,
+      "skillflag1_1": 0,
+      "skillid": 81310,
+      "skillid0": 52,
+      "skillparam1": 400105.0,
+      "spmotname": "fighter_walk01",
+      "skillparam2": 10000.0
+    },
+    "81311": {
+      "skillflag0_0": 1,
+      "skillflag0_1": 0,
+      "skillflag1_0": 0,
+      "skillflag1_1": 0,
+      "skillid": 81311,
+      "skillid0": 2,
+      "skillparam1": 3.0,
+      "spmotname": "sp_thrust01",
+      "skillparam2": 4.5,
+      "skillflag": 1
+    },
+    "81312": {
+      "skillflag0_0": 0,
+      "skillflag0_1": 0,
+      "skillflag1_0": 0,
+      "skillflag1_1": 0,
+      "skillid": 81312,
+      "skillid0": 52,
+      "skillparam1": 121000.0,
+      "spmotname": "fighter_walk01",
+      "skillparam3": 200000.0,
+      "skillparam2": 100500.0
+    },
+    "81313": {
+      "skillflag0_0": 0,
+      "skillflag0_1": 0,
+      "skillflag1_0": 0,
+      "skillflag1_1": 0,
+      "skillid": 81313,
+      "skillid0": 13,
+      "skillparam1": 0.2,
+      "spmotname": "sp_powerup01",
+      "skillparam3": 20.0,
+      "skillparam2": 0.2
+    },
+    "81320": {
+      "skillflag0_0": 0,
+      "skillflag0_1": 0,
+      "skillflag1_0": 0,
+      "skillflag1_1": 0,
+      "skillid": 81320,
+      "skillid0": 44,
+      "skillparam1": 0.65,
+      "spmotname": "two-gun_sp_shoot_repeat01",
+      "skillparam3": 9.0,
+      "skillparam2": 0.1
+    },
+    "81321": {
+      "skillflag0_0": 0,
+      "skillflag0_1": 0,
+      "skillflag1_0": 0,
+      "skillflag1_1": 0,
+      "skillid": 81321,
+      "skillid0": 11,
+      "skillparam1": 5.5,
+      "spmotname": "gun_sp_powerup02"
+    },
+    "20010": {
+      "skillflag0_0": 4224,
+      "skillflag0_1": 0,
+      "skillflag1_0": 0,
+      "skillflag1_1": 0,
+      "skillid": 20010,
+      "skillid0": 11,
+      "skillparam1": 5.5,
+      "spmotname": "sp_healing01"
+    },
+    "20011": {
+      "skillflag0_0": 4224,
+      "skillflag0_1": 0,
+      "skillflag1_0": 0,
+      "skillflag1_1": 0,
+      "skillid": 20011,
+      "skillid0": 27,
+      "skillparam1": 1.2,
+      "spmotname": "ss_healing01",
+      "skillparam3": 20.0,
+      "skillparam2": 5.0
+    },
+    "20020": {
+      "skillflag0_0": 1024,
+      "skillflag0_1": 0,
+      "skillflag1_0": 0,
+      "skillflag1_1": 0,
+      "skillid": 20020,
+      "skillid0": 47,
+      "skillparam1": 1.0,
+      "spmotname": "sp_magic01",
+      "skillparam3": 1.5,
+      "skillparam2": 1.8,
+      "skillparam4": 3.0,
+      "skillparam5": 15.0,
+      "skillparam0": 15.0
+    },
+    "20021": {
+      "skillflag0_0": 5248,
+      "skillflag0_1": 0,
+      "skillflag1_0": 0,
+      "skillflag1_1": 0,
+      "skillid": 20021,
+      "skillid0": 33,
+      "skillparam1": 30.0,
+      "spmotname": "ss_burst02",
+      "skillparam3": 4.0,
+      "skillparam2": 2.0,
+      "str0": "BE_Satellite_Laser_d"
     }
   },
   "res": 0,
-  "sv": "1491062400"
+  "sv": "1491806206"
 }
