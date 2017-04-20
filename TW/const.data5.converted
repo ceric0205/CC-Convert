@@ -26,20 +26,20 @@
   "casino_coin_exchange_limit": 0,
   "casino_coin_price": 50,
   "res": 0,
-  "body": [{"type":14,"data":{"global":{"tmp_interval":600,"purchase":1,"raid_item":-1,"review":1},"cover":null,"raid":null,"totalwar":null,"subjugation":[],"expup":{"id":38,"start":1491840000,"end":1493272800,"exp_rate":1.5,"cids":[34,45,40,46,41,63,7024,2001,2002,2003]},"weaponcompose":{"weapon_compose_disabled":false},"party_opt":{"type":1,"cost_border1":16,"cost_border2":12}},"proc":0}],
+  "body": [{"type":14,"data":{"global":{"tmp_interval":600,"purchase":1,"raid_item":-1,"review":1},"cover":{"cover_id":14,"name":"三賢者與超賢者","area_id":1016,"dist_start":1492668000,"event_start":1492668000,"event_end":1493272800,"dist_end":1493272800,"bgm":"","normal_fever":1.5,"great_fever":3,"sp_cards":[2001,2002,2003]},"raid":null,"totalwar":null,"subjugation":[],"expup":{"id":38,"start":1491840000,"end":1493272800,"exp_rate":1.5,"cids":[34,45,40,46,41,63,7024,2001,2002,2003]},"weaponcompose":{"weapon_compose_disabled":false},"party_opt":{"type":1,"cost_border1":16,"cost_border2":12}},"proc":0}],
   "mVer": {
-    "charainfo": 1491879887,
+    "charainfo": 1492665742,
     "weaponlist": 1491990002,
     "skilllist": 1492050158,
     "worldinfo": 1491814221,
     "episodeinfo": 1487905282,
-    "questdigest": 1492069980,
+    "questdigest": 1492504631,
     "itemlist": 1480392028,
     "booklist": 1491797177,
     "motionlist": 1488420743,
-    "missionlist": 1492050772,
+    "missionlist": 1492676327,
     "repeatmissionlist": 1480392028,
-    "bossinfo": 1491806206,
+    "bossinfo": 1492422579,
     "battleinfo": 1482473793,
     "homelist": 1480392027,
     "supporterskill": 1491797900,
@@ -55,7 +55,7 @@
     "eventbadge": 1,
     "casinoinfo": 482250627,
     "reload": 1488855920,
-    "servertime": 1492074065
+    "servertime": 1492680402
   },
   "sv": "0"
 }
