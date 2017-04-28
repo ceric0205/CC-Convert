@@ -1,5 +1,5 @@
 {
-  "deceive": 1493302380,
+  "deceive": 1493366220,
   "weaponlist": {
     "1": {
       "id": 1,
@@ -12613,7 +12613,7 @@
     },
     "85283": {
       "id": 85283,
-      "name": "三週年紀念劍",
+      "name": "三年",
       "type_atk": 1,
       "attackMax": 16,
       "type_cri": 2,
@@ -12734,7 +12734,7 @@
     },
     "85298": {
       "id": 85298,
-      "name": "日天的潔滋露之杖",
+      "name": "日天之權杖",
       "type_atk": 1,
       "attackMax": 15,
       "type_cri": 2,
@@ -15772,8 +15772,21 @@
       "model": "weapon85011_body",
       "rank": 3,
       "skill": 81071
+    },
+    "85255": {
+      "id": 85255,
+      "name": "星詠之杖",
+      "type_atk": 1,
+      "attackMax": 10,
+      "type_cri": 2,
+      "criticalMax": 8,
+      "type_grd": 3,
+      "guardMax": 6,
+      "type": 4,
+      "model": "weapon85255_body",
+      "rank": 2
     }
   },
   "res": 0,
-  "sv": "1493877602"
+  "sv": "1493877603"
 }
