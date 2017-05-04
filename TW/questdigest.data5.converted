@@ -1,5 +1,5 @@
 {
-  "deceive": 1493366242,
+  "deceive": 1493889287,
   "questdigest": {
     "20": {
       "append_skill": {},
@@ -68755,7 +68755,6 @@
       },
       "sort": 6,
       "field_type": [0],
-      "icon": "245508",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"chara_rf","id":90009,"val":1},{"type":"weapon_rf","id":93000,"val":1},{"type":"weapon_rf","id":93000,"val":1},{"type":"chara_rf","id":90014,"val":1}]
     },
@@ -68778,7 +68777,6 @@
       },
       "sort": 5,
       "field_type": [0],
-      "icon": "245509",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"chara_rf","id":90009,"val":1},{"type":"weapon_rf","id":93000,"val":1},{"type":"weapon_rf","id":93000,"val":1},{"type":"chara_rf","id":90014,"val":1}]
     },
@@ -71000,7 +70998,6 @@
         "box": 3
       },
       "field_type": [0],
-      "icon": "taiken_ring201608",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":1000},{"type":"item","id":10,"val":1000},{"type":"item","id":10,"val":3000},{"type":"item","id":10,"val":5000}]
     },
@@ -97511,5 +97508,5 @@
     }
   },
   "res": 0,
-  "sv": "1493363840"
+  "sv": "1493888248"
 }
