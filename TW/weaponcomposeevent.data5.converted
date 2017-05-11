@@ -1,6 +1,21 @@
 {
-  "deceive": 1493366215,
-  "weapon_compose_event": {},
+  "deceive": 1494494403,
+  "weapon_compose_event": {
+    "6": {
+      "event_id": 6,
+      "start": 1493951548,
+      "end": 1495087200,
+      "event_type": 28,
+      "text": "30％OFFキャンペーン中！",
+      "collabo": {
+        "border_quest_check": false,
+        "img_name": "",
+        "first_message": "",
+        "hit_message": "",
+        "hit_voice": ""
+      }
+    }
+  },
   "res": 0,
-  "sv": "1"
+  "sv": "1493951554"
 }

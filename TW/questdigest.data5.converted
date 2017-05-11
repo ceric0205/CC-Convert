@@ -1,5 +1,5 @@
 {
-  "deceive": 1493889287,
+  "deceive": 1494494445,
   "questdigest": {
     "20": {
       "append_skill": {},
@@ -14384,6 +14384,46 @@
       "is_casino": false,
       "field_type": [0]
     },
+    "50741": {
+      "append_skill": {
+        "cid": 5074,
+        "idx": "1"
+      },
+      "area_id": 1,
+      "chapter_list": [1,2,3],
+      "difficulty": 20,
+      "flag": {
+        "chara": [{"cid":5074,"lv":1},{"cid":5074,"lv":13}]
+      },
+      "name": "恐怖！？鬼火妖怪",
+      "quest_id": 50741,
+      "bg_list": [114,114,114],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 6,
+      "stamina": 6,
+      "field_type": [0,0,0]
+    },
+    "50742": {
+      "append_skill": {
+        "cid": 5074,
+        "idx": "2"
+      },
+      "area_id": 1,
+      "chapter_list": [1,2,3],
+      "difficulty": 29,
+      "flag": {
+        "chara": [{"cid":5074,"lv":25}]
+      },
+      "name": "幸福的紅色護身符",
+      "quest_id": 50742,
+      "bg_list": [78,114,114],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 4,
+      "stamina": 8,
+      "field_type": [0,0,0]
+    },
     "50750": {
       "append_skill": {},
       "area_id": 1,
@@ -14451,6 +14491,68 @@
       "chapter_cnt": 1,
       "is_casino": false,
       "field_type": [0]
+    },
+    "50761": {
+      "append_skill": {
+        "cid": 5076,
+        "idx": "1"
+      },
+      "area_id": 1,
+      "chapter_list": [1,2,3],
+      "difficulty": 14,
+      "flag": {
+        "chara": [{"cid":5076,"lv":1}]
+      },
+      "name": "白頭鷹戰士",
+      "quest_id": 50761,
+      "bg_list": [1,13,13],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 1,
+      "stamina": 5,
+      "field_type": [0,0,0]
+    },
+    "50762": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [1,2,3],
+      "difficulty": 21,
+      "flag": {
+        "chara": [{"cid":5076,"lv":15}]
+      },
+      "name": "煩惱永無止盡",
+      "quest_id": 50762,
+      "bg_list": [9,13,13],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 2,
+      "stamina": 7,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0]
+    },
+    "50763": {
+      "append_skill": {
+        "cid": 5076,
+        "idx": "2"
+      },
+      "area_id": 1,
+      "chapter_list": [1,2],
+      "difficulty": 31,
+      "flag": {
+        "chara": [{"cid":5076,"lv":30}]
+      },
+      "name": "天空之風",
+      "quest_id": 50763,
+      "bg_list": [1,1],
+      "chapter_cnt": 2,
+      "is_casino": false,
+      "place_id": 5,
+      "stamina": 18,
+      "field_type": [0,0]
     },
     "50841": {
       "append_skill": {
@@ -97508,5 +97610,5 @@
     }
   },
   "res": 0,
-  "sv": "1493888248"
+  "sv": "1494470438"
 }
