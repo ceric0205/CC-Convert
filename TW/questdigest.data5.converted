@@ -1,5 +1,5 @@
 {
-  "deceive": 1494494445,
+  "deceive": 1495098031,
   "questdigest": {
     "20": {
       "append_skill": {},
@@ -14321,6 +14321,46 @@
       "is_casino": false,
       "field_type": [0]
     },
+    "50691": {
+      "append_skill": {
+        "cid": 5069,
+        "idx": "1"
+      },
+      "area_id": 4,
+      "chapter_list": [1,2,3],
+      "difficulty": 14,
+      "flag": {
+        "chara": [{"cid":5069,"lv":1}]
+      },
+      "name": "大樹的歸族女孩",
+      "quest_id": 50691,
+      "bg_list": [2,114,114],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 5,
+      "stamina": 5,
+      "field_type": [0,0,0]
+    },
+    "50692": {
+      "append_skill": {
+        "cid": 5069,
+        "idx": "2"
+      },
+      "area_id": 1,
+      "chapter_list": [1,2],
+      "difficulty": 31,
+      "flag": {
+        "chara": [{"cid":5069,"lv":30}]
+      },
+      "name": "身為聖騎士之子",
+      "quest_id": 50692,
+      "bg_list": [1,9],
+      "chapter_cnt": 2,
+      "is_casino": false,
+      "place_id": 5,
+      "stamina": 15,
+      "field_type": [0,0]
+    },
     "50700": {
       "append_skill": {},
       "area_id": 1,
@@ -26448,7 +26488,7 @@
       "flag": {
         "chara": [{"cid":8132,"lv":45}]
       },
-      "name": "雷姆雷斯島的開拓女王",
+      "name": "雷姆雷斯島的開拓姬",
       "quest_id": 81321,
       "bg_list": [2,12,11,9],
       "chapter_cnt": 4,
@@ -39686,7 +39726,7 @@
       "chapter_list": [1],
       "difficulty": 0,
       "flag": {},
-      "name": "登場SEGA・馬克III",
+      "name": "登場SEGA Mark III",
       "quest_id": 580080,
       "bg_list": [-1],
       "chapter_cnt": 1,
@@ -39737,6 +39777,25 @@
       "chapter_cnt": 1,
       "is_casino": false
     },
+    "580111": {
+      "append_skill": {
+        "cid": 58011,
+        "idx": "2"
+      },
+      "area_id": 1,
+      "chapter_list": [1,2],
+      "difficulty": 20,
+      "flag": {
+        "chara": [{"cid":58011,"lv":1},{"cid":58011,"lv":13}]
+      },
+      "name": "珍惜食物",
+      "quest_id": 580111,
+      "bg_list": [9,9],
+      "chapter_cnt": 2,
+      "is_casino": false,
+      "place_id": 6,
+      "stamina": 8
+    },
     "580120": {
       "append_skill": {},
       "area_id": 1,
@@ -39748,6 +39807,25 @@
       "bg_list": [-1],
       "chapter_cnt": 1,
       "is_casino": false
+    },
+    "580121": {
+      "append_skill": {
+        "cid": 58012,
+        "idx": "2"
+      },
+      "area_id": 1,
+      "chapter_list": [1,2],
+      "difficulty": 20,
+      "flag": {
+        "chara": [{"cid":58012,"lv":13}]
+      },
+      "name": "美魔鈴的秘密",
+      "quest_id": 580121,
+      "bg_list": [1,1],
+      "chapter_cnt": 2,
+      "is_casino": false,
+      "place_id": 10,
+      "stamina": 8
     },
     "580130": {
       "append_skill": {},
@@ -69238,7 +69316,6 @@
       },
       "sort": 6,
       "field_type": [0],
-      "icon": "245707",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":2000},{"type":"item","id":10,"val":3000},{"type":"item","id":10,"val":5000},{"type":"weapon_ev","id":96302,"val":1}]
     },
@@ -69261,7 +69338,6 @@
       },
       "sort": 5,
       "field_type": [0],
-      "icon": "245708",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":2000},{"type":"item","id":10,"val":3000},{"type":"item","id":10,"val":5000},{"type":"weapon_ev","id":96302,"val":1}]
     },
@@ -97610,5 +97686,5 @@
     }
   },
   "res": 0,
-  "sv": "1494470438"
+  "sv": "1495086570"
 }

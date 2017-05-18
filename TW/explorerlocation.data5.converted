@@ -1,6 +1,29 @@
 {
-  "deceive": 1493370746,
+  "deceive": 1495098012,
   "explorer_location": {
+    "100": {
+      "location": 100,
+      "name": "獸人的大陸",
+      "timestamp": "1495096529659",
+      "quest_type": 2,
+      "quest_id": 210206,
+      "tab": 4,
+      "text": "完成第一部第2章\\n即開放",
+      "img_id": "search_area_icon_e01",
+      "gold": {
+        "1": {
+          "interval_id": 1,
+          "val": 1000
+        },
+        "2": {
+          "interval_id": 2,
+          "val": 3000
+        }
+      },
+      "get_item": [{"type":"chara_rf","id":90020,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"weapon_rf","id":93021,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"item","id":1011,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"weapon_ev","id":85100,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"weapon_ev","id":26008,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"weapon_ev","id":96316,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"weapon_ev","id":85068,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"weapon_ev","id":96306,"val":1,"category_id":0,"priority":0,"limit":null}],
+      "start": 1495096529,
+      "end": 1495692000
+    },
     "0": {
       "location": 0,
       "name": "城砦",
@@ -134,7 +157,7 @@
     "102": {
       "location": 102,
       "name": "神殿",
-      "timestamp": "1492742837659",
+      "timestamp": "1494987737659",
       "quest_type": 2,
       "quest_id": 210206,
       "tab": 4,
@@ -150,9 +173,9 @@
           "val": 3000
         }
       },
-      "get_item": [{"type":"item","id":1001,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"item","id":1002,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"item","id":7,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"card","id":58001,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"card","id":58006,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"card","id":58002,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"weapon_ev","id":85245,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"weapon_ev","id":85242,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"weapon_ev","id":85238,"val":1,"category_id":0,"priority":0,"limit":null}],
-      "start": 1470031200,
-      "end": 1470722399
+      "get_item": [{"type":"card","id":58011,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"card","id":58012,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"card","id":58008,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"weapon_ev","id":85247,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"weapon_ev","id":85248,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"weapon_ev","id":85244,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"item","id":1001,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"item","id":1002,"val":1,"category_id":0,"priority":0,"limit":null},{"type":"item","id":7,"val":1,"category_id":0,"priority":0,"limit":null}],
+      "start": 1494832554,
+      "end": 1494832554
     },
     "103": {
       "location": 103,
@@ -248,5 +271,5 @@
     }
   },
   "res": 0,
-  "sv": "1492742838"
+  "sv": "1495096530"
 }
