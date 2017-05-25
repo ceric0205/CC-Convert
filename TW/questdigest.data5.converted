@@ -1,5 +1,5 @@
 {
-  "deceive": 1495098031,
+  "deceive": 1495704056,
   "questdigest": {
     "20": {
       "append_skill": {},
@@ -20410,7 +20410,7 @@
       "chapter_list": [1],
       "difficulty": 4,
       "flag": {},
-      "name": "登場艾露·古倫",
+      "name": "登場艾露．古倫",
       "quest_id": 75130,
       "bg_list": [-1],
       "chapter_cnt": 1
@@ -20458,7 +20458,7 @@
       "chapter_list": [1],
       "difficulty": 4,
       "flag": {},
-      "name": "登場斐·古雷亞",
+      "name": "登場斐．古雷亞",
       "quest_id": 75140,
       "bg_list": [-1],
       "chapter_cnt": 1
@@ -28099,7 +28099,7 @@
       "chapter_list": [1],
       "difficulty": 0,
       "flag": {},
-      "name": "瑪利亞·橘登場",
+      "name": "瑪利亞．橘登場",
       "quest_id": 81920,
       "bg_list": [-1],
       "chapter_cnt": 1,
@@ -28264,7 +28264,7 @@
       "chapter_list": [1],
       "difficulty": 0,
       "flag": {},
-      "name": "桐島康娜登場",
+      "name": "桐島神奈登場",
       "quest_id": 81950,
       "bg_list": [-1],
       "chapter_cnt": 1,
@@ -28318,7 +28318,7 @@
       "chapter_list": [1],
       "difficulty": 0,
       "flag": {},
-      "name": "蘇麗妲・織姬登場",
+      "name": "蘇麗妲．織姬登場",
       "quest_id": 81960,
       "bg_list": [-1],
       "chapter_cnt": 1,
@@ -28494,7 +28494,7 @@
       "chapter_list": [1],
       "difficulty": 0,
       "flag": {},
-      "name": "瑪利亞·橘登場",
+      "name": "瑪利亞．橘登場",
       "quest_id": 82000,
       "bg_list": [-1],
       "chapter_cnt": 1,
@@ -28593,7 +28593,7 @@
       "chapter_list": [1],
       "difficulty": 0,
       "flag": {},
-      "name": "桐島康娜登場",
+      "name": "桐島神奈登場",
       "quest_id": 82030,
       "bg_list": [-1],
       "chapter_cnt": 1,
@@ -28626,7 +28626,7 @@
       "chapter_list": [1],
       "difficulty": 0,
       "flag": {},
-      "name": "蘇麗妲・織姬登場",
+      "name": "蘇麗妲．織姬登場",
       "quest_id": 82040,
       "bg_list": [-1],
       "chapter_cnt": 1,
@@ -28659,7 +28659,7 @@
       "chapter_list": [1],
       "difficulty": 0,
       "flag": {},
-      "name": "雷尼·米爾西修特拉瑟登場",
+      "name": "雷尼．米爾西修特拉瑟登場",
       "quest_id": 82050,
       "bg_list": [-1],
       "chapter_cnt": 1,
@@ -53591,7 +53591,7 @@
       "chapter_list": [0],
       "difficulty": 16,
       "flag": {},
-      "name": "斬·拳的強化",
+      "name": "斬．拳的強化",
       "quest_id": 235704,
       "bg_list": [4],
       "chapter_cnt": 1,
@@ -71197,7 +71197,6 @@
         "box": 3
       },
       "field_type": [0],
-      "icon": "280009",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"weapon_rf","id":93005,"val":1},{"type":"weapon_rf","id":93005,"val":1},{"type":"weapon_rf","id":93005,"val":1},{"type":"chara_rf","id":90013,"val":1}]
     },
@@ -97686,5 +97685,5 @@
     }
   },
   "res": 0,
-  "sv": "1495086570"
+  "sv": "1495693369"
 }

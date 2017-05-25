@@ -1,6 +1,6 @@
 {
-  "deceive": 1493366213,
-  "place_event_bg": [],
+  "deceive": 1495704008,
+  "place_event_bg": [{"area_id":1,"place_id":0,"bg":244,"start":1471932000,"end":1496901600,"name":"櫻花大戰","bgm":["BGM_SAKURA_002"]}],
   "res": 0,
-  "sv": "1"
+  "sv": "1495566875"
 }
