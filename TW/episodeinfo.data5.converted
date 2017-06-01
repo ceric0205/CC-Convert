@@ -1,5 +1,5 @@
 {
-  "deceive": 1495097991,
+  "deceive": 1496307814,
   "episodeinfo": {
     "(0, 2)": {
       "type": 2,
@@ -3829,6 +3829,12 @@
       "episode": [{"name":"命運物語","quest":[80861],"develop_only":0},{"name":"羈絆物語","quest":[80862],"develop_only":0}],
       "collabo": false
     },
+    "(8077, 0)": {
+      "type": 0,
+      "id": 8077,
+      "episode": [{"name":"命運物語","quest":[80771],"develop_only":0},{"name":"羈絆物語","quest":[80772],"develop_only":0}],
+      "collabo": false
+    },
     "(11007, 0)": {
       "type": 0,
       "id": 11007,
@@ -5742,8 +5748,20 @@
       "id": 8893,
       "episode": [{"name":"邂逅物語","quest":[88931],"develop_only":0},{"name":"羈絆物語","quest":[88932],"develop_only":0}],
       "collabo": false
+    },
+    "(8894, 0)": {
+      "type": 0,
+      "id": 8894,
+      "episode": [{"name":"邂逅物語","quest":[88941],"develop_only":0},{"name":"羈絆物語","quest":[88942],"develop_only":0}],
+      "collabo": false
+    },
+    "(8895, 0)": {
+      "type": 0,
+      "id": 8895,
+      "episode": [{"name":"邂逅物語","quest":[88951],"develop_only":0},{"name":"羈絆物語","quest":[88952],"develop_only":0}],
+      "collabo": false
     }
   },
   "res": 0,
-  "sv": "1494989775"
+  "sv": "1496207903"
 }

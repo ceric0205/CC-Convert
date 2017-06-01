@@ -1,5 +1,5 @@
 {
-  "deceive": 1495704011,
+  "deceive": 1496307807,
   "bosspattern": {
     "1": {
       "che": 0,
@@ -14562,8 +14562,48 @@
       "sname": "",
       "stext": "",
       "voice": 0
+    },
+    "88940": {
+      "che": 0,
+      "chs": 0,
+      "flag": 0,
+      "hpend": 100.0,
+      "hpstart": 0.0,
+      "patternid": 88940,
+      "pose": 7.5,
+      "posp": 0.0,
+      "priority": 0,
+      "scost": 1,
+      "sinfo": "給予前方範圍內全體敵人火屬性小傷害。",
+      "skillid0": 88940,
+      "skillid1": 0,
+      "skillid2": 0,
+      "skillid3": 0,
+      "sname": "燎原之火",
+      "stext": "燃燒吧。燒到一點殘渣都不剩。",
+      "voice": 0
+    },
+    "88941": {
+      "che": 0,
+      "chs": 0,
+      "flag": 0,
+      "hpend": 100.0,
+      "hpstart": 0.0,
+      "patternid": 88941,
+      "pose": 0.0,
+      "posp": 1.5,
+      "priority": 100,
+      "scost": 1,
+      "sinfo": "若在自陣最後一排時施放，則給予前方直線範圍內全體敵人火屬性小傷害並擊退。",
+      "skillid0": 88941,
+      "skillid1": 0,
+      "skillid2": 0,
+      "skillid3": 0,
+      "sname": "畢方之炎",
+      "stext": "燃燒吧。燒到一點殘渣都不剩。",
+      "voice": 0
     }
   },
   "res": 0,
-  "sv": "1495509553"
+  "sv": "1496289434"
 }

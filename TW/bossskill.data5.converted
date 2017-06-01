@@ -1,5 +1,5 @@
 {
-  "deceive": 1495704011,
+  "deceive": 1496307807,
   "bossskill": {
     "1": {
       "atkspeed": "3",
@@ -12772,8 +12772,35 @@
       "skillparam1": 4.0,
       "spmotname": "sp_magic_sr02",
       "skillflag": 2
+    },
+    "88940": {
+      "skillflag0_0": 1026,
+      "skillflag0_1": 0,
+      "skillflag1_0": 0,
+      "skillflag1_1": 0,
+      "skillid": 88940,
+      "skillid0": 33,
+      "skillparam1": 4.0,
+      "spmotname": "sp_magic15",
+      "skillparam3": 4.4,
+      "skillparam2": 3.6,
+      "skillparam4": 1.0,
+      "skillflag": 1026,
+      "skillparam5": 1.0
+    },
+    "88941": {
+      "skillflag0_0": 1027,
+      "skillflag0_1": 0,
+      "skillflag1_0": 0,
+      "skillflag1_1": 0,
+      "skillid": 88941,
+      "skillid0": 5,
+      "skillparam1": 5.5,
+      "spmotname": "sp_magic03",
+      "skillparam3": 3.0,
+      "skillflag": 1027
     }
   },
   "res": 0,
-  "sv": "1495509553"
+  "sv": "1496289434"
 }

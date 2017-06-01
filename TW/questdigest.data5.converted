@@ -1,5 +1,5 @@
 {
-  "deceive": 1495704056,
+  "deceive": 1496307843,
   "questdigest": {
     "20": {
       "append_skill": {},
@@ -24143,6 +24143,46 @@
       "is_casino": false,
       "field_type": [0]
     },
+    "80771": {
+      "append_skill": {
+        "cid": 8077,
+        "idx": "1"
+      },
+      "area_id": 1,
+      "chapter_list": [1,2,3],
+      "difficulty": 14,
+      "flag": {
+        "chara": [{"cid":8077,"lv":1}]
+      },
+      "name": "鍊金術公會長",
+      "quest_id": 80771,
+      "bg_list": [1,1,6],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 9,
+      "stamina": 5,
+      "field_type": [0,0,0]
+    },
+    "80772": {
+      "append_skill": {
+        "cid": 8077,
+        "idx": "2"
+      },
+      "area_id": 1,
+      "chapter_list": [1,2,3,4],
+      "difficulty": 39,
+      "flag": {
+        "chara": [{"cid":8077,"lv":45}]
+      },
+      "name": "對等的契約",
+      "quest_id": 80772,
+      "bg_list": [1,8,6,6],
+      "chapter_cnt": 4,
+      "is_casino": false,
+      "place_id": 6,
+      "stamina": 8,
+      "field_type": [0,0,0,0]
+    },
     "80780": {
       "append_skill": {},
       "area_id": 1,
@@ -32431,6 +32471,90 @@
       "chapter_cnt": 2,
       "is_casino": false,
       "place_id": 3,
+      "stamina": 10,
+      "field_type": [0,0]
+    },
+    "88941": {
+      "append_skill": {},
+      "area_id": 10,
+      "chapter_list": [1,2],
+      "difficulty": 14,
+      "flag": {
+        "chara": [{"cid":8894,"lv":1}]
+      },
+      "name": "朱鳴綠林",
+      "quest_id": 88941,
+      "bg_list": [2,2],
+      "chapter_cnt": 2,
+      "is_casino": false,
+      "place_id": 10,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0]
+    },
+    "88942": {
+      "append_skill": {
+        "cid": 8894,
+        "idx": "2"
+      },
+      "area_id": 1,
+      "chapter_list": [1,2],
+      "difficulty": 54,
+      "flag": {
+        "chara": [{"cid":8894,"lv":60}]
+      },
+      "name": "焰冷不熄",
+      "quest_id": 88942,
+      "bg_list": [1,1],
+      "chapter_cnt": 2,
+      "is_casino": false,
+      "place_id": 1,
+      "stamina": 10,
+      "field_type": [0,0]
+    },
+    "88951": {
+      "append_skill": {},
+      "area_id": 11,
+      "chapter_list": [1,2,3],
+      "difficulty": 14,
+      "flag": {
+        "chara": [{"cid":8895,"lv":1}]
+      },
+      "name": "龜縮百年無絕期",
+      "quest_id": 88951,
+      "bg_list": [6,6,6],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 2,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0]
+    },
+    "88952": {
+      "append_skill": {
+        "cid": 8895,
+        "idx": "2"
+      },
+      "area_id": 1,
+      "chapter_list": [1,2],
+      "difficulty": 54,
+      "flag": {
+        "chara": [{"cid":8895,"lv":60}]
+      },
+      "name": "龜到副都還是龜",
+      "quest_id": 88952,
+      "bg_list": [1,1],
+      "chapter_cnt": 2,
+      "is_casino": false,
+      "place_id": 1,
       "stamina": 10,
       "field_type": [0,0]
     },
@@ -75905,6 +76029,88 @@
       "kind_prm": 1,
       "eneset_treasure": [{"type":"weapon_rf","id":93901,"val":1},{"type":"weapon_rf","id":93901,"val":1},{"type":"weapon_rf","id":93901,"val":1},{"type":"weapon_rf","id":93902,"val":1}]
     },
+    "1000147": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [1,2,3],
+      "difficulty": 12,
+      "flag": {},
+      "name": "少女注意前線",
+      "quest_id": 1000147,
+      "bg_list": [1,1,1],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "stamina": 20,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "item",
+        "box": 2
+      },
+      "field_type": [0,0,0]
+    },
+    "1000148": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [1],
+      "difficulty": 12,
+      "flag": {},
+      "name": "少女啊！要胸懷大志",
+      "quest_id": 1000148,
+      "bg_list": [1],
+      "chapter_cnt": 1,
+      "is_casino": false,
+      "stamina": 20,
+      "reward_box": 3,
+      "reward_data": {
+        "type": "card",
+        "box": 3
+      },
+      "field_type": [0],
+      "kind_prm": 1,
+      "eneset_treasure": [{"type":"chara_rf","id":90902,"val":1},{"type":"chara_rf","id":90902,"val":1},{"type":"chara_rf","id":90903,"val":1},{"type":"chara_rf","id":90903,"val":1}]
+    },
+    "1000149": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [0],
+      "difficulty": 12,
+      "flag": {},
+      "name": "少女啊！要精打細算",
+      "quest_id": 1000149,
+      "bg_list": [1],
+      "chapter_cnt": 1,
+      "is_casino": false,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "item",
+        "box": 2
+      },
+      "field_type": [0],
+      "kind_prm": 1,
+      "eneset_treasure": [{"type":"item","id":10,"val":10000},{"type":"item","id":10,"val":10000},{"type":"item","id":10,"val":15000},{"type":"item","id":10,"val":20000}]
+    },
+    "1000150": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [0],
+      "difficulty": 12,
+      "flag": {},
+      "name": "少女們的祕密",
+      "quest_id": 1000150,
+      "bg_list": [1],
+      "chapter_cnt": 1,
+      "is_casino": false,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0],
+      "kind_prm": 1,
+      "eneset_treasure": [{"type":"weapon_rf","id":93901,"val":1},{"type":"weapon_rf","id":93901,"val":1},{"type":"weapon_rf","id":93902,"val":1},{"type":"weapon_rf","id":93902,"val":1}]
+    },
     "2394151": {
       "append_skill": {},
       "area_id": 1,
@@ -97685,5 +97891,5 @@
     }
   },
   "res": 0,
-  "sv": "1495693369"
+  "sv": "1496287648"
 }
