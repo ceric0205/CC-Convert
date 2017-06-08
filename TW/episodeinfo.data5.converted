@@ -1,5 +1,5 @@
 {
-  "deceive": 1496307814,
+  "deceive": 1496911144,
   "episodeinfo": {
     "(0, 2)": {
       "type": 2,
@@ -5760,8 +5760,14 @@
       "id": 8895,
       "episode": [{"name":"邂逅物語","quest":[88951],"develop_only":0},{"name":"羈絆物語","quest":[88952],"develop_only":0}],
       "collabo": false
+    },
+    "(8897, 0)": {
+      "type": 0,
+      "id": 8897,
+      "episode": [{"name":"羈絆物語","quest":[88971],"develop_only":0}],
+      "collabo": false
     }
   },
   "res": 0,
-  "sv": "1496207903"
+  "sv": "1496657559"
 }

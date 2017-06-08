@@ -1,5 +1,5 @@
 {
-  "deceive": 1496307814,
+  "deceive": 1496911155,
   "weaponlist": {
     "1": {
       "id": 1,
@@ -15836,9 +15836,9 @@
       "guardMax": 9,
       "type": 0,
       "model": "weapon95846_body",
-      "rank": 2
+      "rank": 3
     }
   },
   "res": 0,
-  "sv": "1496195336"
+  "sv": "1496718662"
 }

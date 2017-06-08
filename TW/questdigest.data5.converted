@@ -1,5 +1,5 @@
 {
-  "deceive": 1496307843,
+  "deceive": 1496911190,
   "questdigest": {
     "20": {
       "append_skill": {},
@@ -32588,6 +32588,39 @@
       "place_id": 1,
       "stamina": 8,
       "field_type": [0,0]
+    },
+    "88970": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [1],
+      "difficulty": 4,
+      "flag": {},
+      "name": "凶獸的祕密花園",
+      "quest_id": 88970,
+      "bg_list": [-1],
+      "chapter_cnt": 1
+    },
+    "88971": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [1,2,3],
+      "difficulty": 24,
+      "flag": {
+        "chara": [{"cid":8897,"lv":1}]
+      },
+      "name": "凶獸的成長之路",
+      "quest_id": 88971,
+      "bg_list": [-1,-1,-1],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 1,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0,0]
     },
     "90020": {
       "append_skill": {},
@@ -76029,6 +76062,27 @@
       "kind_prm": 1,
       "eneset_treasure": [{"type":"weapon_rf","id":93901,"val":1},{"type":"weapon_rf","id":93901,"val":1},{"type":"weapon_rf","id":93901,"val":1},{"type":"weapon_rf","id":93902,"val":1}]
     },
+    "1000146": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [0],
+      "difficulty": 4,
+      "flag": {},
+      "name": "尋找少女的行蹤",
+      "quest_id": 1000146,
+      "bg_list": [1],
+      "chapter_cnt": 1,
+      "is_casino": false,
+      "stamina": 4,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "item",
+        "box": 2
+      },
+      "field_type": [0],
+      "kind_prm": 1,
+      "eneset_treasure": [{"type":"item","id":10,"val":200},{"type":"item","id":10,"val":200},{"type":"item","id":10,"val":200},{"type":"item","id":10,"val":400}]
+    },
     "1000147": {
       "append_skill": {},
       "area_id": 1,
@@ -97891,5 +97945,5 @@
     }
   },
   "res": 0,
-  "sv": "1496287648"
+  "sv": "1496802495"
 }
