@@ -26,19 +26,19 @@
   "casino_coin_exchange_limit": 0,
   "casino_coin_price": 50,
   "res": 0,
-  "body": [{"type":14,"data":{"global":{"tmp_interval":600,"purchase":1,"raid_item":-1,"review":1},"cover":null,"raid":{"raid_id":113,"bg":2000,"banner":1,"event_start":1477980000,"event_end":1497592800,"close":1497506400,"name":"饕餮來襲","full_time":130,"part_time":90,"sp_cards":[{"cid":"8894","skill_id":"88979"},{"cid":"8895","skill_id":"88979"},{"cid":"8893","skill_id":"88979"},{"cid":"8892","skill_id":"88979"}],"full_pirica_time":13,"part_pirica_time":22,"hp_up":2,"atk_up":2,"anger_hp_up":2,"anger_atk_up":2,"anger_battle_time":30,"repeat_reward":{"per_smash_cnt":5,"type":"weapon_ev","id":26000,"val":1}},"totalwar":null,"subjugation":[],"expup":{"id":90,"start":1496284258,"end":1497506400,"exp_rate":2.0,"cids":[8894,8895,34,45,40,46,41,63,7024,8892,8893]},"weaponcompose":{"weapon_compose_disabled":false},"party_opt":{"type":1,"cost_border1":16,"cost_border2":12}},"proc":0}],
+  "body": [{"type":14,"data":{"global":{"tmp_interval":600,"purchase":1,"raid_item":-1,"review":1},"cover":null,"raid":{"raid_id":113,"bg":2000,"banner":1,"event_start":1477980000,"event_end":1497592800,"close":1497506400,"name":"饕餮來襲","full_time":130,"part_time":90,"sp_cards":[{"cid":"8894","skill_id":"88979"},{"cid":"8895","skill_id":"88979"},{"cid":"8893","skill_id":"88979"},{"cid":"8892","skill_id":"88979"}],"full_pirica_time":13,"part_pirica_time":22,"hp_up":2,"atk_up":2,"anger_hp_up":2,"anger_atk_up":2,"anger_battle_time":30,"repeat_reward":{"per_smash_cnt":5,"type":"weapon_ev","id":26000,"val":1}},"totalwar":null,"subjugation":[],"expup":{"id":42,"start":1497333600,"end":1498715999,"exp_rate":1.5,"cids":[34,45,40,46,41,63,7024,7572,11027]},"weaponcompose":{"weapon_compose_disabled":false},"party_opt":{"type":1,"cost_border1":16,"cost_border2":12}},"proc":0}],
   "mVer": {
     "charainfo": 1496720648,
     "weaponlist": 1496718662,
-    "skilllist": 1496634149,
+    "skilllist": 1497413550,
     "worldinfo": 1493282543,
     "episodeinfo": 1496657559,
-    "questdigest": 1496802495,
+    "questdigest": 1497500620,
     "itemlist": 1492742839,
     "booklist": 1495681798,
     "motionlist": 1477389804,
     "missionlist": 1495693363,
-    "repeatmissionlist": 1492742839,
+    "repeatmissionlist": 1497233846,
     "bossinfo": 1496390457,
     "battleinfo": 1492742838,
     "homelist": 1492742838,
@@ -52,10 +52,10 @@
     "weaponcomposeevent": 1,
     "various": 1477977780,
     "eventplace": 1,
-    "eventbadge": 1496902853,
+    "eventbadge": 1,
     "casinoinfo": 1475140000,
     "reload": 1493222399,
-    "servertime": 1496911613
+    "servertime": 1497520915
   },
   "sv": "0"
 }

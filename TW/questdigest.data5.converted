@@ -1,5 +1,5 @@
 {
-  "deceive": 1496911190,
+  "deceive": 1497517474,
   "questdigest": {
     "20": {
       "append_skill": {},
@@ -21366,7 +21366,7 @@
       "chapter_list": [1],
       "difficulty": 0,
       "flag": {},
-      "name": "艾蜜莉登場",
+      "name": "亞梅莉登場",
       "quest_id": 75720,
       "bg_list": [-1],
       "chapter_cnt": 1,
@@ -69701,7 +69701,7 @@
       "chapter_list": [1],
       "difficulty": 24,
       "flag": {},
-      "name": "測試艾蜜莉",
+      "name": "體驗亞梅莉",
       "quest_id": 245807,
       "bg_list": [110],
       "chapter_cnt": 1,
@@ -69724,7 +69724,7 @@
       "chapter_list": [1],
       "difficulty": 24,
       "flag": {},
-      "name": "測試月冴",
+      "name": "體驗月冴",
       "quest_id": 245808,
       "bg_list": [110],
       "chapter_cnt": 1,
@@ -97945,5 +97945,5 @@
     }
   },
   "res": 0,
-  "sv": "1496802495"
+  "sv": "1497500620"
 }
