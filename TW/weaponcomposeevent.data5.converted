@@ -1,6 +1,21 @@
 {
-  "deceive": 1495704013,
-  "weapon_compose_event": {},
+  "deceive": 1498122170,
+  "weapon_compose_event": {
+    "7": {
+      "event_id": 7,
+      "start": 1474351200,
+      "end": 1498802400,
+      "event_type": 16,
+      "text": "活動期間至",
+      "collabo": {
+        "border_quest_check": false,
+        "img_name": "",
+        "first_message": "",
+        "hit_message": "",
+        "hit_voice": ""
+      }
+    }
+  },
   "res": 0,
-  "sv": "1"
+  "sv": "1498113535"
 }

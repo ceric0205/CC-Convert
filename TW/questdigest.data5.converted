@@ -1,5 +1,5 @@
 {
-  "deceive": 1497517474,
+  "deceive": 1498122205,
   "questdigest": {
     "20": {
       "append_skill": {},
@@ -95051,7 +95051,7 @@
       "chapter_list": [1,2,3],
       "difficulty": 6,
       "flag": {},
-      "name": "混亂的牢騷",
+      "name": "混亂的愚痴",
       "quest_id": 301501,
       "bg_list": [12,12,12],
       "chapter_cnt": 3,
@@ -95682,7 +95682,7 @@
       "flag": {
         "quest": [{"type":6,"qid":301504}]
       },
-      "name": "牢騷的惡人",
+      "name": "愚痴的惡人",
       "quest_id": 301530,
       "bg_list": [110],
       "chapter_cnt": 1,
@@ -97945,5 +97945,5 @@
     }
   },
   "res": 0,
-  "sv": "1497500620"
+  "sv": "1498015114"
 }

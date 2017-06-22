@@ -1,5 +1,5 @@
 {
-  "deceive": 1496911165,
+  "deceive": 1498122184,
   "charainfo": {
     "1": {
       "cid": 1,
@@ -43015,7 +43015,7 @@
       "motionid": 1207,
       "spmotname": "monk_sp_powerup06",
       "weaponid": 85340,
-      "illustrator": "taiki",
+      "illustrator": "TAIKI",
       "voice_artist": "畠中祐",
       "sptext": "嘆什麼氣，沒用的",
       "home": 15,
@@ -146126,5 +146126,5 @@
     }
   },
   "res": 0,
-  "sv": "1496720648"
+  "sv": "1497852889"
 }
