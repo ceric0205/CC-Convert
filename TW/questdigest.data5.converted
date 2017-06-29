@@ -1,5 +1,5 @@
 {
-  "deceive": 1498122205,
+  "deceive": 1498727626,
   "questdigest": {
     "20": {
       "append_skill": {},
@@ -39844,6 +39844,25 @@
       "chapter_cnt": 1,
       "is_casino": false
     },
+    "580051": {
+      "append_skill": {
+        "cid": 58005,
+        "idx": "2"
+      },
+      "area_id": 1,
+      "chapter_list": [1,2],
+      "difficulty": 20,
+      "flag": {
+        "chara": [{"cid":58005,"lv":13}]
+      },
+      "name": "耗油的她",
+      "quest_id": 580051,
+      "bg_list": [1,1],
+      "chapter_cnt": 2,
+      "is_casino": false,
+      "place_id": 9,
+      "stamina": 8
+    },
     "580060": {
       "append_skill": {},
       "area_id": 1,
@@ -39922,6 +39941,25 @@
       "chapter_cnt": 1,
       "is_casino": false
     },
+    "580091": {
+      "append_skill": {
+        "cid": 58009,
+        "idx": "2"
+      },
+      "area_id": 1,
+      "chapter_list": [1,2],
+      "difficulty": 20,
+      "flag": {
+        "chara": [{"cid":58009,"lv":13}]
+      },
+      "name": "傲嬌鬥士",
+      "quest_id": 580091,
+      "bg_list": [1,13],
+      "chapter_cnt": 2,
+      "is_casino": false,
+      "place_id": 3,
+      "stamina": 8
+    },
     "580110": {
       "append_skill": {},
       "area_id": 1,
@@ -39990,7 +40028,7 @@
       "chapter_list": [1],
       "difficulty": 0,
       "flag": {},
-      "name": "瑪思達希絲坦姆登場",
+      "name": "Master System登場",
       "quest_id": 580130,
       "bg_list": [-1],
       "chapter_cnt": 1,
@@ -69964,7 +70002,7 @@
       "chapter_list": [1,2],
       "difficulty": 5,
       "flag": {},
-      "name": "和解之路・1",
+      "name": "和解之路．1",
       "quest_id": 246001,
       "bg_list": [117,117],
       "chapter_cnt": 2,
@@ -69984,7 +70022,7 @@
       "chapter_list": [1,2],
       "difficulty": 8,
       "flag": {},
-      "name": "和解之路・2",
+      "name": "和解之路．2",
       "quest_id": 246002,
       "bg_list": [117,117],
       "chapter_cnt": 2,
@@ -70004,7 +70042,7 @@
       "chapter_list": [1,2,3],
       "difficulty": 12,
       "flag": {},
-      "name": "和解之路・3",
+      "name": "和解之路．3",
       "quest_id": 246003,
       "bg_list": [117,117,117],
       "chapter_cnt": 3,
@@ -70047,7 +70085,7 @@
       "chapter_list": [1],
       "difficulty": 24,
       "flag": {},
-      "name": "碎片道場",
+      "name": "廢珠道場",
       "quest_id": 246005,
       "bg_list": [115],
       "chapter_cnt": 1,
@@ -97945,5 +97983,5 @@
     }
   },
   "res": 0,
-  "sv": "1498015114"
+  "sv": "1498706947"
 }
