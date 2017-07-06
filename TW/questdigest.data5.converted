@@ -1,5 +1,5 @@
 {
-  "deceive": 1498727626,
+  "deceive": 1499331844,
   "questdigest": {
     "20": {
       "append_skill": {},
@@ -14796,7 +14796,7 @@
       "flag": {
         "chara": [{"cid":5098,"lv":1}]
       },
-      "name": "濃彩色的教誨",
+      "name": "極彩色的教誨",
       "quest_id": 50981,
       "bg_list": [9,9],
       "chapter_cnt": 2,
@@ -70322,7 +70322,7 @@
       "chapter_list": [1,2],
       "difficulty": 4,
       "flag": {},
-      "name": "終極秩序1",
+      "name": "究極的秩序1",
       "quest_id": 246201,
       "bg_list": [2,2],
       "chapter_cnt": 2,
@@ -70408,7 +70408,7 @@
       "chapter_list": [0],
       "difficulty": 24,
       "flag": {},
-      "name": "測試巴拉酷達",
+      "name": "試用巴拉酷達",
       "quest_id": 246205,
       "bg_list": [1],
       "chapter_cnt": 1,
@@ -70431,7 +70431,7 @@
       "chapter_list": [0],
       "difficulty": 24,
       "flag": {},
-      "name": "測試魯拉",
+      "name": "試用魯拉",
       "quest_id": 246206,
       "bg_list": [1],
       "chapter_cnt": 1,
@@ -70454,7 +70454,7 @@
       "chapter_list": [1,2],
       "difficulty": 4,
       "flag": {},
-      "name": "終極秩序2",
+      "name": "究極的秩序2",
       "quest_id": 246207,
       "bg_list": [100,100],
       "chapter_cnt": 2,
@@ -70474,7 +70474,7 @@
       "chapter_list": [1,2],
       "difficulty": 4,
       "flag": {},
-      "name": "終極秩序3",
+      "name": "究極的秩序3",
       "quest_id": 246208,
       "bg_list": [100,100],
       "chapter_cnt": 2,
@@ -97983,5 +97983,5 @@
     }
   },
   "res": 0,
-  "sv": "1498706947"
+  "sv": "1499315899"
 }
