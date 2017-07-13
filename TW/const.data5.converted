@@ -26,14 +26,14 @@
   "casino_coin_exchange_limit": 0,
   "casino_coin_price": 50,
   "res": 0,
-  "body": [{"type":14,"data":{"global":{"tmp_interval":600,"purchase":1,"raid_item":-1,"review":1},"cover":null,"raid":null,"totalwar":null,"subjugation":[],"expup":{"id":44,"start":1499234400,"end":1500530399,"exp_rate":2.0,"cids":[5097,5098,34,45,40,46,41,63,7024]},"weaponcompose":{"weapon_compose_disabled":false},"party_opt":{"type":1,"cost_border1":16,"cost_border2":12}},"proc":0}],
+  "body": [{"type":14,"data":{"global":{"tmp_interval":600,"purchase":1,"raid_item":-1,"review":1},"cover":null,"raid":{"raid_id":24,"bg":2000,"banner":1,"event_start":1499656308,"event_end":1500616800,"close":1500530400,"name":"圖基法特來襲","full_time":130,"part_time":90,"sp_cards":[{"cid":"5097","skill_id":"30050"},{"cid":"5098","skill_id":"30050"},{"cid":"7546","skill_id":"30051"}],"full_pirica_time":13,"part_pirica_time":22,"hp_up":2,"atk_up":2,"anger_hp_up":2,"anger_atk_up":2,"anger_battle_time":30,"repeat_reward":{"per_smash_cnt":5,"type":"weapon_ev","id":26000,"val":1}},"totalwar":null,"subjugation":[],"expup":{"id":44,"start":1499234400,"end":1500530399,"exp_rate":2.0,"cids":[5097,5098,34,45,40,46,41,63,7024]},"weaponcompose":{"weapon_compose_disabled":false},"party_opt":{"type":1,"cost_border1":16,"cost_border2":12}},"proc":0}],
   "mVer": {
-    "charainfo": 1499225212,
+    "charainfo": 1499918769,
     "weaponlist": 1497852886,
-    "skilllist": 1499312146,
+    "skilllist": 1499661076,
     "worldinfo": 1497944548,
     "episodeinfo": 1498468024,
-    "questdigest": 1499315899,
+    "questdigest": 1499917389,
     "itemlist": 1492742839,
     "booklist": 1498704224,
     "motionlist": 1477389804,
@@ -49,13 +49,13 @@
     "explorerlocation": 1498546939,
     "weaponcompose": 1497944542,
     "teacherdisciple": 1455807601,
-    "weaponcomposeevent": 1498113535,
+    "weaponcomposeevent": 1499714477,
     "various": 1499156225,
     "eventplace": 1,
-    "eventbadge": 1,
+    "eventbadge": 1499714787,
     "casinoinfo": 1475140000,
     "reload": 1493222399,
-    "servertime": 1499347840
+    "servertime": 1499941023
   },
   "sv": "0"
 }
