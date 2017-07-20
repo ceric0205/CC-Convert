@@ -1,5 +1,5 @@
 {
-  "deceive": 1499936436,
+  "deceive": 1500541303,
   "questdigest": {
     "20": {
       "append_skill": {},
@@ -67810,7 +67810,7 @@
       "chapter_list": [1],
       "difficulty": 30,
       "flag": {},
-      "name": "指南・螃蟹怪",
+      "name": "指南・螃蟹",
       "quest_id": 244703,
       "bg_list": [100],
       "chapter_cnt": 1,
@@ -67824,7 +67824,7 @@
       "field_type": [0],
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":200},{"type":"item","id":10,"val":500},{"type":"item","id":10,"val":700},{"type":"chara_rf","id":90903,"val":1}],
-      "fixed_help": [{"cid":7023,"lv":80,"hp":6500,"atk":9500,"helper_comment":"うずしおよ！","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":7023,"lv":80,"hp":6500,"atk":9500,"helper_comment":"潮流喲！","skillflag":[true,true,true,false]}]
     },
     "244704": {
       "append_skill": {},
@@ -67832,7 +67832,7 @@
       "chapter_list": [1],
       "difficulty": 30,
       "flag": {},
-      "name": "指南・水母怪",
+      "name": "指南・克莉歐聶",
       "quest_id": 244704,
       "bg_list": [101],
       "chapter_cnt": 1,
@@ -67846,7 +67846,7 @@
       "field_type": [0],
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":200},{"type":"item","id":10,"val":500},{"type":"item","id":10,"val":700},{"type":"chara_rf","id":90903,"val":1}],
-      "fixed_help": [{"cid":7056,"lv":80,"hp":6000,"atk":9700,"helper_comment":"どうよ、この銃","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":7056,"lv":80,"hp":6000,"atk":9700,"helper_comment":"怎樣啊？這把銃的威力","skillflag":[true,true,true,false]}]
     },
     "244705": {
       "append_skill": {},
@@ -67868,7 +67868,7 @@
       "field_type": [0],
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":200},{"type":"item","id":10,"val":500},{"type":"item","id":10,"val":700},{"type":"chara_rf","id":90903,"val":1}],
-      "fixed_help": [{"cid":7032,"lv":80,"hp":8750,"atk":9600,"helper_comment":"一族の技を受けよ！","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":7032,"lv":80,"hp":8750,"atk":9600,"helper_comment":"接下我族的絕技吧！","skillflag":[true,true,true,false]}]
     },
     "244706": {
       "append_skill": {},
@@ -67876,7 +67876,7 @@
       "chapter_list": [1],
       "difficulty": 30,
       "flag": {},
-      "name": "指南・刀刃鳥",
+      "name": "指南・刀頭鳥",
       "quest_id": 244706,
       "bg_list": [9],
       "chapter_cnt": 1,
@@ -67890,7 +67890,7 @@
       "field_type": [0],
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":200},{"type":"item","id":10,"val":500},{"type":"item","id":10,"val":700},{"type":"chara_rf","id":90903,"val":1}],
-      "fixed_help": [{"cid":7065,"lv":80,"hp":9400,"atk":9400,"helper_comment":"家名復興のためにっ！","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":7065,"lv":80,"hp":9400,"atk":9400,"helper_comment":"為了復興家名！","skillflag":[true,true,true,false]}]
     },
     "244801": {
       "append_skill": {},
@@ -97980,8 +97980,183 @@
       "sort": 2,
       "field_type": [0,0,0],
       "icon": "Collaboration01"
+    },
+    "410009": {
+      "append_skill": {},
+      "area_id": 101,
+      "chapter_list": [1,2],
+      "difficulty": 52,
+      "flag": {},
+      "name": "狂騷時代",
+      "quest_id": 410009,
+      "bg_list": [9,9],
+      "chapter_cnt": 2,
+      "is_casino": false,
+      "stamina": 14,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "sort": 2,
+      "field_type": [0,0],
+      "icon": "Collaboration01"
+    },
+    "410010": {
+      "append_skill": {},
+      "area_id": 101,
+      "chapter_list": [1,2,3],
+      "difficulty": 52,
+      "flag": {},
+      "name": "礦山王的繼承人",
+      "quest_id": 410010,
+      "bg_list": [12,6,6],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "place_id": 3,
+      "stamina": 14,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "sort": 2,
+      "field_type": [0,0,0],
+      "icon": "Collaboration01"
+    },
+    "410011": {
+      "append_skill": {},
+      "area_id": 101,
+      "chapter_list": [1,2],
+      "difficulty": 52,
+      "flag": {},
+      "name": "還在迷路的途中",
+      "quest_id": 410011,
+      "bg_list": [12,9],
+      "chapter_cnt": 2,
+      "is_casino": false,
+      "place_id": 9,
+      "stamina": 14,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "sort": 2,
+      "field_type": [0,0],
+      "icon": "Collaboration01"
+    },
+    "410012": {
+      "append_skill": {},
+      "area_id": 101,
+      "chapter_list": [1,2,3,4],
+      "difficulty": 53,
+      "flag": {},
+      "name": "崩壞的預兆",
+      "quest_id": 410012,
+      "bg_list": [12,7,7,7],
+      "chapter_cnt": 4,
+      "is_casino": false,
+      "place_id": 11,
+      "stamina": 14,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "sort": 2,
+      "field_type": [0,0,0,0],
+      "icon": "Collaboration01"
+    },
+    "410013": {
+      "append_skill": {},
+      "area_id": 101,
+      "chapter_list": [1,2],
+      "difficulty": 53,
+      "flag": {},
+      "name": "暴走的少女們",
+      "quest_id": 410013,
+      "bg_list": [6,6],
+      "chapter_cnt": 2,
+      "is_casino": false,
+      "place_id": 2,
+      "stamina": 14,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "sort": 2,
+      "field_type": [0,0],
+      "icon": "Collaboration01"
+    },
+    "410014": {
+      "append_skill": {},
+      "area_id": 101,
+      "chapter_list": [1,2,3,4],
+      "difficulty": 53,
+      "flag": {},
+      "name": "怨念的凶彈",
+      "quest_id": 410014,
+      "bg_list": [6,6,6,9],
+      "chapter_cnt": 4,
+      "is_casino": false,
+      "place_id": 2,
+      "stamina": 14,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "sort": 2,
+      "field_type": [0,0,0,0],
+      "icon": "Collaboration01"
+    },
+    "410015": {
+      "append_skill": {},
+      "area_id": 101,
+      "chapter_list": [1,2,3,4],
+      "difficulty": 54,
+      "flag": {},
+      "name": "邪惡的魔獸",
+      "quest_id": 410015,
+      "bg_list": [9,6,6,6],
+      "chapter_cnt": 4,
+      "is_casino": false,
+      "place_id": 10,
+      "stamina": 15,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "sort": 2,
+      "field_type": [0,0,0,0],
+      "icon": "Collaboration01"
+    },
+    "410016": {
+      "append_skill": {},
+      "area_id": 101,
+      "chapter_list": [1,2,3,4],
+      "difficulty": 55,
+      "flag": {},
+      "name": "開拓者之島",
+      "quest_id": 410016,
+      "bg_list": [2,2,2,2],
+      "chapter_cnt": 4,
+      "is_casino": false,
+      "place_id": 7,
+      "stamina": 15,
+      "reward_box": 3,
+      "reward_data": {
+        "type": "item",
+        "box": 3
+      },
+      "sort": 2,
+      "field_type": [0,0,0,0],
+      "icon": "Collaboration01"
     }
   },
   "res": 0,
-  "sv": "1499917389"
+  "sv": "1500360407"
 }

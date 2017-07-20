@@ -1,5 +1,5 @@
 {
-  "deceive": 1498122178,
+  "deceive": 1500541264,
   "weaponlist": {
     "1": {
       "id": 1,
@@ -15837,8 +15837,36 @@
       "type": 0,
       "model": "weapon95846_body",
       "rank": 3
+    },
+    "95851": {
+      "id": 95851,
+      "name": "蒲扇",
+      "type_atk": 1,
+      "attackMax": 13,
+      "type_cri": 2,
+      "criticalMax": 10,
+      "type_grd": 3,
+      "guardMax": 10,
+      "type": 0,
+      "model": "weapon95851_body",
+      "rank": 3,
+      "skill": 88641
+    },
+    "95852": {
+      "id": 95852,
+      "name": "香扇",
+      "type_atk": 1,
+      "attackMax": 11,
+      "type_cri": 2,
+      "criticalMax": 11,
+      "type_grd": 3,
+      "guardMax": 11,
+      "type": 0,
+      "model": "weapon95852_body",
+      "rank": 3,
+      "skill": 88642
     }
   },
   "res": 0,
-  "sv": "1497852886"
+  "sv": "1500519832"
 }

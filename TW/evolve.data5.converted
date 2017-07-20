@@ -1,5 +1,5 @@
 {
-  "deceive": 1498122178,
+  "deceive": 1500541264,
   "evolve": {
     "26000": {
       "evol_dst": 26000,
@@ -7988,8 +7988,28 @@
       "usable0": -1,
       "usable1": -1,
       "usable2": -1
+    },
+    "95851": {
+      "evol_dst": 95851,
+      "id": 95851,
+      "name": "蒲扇",
+      "rank_limit": 2,
+      "rarity": 5,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1
+    },
+    "95852": {
+      "evol_dst": 95852,
+      "id": 95852,
+      "name": "香扇",
+      "rank_limit": 2,
+      "rarity": 5,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1
     }
   },
   "res": 0,
-  "sv": "1497852886"
+  "sv": "1500519832"
 }

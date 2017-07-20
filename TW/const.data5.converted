@@ -26,14 +26,14 @@
   "casino_coin_exchange_limit": 0,
   "casino_coin_price": 50,
   "res": 0,
-  "body": [{"type":14,"data":{"global":{"tmp_interval":600,"purchase":1,"raid_item":-1,"review":1},"cover":null,"raid":{"raid_id":24,"bg":2000,"banner":1,"event_start":1499656308,"event_end":1500616800,"close":1500530400,"name":"圖基法特來襲","full_time":130,"part_time":90,"sp_cards":[{"cid":"5097","skill_id":"30050"},{"cid":"5098","skill_id":"30050"},{"cid":"7546","skill_id":"30051"}],"full_pirica_time":13,"part_pirica_time":22,"hp_up":2,"atk_up":2,"anger_hp_up":2,"anger_atk_up":2,"anger_battle_time":30,"repeat_reward":{"per_smash_cnt":5,"type":"weapon_ev","id":26000,"val":1}},"totalwar":null,"subjugation":[],"expup":{"id":44,"start":1499234400,"end":1500530399,"exp_rate":2.0,"cids":[5097,5098,34,45,40,46,41,63,7024]},"weaponcompose":{"weapon_compose_disabled":false},"party_opt":{"type":1,"cost_border1":16,"cost_border2":12}},"proc":0}],
+  "body": [{"type":14,"data":{"global":{"tmp_interval":600,"purchase":1,"raid_item":-1,"review":1},"cover":null,"raid":{"raid_id":24,"bg":2000,"banner":1,"event_start":1499656308,"event_end":1500616800,"close":1500530400,"name":"圖基法特來襲","full_time":130,"part_time":90,"sp_cards":[{"cid":"5097","skill_id":"30050"},{"cid":"5098","skill_id":"30050"},{"cid":"7546","skill_id":"30051"}],"full_pirica_time":13,"part_pirica_time":22,"hp_up":2,"atk_up":2,"anger_hp_up":2,"anger_atk_up":2,"anger_battle_time":30,"repeat_reward":{"per_smash_cnt":5,"type":"weapon_ev","id":26000,"val":1}},"totalwar":null,"subjugation":[],"expup":null,"weaponcompose":{"weapon_compose_disabled":false},"party_opt":{"type":1,"cost_border1":16,"cost_border2":12}},"proc":0}],
   "mVer": {
     "charainfo": 1499918769,
-    "weaponlist": 1497852886,
-    "skilllist": 1499661076,
+    "weaponlist": 1500519832,
+    "skilllist": 1500519835,
     "worldinfo": 1497944548,
-    "episodeinfo": 1498468024,
-    "questdigest": 1499917389,
+    "episodeinfo": 1500271208,
+    "questdigest": 1500360407,
     "itemlist": 1492742839,
     "booklist": 1498704224,
     "motionlist": 1477389804,
@@ -54,8 +54,8 @@
     "eventplace": 1,
     "eventbadge": 1499714787,
     "casinoinfo": 1475140000,
-    "reload": 1493222399,
-    "servertime": 1499941023
+    "reload": 1500271199,
+    "servertime": 1500541354
   },
   "sv": "0"
 }
