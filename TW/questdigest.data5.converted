@@ -1,5 +1,5 @@
 {
-  "deceive": 1500541303,
+  "deceive": 1501149583,
   "questdigest": {
     "20": {
       "append_skill": {},
@@ -68552,7 +68552,7 @@
       "chapter_list": [1],
       "difficulty": 8,
       "flag": {},
-      "name": "三賢者的任務・１",
+      "name": "三賢者的任務．１",
       "quest_id": 245205,
       "bg_list": [9],
       "chapter_cnt": 1,
@@ -68573,7 +68573,7 @@
       "chapter_list": [1],
       "difficulty": 8,
       "flag": {},
-      "name": "三賢者的任務・２",
+      "name": "三賢者的任務．２",
       "quest_id": 245206,
       "bg_list": [12],
       "chapter_cnt": 1,
@@ -68594,7 +68594,7 @@
       "chapter_list": [1],
       "difficulty": 8,
       "flag": {},
-      "name": "三賢者的任務・３",
+      "name": "三賢者的任務．３",
       "quest_id": 245207,
       "bg_list": [1],
       "chapter_cnt": 1,
@@ -68615,7 +68615,7 @@
       "chapter_list": [1],
       "difficulty": 8,
       "flag": {},
-      "name": "三賢者的任務・４",
+      "name": "三賢者的任務．４",
       "quest_id": 245208,
       "bg_list": [6],
       "chapter_cnt": 1,
@@ -68636,7 +68636,7 @@
       "chapter_list": [1],
       "difficulty": 8,
       "flag": {},
-      "name": "三賢者的任務・５",
+      "name": "三賢者的任務．５",
       "quest_id": 245209,
       "bg_list": [9],
       "chapter_cnt": 1,
@@ -68657,7 +68657,7 @@
       "chapter_list": [1],
       "difficulty": 8,
       "flag": {},
-      "name": "三賢者的任務・６",
+      "name": "三賢者的任務．６",
       "quest_id": 245210,
       "bg_list": [2],
       "chapter_cnt": 1,
@@ -68678,7 +68678,7 @@
       "chapter_list": [1],
       "difficulty": 8,
       "flag": {},
-      "name": "三賢者的任務・７",
+      "name": "三賢者的任務．７",
       "quest_id": 245211,
       "bg_list": [5],
       "chapter_cnt": 1,
@@ -71435,7 +71435,6 @@
         "box": 3
       },
       "field_type": [0],
-      "icon": "280011",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"weapon_rf","id":93001,"val":1},{"type":"weapon_rf","id":93001,"val":1},{"type":"chara_rf","id":90005,"val":1},{"type":"chara_rf","id":90010,"val":1}]
     },
@@ -77291,7 +77290,6 @@
       },
       "sort": 30,
       "field_type": [0],
-      "icon": "challenge01",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":200},{"type":"item","id":10,"val":200},{"type":"item","id":10,"val":200},{"type":"item","id":10,"val":200}],
       "disable_continue": true,
@@ -82089,7 +82087,7 @@
       "flag": {
         "quest": [{"type":3,"qid":245901}]
       },
-      "name": "第六章・再",
+      "name": "第六章．再",
       "quest_id": 245910,
       "bg_list": [1],
       "chapter_cnt": 1,
@@ -82114,7 +82112,7 @@
       "flag": {
         "quest": [{"type":3,"qid":245902}]
       },
-      "name": "第七章・再",
+      "name": "第七章．再",
       "quest_id": 245911,
       "bg_list": [4],
       "chapter_cnt": 1,
@@ -82139,7 +82137,7 @@
       "flag": {
         "quest": [{"type":3,"qid":245903}]
       },
-      "name": "第八章・再",
+      "name": "第八章．再",
       "quest_id": 245912,
       "bg_list": [2],
       "chapter_cnt": 1,
@@ -82164,7 +82162,7 @@
       "flag": {
         "quest": [{"type":3,"qid":245904}]
       },
-      "name": "第九章・再",
+      "name": "第九章．再",
       "quest_id": 245913,
       "bg_list": [12],
       "chapter_cnt": 1,
@@ -82189,7 +82187,7 @@
       "flag": {
         "quest": [{"type":3,"qid":245905}]
       },
-      "name": "第十章・再",
+      "name": "第十章．再",
       "quest_id": 245914,
       "bg_list": [1],
       "chapter_cnt": 1,
@@ -98158,5 +98156,5 @@
     }
   },
   "res": 0,
-  "sv": "1500360407"
+  "sv": "1501136705"
 }
