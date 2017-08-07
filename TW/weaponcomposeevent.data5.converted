@@ -1,21 +1,6 @@
 {
-  "deceive": 1499936390,
-  "weapon_compose_event": {
-    "8": {
-      "event_id": 8,
-      "start": 1477980000,
-      "end": 1500616800,
-      "event_type": 20,
-      "text": "活動期間鍊金",
-      "collabo": {
-        "border_quest_check": false,
-        "img_name": "",
-        "first_message": "",
-        "hit_message": "",
-        "hit_voice": ""
-      }
-    }
-  },
+  "deceive": 1501750757,
+  "weapon_compose_event": {},
   "res": 0,
-  "sv": "1499714477"
+  "sv": "1"
 }

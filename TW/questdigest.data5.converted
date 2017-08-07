@@ -1,5 +1,5 @@
 {
-  "deceive": 1501149583,
+  "deceive": 1501750803,
   "questdigest": {
     "20": {
       "append_skill": {},
@@ -32621,6 +32621,123 @@
         "box": 2
       },
       "field_type": [0,0,0]
+    },
+    "88980": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [1],
+      "difficulty": 4,
+      "flag": {},
+      "name": "凶獸情深",
+      "quest_id": 88980,
+      "bg_list": [-1],
+      "chapter_cnt": 1
+    },
+    "88981": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [1,2],
+      "difficulty": 24,
+      "flag": {
+        "chara": [{"cid":8898,"lv":1}]
+      },
+      "name": "凶獸夜騷",
+      "quest_id": 88981,
+      "bg_list": [9,9],
+      "chapter_cnt": 2,
+      "is_casino": false,
+      "place_id": 1,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0]
+    },
+    "89011": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [1,2],
+      "difficulty": 14,
+      "flag": {
+        "chara": [{"cid":8901,"lv":1}]
+      },
+      "name": "天降不祥之物 之後……",
+      "quest_id": 89011,
+      "bg_list": [1],
+      "chapter_cnt": 1,
+      "is_casino": false,
+      "place_id": 1,
+      "stamina": 15,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0]
+    },
+    "89012": {
+      "append_skill": {
+        "cid": 8901,
+        "idx": "2"
+      },
+      "area_id": 1,
+      "chapter_list": [1,2],
+      "difficulty": 54,
+      "flag": {
+        "chara": [{"cid":8901,"lv":60}]
+      },
+      "name": "焰火紅鸞",
+      "quest_id": 89012,
+      "bg_list": [1,1],
+      "chapter_cnt": 2,
+      "is_casino": false,
+      "place_id": 2,
+      "stamina": 5,
+      "field_type": [0,0]
+    },
+    "89021": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [1,2],
+      "difficulty": 14,
+      "flag": {
+        "chara": [{"cid":8902,"lv":1}]
+      },
+      "name": "天降不祥之物 之後……",
+      "quest_id": 89021,
+      "bg_list": [1],
+      "chapter_cnt": 1,
+      "is_casino": false,
+      "place_id": 1,
+      "stamina": 15,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0]
+    },
+    "89022": {
+      "append_skill": {
+        "cid": 8902,
+        "idx": "2"
+      },
+      "area_id": 4,
+      "chapter_list": [1,2],
+      "difficulty": 54,
+      "flag": {
+        "chara": [{"cid":8902,"lv":60}]
+      },
+      "name": "崑崙書仙",
+      "quest_id": 89022,
+      "bg_list": [101,8],
+      "chapter_cnt": 2,
+      "is_casino": false,
+      "place_id": 9,
+      "stamina": 5,
+      "field_type": [0,0]
     },
     "90020": {
       "append_skill": {},
@@ -76202,6 +76319,109 @@
       "kind_prm": 1,
       "eneset_treasure": [{"type":"weapon_rf","id":93901,"val":1},{"type":"weapon_rf","id":93901,"val":1},{"type":"weapon_rf","id":93902,"val":1},{"type":"weapon_rf","id":93902,"val":1}]
     },
+    "1000151": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [0],
+      "difficulty": 4,
+      "flag": {},
+      "name": "天降",
+      "quest_id": 1000151,
+      "bg_list": [1],
+      "chapter_cnt": 1,
+      "is_casino": false,
+      "stamina": 4,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "item",
+        "box": 2
+      },
+      "field_type": [0],
+      "kind_prm": 1,
+      "eneset_treasure": [{"type":"item","id":10,"val":200},{"type":"item","id":10,"val":200},{"type":"item","id":10,"val":200},{"type":"item","id":10,"val":400}]
+    },
+    "1000152": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [1,2,3,4],
+      "difficulty": 12,
+      "flag": {},
+      "name": "天降不祥之物",
+      "quest_id": 1000152,
+      "bg_list": [1,1,1,1],
+      "chapter_cnt": 4,
+      "is_casino": false,
+      "stamina": 6,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "item",
+        "box": 2
+      },
+      "field_type": [0,0,0,0]
+    },
+    "1000153": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [1],
+      "difficulty": 12,
+      "flag": {},
+      "name": "天降恩惠之物",
+      "quest_id": 1000153,
+      "bg_list": [1],
+      "chapter_cnt": 1,
+      "is_casino": false,
+      "stamina": 20,
+      "reward_box": 3,
+      "reward_data": {
+        "type": "card",
+        "box": 3
+      },
+      "field_type": [0],
+      "kind_prm": 1,
+      "eneset_treasure": [{"type":"chara_rf","id":90902,"val":1},{"type":"chara_rf","id":90902,"val":1},{"type":"chara_rf","id":90903,"val":1},{"type":"chara_rf","id":90903,"val":1}]
+    },
+    "1000154": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [0],
+      "difficulty": 12,
+      "flag": {},
+      "name": "天降閃耀之物",
+      "quest_id": 1000154,
+      "bg_list": [1],
+      "chapter_cnt": 1,
+      "is_casino": false,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "item",
+        "box": 2
+      },
+      "field_type": [0],
+      "kind_prm": 1,
+      "eneset_treasure": [{"type":"item","id":10,"val":10000},{"type":"item","id":10,"val":10000},{"type":"item","id":10,"val":15000},{"type":"item","id":10,"val":20000}]
+    },
+    "1000155": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [0],
+      "difficulty": 12,
+      "flag": {},
+      "name": "神獸Ｄａｓｈ",
+      "quest_id": 1000155,
+      "bg_list": [1],
+      "chapter_cnt": 1,
+      "is_casino": false,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0],
+      "kind_prm": 1,
+      "eneset_treasure": [{"type":"weapon_rf","id":93901,"val":1},{"type":"weapon_rf","id":93901,"val":1},{"type":"weapon_rf","id":93902,"val":1},{"type":"weapon_rf","id":93902,"val":1}]
+    },
     "2394151": {
       "append_skill": {},
       "area_id": 1,
@@ -98156,5 +98376,5 @@
     }
   },
   "res": 0,
-  "sv": "1501136705"
+  "sv": "1501745109"
 }

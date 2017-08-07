@@ -1,5 +1,5 @@
 {
-  "deceive": 1500541264,
+  "deceive": 1501750765,
   "weaponlist": {
     "1": {
       "id": 1,
@@ -15865,8 +15865,73 @@
       "model": "weapon95852_body",
       "rank": 3,
       "skill": 88642
+    },
+    "95856": {
+      "id": 95856,
+      "name": "火精",
+      "type_atk": 1,
+      "attackMax": 9,
+      "type_cri": 2,
+      "criticalMax": 7,
+      "type_grd": 3,
+      "guardMax": 5,
+      "type": 0,
+      "model": "weapon95856_body",
+      "rank": 2
+    },
+    "95857": {
+      "id": 95857,
+      "name": "手速已經突破3000啦",
+      "type_atk": 1,
+      "attackMax": 1,
+      "type_cri": 2,
+      "criticalMax": 1,
+      "type_grd": 3,
+      "guardMax": 1,
+      "type": 0,
+      "model": "weapon95857_body",
+      "rank": 3
+    },
+    "95858": {
+      "id": 95858,
+      "name": "神奸記",
+      "type_atk": 1,
+      "attackMax": 7,
+      "type_cri": 2,
+      "criticalMax": 7,
+      "type_grd": 3,
+      "guardMax": 7,
+      "type": 4,
+      "model": "weapon95858_body",
+      "rank": 2
+    },
+    "95854": {
+      "id": 95854,
+      "name": "顓頊氏",
+      "type_atk": 1,
+      "attackMax": 11,
+      "type_cri": 2,
+      "criticalMax": 5,
+      "type_grd": 3,
+      "guardMax": 5,
+      "type": 4,
+      "model": "weapon95854_body",
+      "rank": 2
+    },
+    "95855": {
+      "id": 95855,
+      "name": "顓頊氏．仿",
+      "type_atk": 1,
+      "attackMax": 15,
+      "type_cri": 2,
+      "criticalMax": 7,
+      "type_grd": 3,
+      "guardMax": 7,
+      "type": 4,
+      "model": "weapon95854_body",
+      "rank": 3
     }
   },
   "res": 0,
-  "sv": "1500519832"
+  "sv": "1501555026"
 }
