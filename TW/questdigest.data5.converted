@@ -1,5 +1,5 @@
 {
-  "deceive": 1501750803,
+  "deceive": 1502355691,
   "questdigest": {
     "20": {
       "append_skill": {},
@@ -27578,7 +27578,7 @@
       "chapter_list": [1],
       "difficulty": 0,
       "flag": {},
-      "name": "珼爾登場",
+      "name": "貝爾登場",
       "quest_id": 81690,
       "bg_list": [-1],
       "chapter_cnt": 1,
@@ -27633,7 +27633,7 @@
       "chapter_list": [1],
       "difficulty": 0,
       "flag": {},
-      "name": "赫絲提雅登場",
+      "name": "赫斯緹雅登場",
       "quest_id": 81700,
       "bg_list": [-1],
       "chapter_cnt": 1,
@@ -27820,7 +27820,7 @@
       "chapter_list": [1],
       "difficulty": 0,
       "flag": {},
-      "name": "珼爾登場",
+      "name": "貝爾登場",
       "quest_id": 81750,
       "bg_list": [-1],
       "chapter_cnt": 1,
@@ -40184,6 +40184,25 @@
       "chapter_cnt": 1,
       "is_casino": false
     },
+    "580161": {
+      "append_skill": {
+        "cid": 58016,
+        "idx": "2"
+      },
+      "area_id": 1,
+      "chapter_list": [1,2],
+      "difficulty": 20,
+      "flag": {
+        "chara": [{"cid":58016,"lv":1},{"cid":58016,"lv":13}]
+      },
+      "name": "計劃性使用",
+      "quest_id": 580161,
+      "bg_list": [1,1],
+      "chapter_cnt": 2,
+      "is_casino": false,
+      "place_id": 2,
+      "stamina": 8
+    },
     "580170": {
       "append_skill": {},
       "area_id": 1,
@@ -40223,7 +40242,7 @@
       "chapter_list": [1],
       "difficulty": 0,
       "flag": {},
-      "name": "機械投手登場",
+      "name": "Robo Pitcher登場",
       "quest_id": 580180,
       "bg_list": [-1],
       "chapter_cnt": 1,
@@ -66083,7 +66102,7 @@
       },
       "sort": 100,
       "field_type": [0,0,0],
-      "fixed_help": [{"cid":8165,"lv":1,"hp":400,"atk":400,"helper_comment":"お助けを～！","skillflag":[true,true,true,false]},{"cid":8166,"lv":1,"hp":300,"atk":500,"helper_comment":"た、助けておくれ～！","skillflag":[true,true,true,false]},{"cid":8167,"lv":1,"hp":300,"atk":350,"helper_comment":"うわぁん！助けてぇ！","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":8165,"lv":1,"hp":400,"atk":400,"helper_comment":"救命呀！","skillflag":[true,true,true,false]},{"cid":8166,"lv":1,"hp":300,"atk":500,"helper_comment":"救、救救我～！","skillflag":[true,true,true,false]},{"cid":8167,"lv":1,"hp":300,"atk":350,"helper_comment":"嗚哇！救命啊！","skillflag":[true,true,true,false]}]
     },
     "243702": {
       "append_skill": {},
@@ -66105,7 +66124,7 @@
       "field_type": [0],
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":1000},{"type":"chara_rf","id":90902,"val":1},{"type":"chara_rf","id":90902,"val":1},{"type":"chara_rf","id":90902,"val":1}],
-      "fixed_help": [{"cid":8165,"lv":1,"hp":500,"atk":500,"helper_comment":"お助けを～！","skillflag":[true,true,true,false]}],
+      "fixed_help": [{"cid":8165,"lv":1,"hp":500,"atk":500,"helper_comment":"救命呀！","skillflag":[true,true,true,false]}],
       "disable_continue": true
     },
     "243703": {
@@ -66128,7 +66147,7 @@
       "field_type": [0],
       "kind_prm": 1,
       "eneset_treasure": [{"type":"chara_rf","id":90902,"val":1},{"type":"chara_rf","id":90902,"val":1},{"type":"chara_rf","id":90902,"val":1},{"type":"chara_rf","id":90902,"val":1}],
-      "fixed_help": [{"cid":8166,"lv":1,"hp":880,"atk":800,"helper_comment":"た、助けておくれ～！","skillflag":[true,true,true,false]}],
+      "fixed_help": [{"cid":8166,"lv":1,"hp":880,"atk":800,"helper_comment":"救、救救我～！","skillflag":[true,true,true,false]}],
       "disable_continue": true
     },
     "243704": {
@@ -66152,7 +66171,7 @@
       "field_type": [0],
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":1000},{"type":"item","id":10,"val":1000},{"type":"item","id":10,"val":1000},{"type":"item","id":10,"val":1000}],
-      "fixed_help": [{"cid":8166,"lv":1,"hp":880,"atk":800,"helper_comment":"た、助けておくれ～！","skillflag":[true,true,true,false]}],
+      "fixed_help": [{"cid":8166,"lv":1,"hp":880,"atk":800,"helper_comment":"救、救救我～！","skillflag":[true,true,true,false]}],
       "entry_limited": {
         "category": "rarity",
         "param": {
@@ -66183,7 +66202,7 @@
       "field_type": [0],
       "kind_prm": 1,
       "eneset_treasure": [{"type":"chara_rf","id":90902,"val":1},{"type":"chara_rf","id":90902,"val":1},{"type":"chara_rf","id":90902,"val":1},{"type":"chara_rf","id":90903,"val":1}],
-      "fixed_help": [{"cid":8167,"lv":1,"hp":2150,"atk":2600,"helper_comment":"うわぁん！助けてぇ！","skillflag":[true,true,true,false]}],
+      "fixed_help": [{"cid":8167,"lv":1,"hp":2150,"atk":2600,"helper_comment":"嗚哇！救命啊！","skillflag":[true,true,true,false]}],
       "disable_continue": true
     },
     "243706": {
@@ -66207,7 +66226,7 @@
       "field_type": [0],
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":2000},{"type":"item","id":10,"val":2000},{"type":"item","id":10,"val":2000},{"type":"item","id":10,"val":2000}],
-      "fixed_help": [{"cid":8167,"lv":1,"hp":2150,"atk":2600,"helper_comment":"うわぁん！助けてぇ！","skillflag":[true,true,true,false]}],
+      "fixed_help": [{"cid":8167,"lv":1,"hp":2150,"atk":2600,"helper_comment":"嗚哇！救命啊！","skillflag":[true,true,true,false]}],
       "entry_limited": {
         "category": "rarity",
         "param": {
@@ -66238,7 +66257,7 @@
       "field_type": [0],
       "kind_prm": 1,
       "eneset_treasure": [{"type":"chara_rf","id":90902,"val":1},{"type":"chara_rf","id":90902,"val":1},{"type":"chara_rf","id":90903,"val":1},{"type":"chara_rf","id":90903,"val":1}],
-      "fixed_help": [{"cid":8167,"lv":1,"hp":2600,"atk":2600,"helper_comment":"うわぁん！助けてぇ！","skillflag":[true,true,true,false]}],
+      "fixed_help": [{"cid":8167,"lv":1,"hp":2600,"atk":2600,"helper_comment":"嗚哇！救命啊！","skillflag":[true,true,true,false]}],
       "disable_continue": true
     },
     "243708": {
@@ -66262,7 +66281,7 @@
       "field_type": [0],
       "kind_prm": 1,
       "eneset_treasure": [{"type":"chara_rf","id":90902,"val":1},{"type":"chara_rf","id":90902,"val":1},{"type":"chara_rf","id":90903,"val":1},{"type":"chara_rf","id":90903,"val":1}],
-      "fixed_help": [{"cid":8167,"lv":1,"hp":2600,"atk":2600,"helper_comment":"うわぁん！助けてぇ！","skillflag":[true,true,true,false]}],
+      "fixed_help": [{"cid":8167,"lv":1,"hp":2600,"atk":2600,"helper_comment":"嗚哇！救命啊！","skillflag":[true,true,true,false]}],
       "entry_limited": {
         "category": "cost",
         "param": {
@@ -66292,7 +66311,7 @@
       "field_type": [0],
       "kind_prm": 1,
       "eneset_treasure": [{"type":"chara_rf","id":90902,"val":1},{"type":"chara_rf","id":90902,"val":1},{"type":"chara_rf","id":90903,"val":1},{"type":"chara_rf","id":90903,"val":1}],
-      "fixed_help": [{"cid":8165,"lv":1,"hp":3000,"atk":3000,"helper_comment":"お助けを～！","skillflag":[true,true,true,false]}],
+      "fixed_help": [{"cid":8165,"lv":1,"hp":3000,"atk":3000,"helper_comment":"救命呀！","skillflag":[true,true,true,false]}],
       "entry_limited": {
         "category": "cost",
         "param": {
@@ -67670,7 +67689,7 @@
       "chapter_list": [1],
       "difficulty": 14,
       "flag": {},
-      "name": "測試小珼爾",
+      "name": "測試小貝爾",
       "quest_id": 244609,
       "bg_list": [3],
       "chapter_cnt": 1,
@@ -67720,7 +67739,7 @@
       "chapter_list": [1],
       "difficulty": 14,
       "flag": {},
-      "name": "測試天神大人",
+      "name": "測試上神大人",
       "quest_id": 244611,
       "bg_list": [9],
       "chapter_cnt": 1,
@@ -67745,7 +67764,7 @@
       "chapter_list": [1],
       "difficulty": 50,
       "flag": {},
-      "name": "超級測試小珼爾",
+      "name": "超級測試小貝爾",
       "quest_id": 244612,
       "bg_list": [3],
       "chapter_cnt": 1,
@@ -67795,7 +67814,7 @@
       "chapter_list": [1],
       "difficulty": 50,
       "flag": {},
-      "name": "超級測試天神大人",
+      "name": "超級測試上神大人",
       "quest_id": 244614,
       "bg_list": [9],
       "chapter_cnt": 1,
@@ -98376,5 +98395,5 @@
     }
   },
   "res": 0,
-  "sv": "1501745109"
+  "sv": "1502332329"
 }
