@@ -1,5 +1,5 @@
 {
-  "deceive": 1502355691,
+  "deceive": 1502960975,
   "questdigest": {
     "20": {
       "append_skill": {},
@@ -67568,7 +67568,7 @@
       "sort": 499,
       "field_type": [0,0],
       "icon": "danmachi_main",
-      "fixed_help": [null,{"cid":8168,"lv":60,"hp":5400,"atk":5400,"helper_comment":"リル・ラファーガ","skillflag":[true,true,true,false]}]
+      "fixed_help": [null,{"cid":8168,"lv":60,"hp":5400,"atk":5400,"helper_comment":"微型勁風","skillflag":[true,true,true,false]}]
     },
     "244604": {
       "append_skill": {},
@@ -67620,7 +67620,7 @@
       "chapter_list": [0],
       "difficulty": 10,
       "flag": {},
-      "name": "冒險家的修練",
+      "name": "冒險者的修練",
       "quest_id": 244606,
       "bg_list": [6],
       "chapter_cnt": 1,
@@ -67666,7 +67666,7 @@
       "chapter_list": [0],
       "difficulty": 30,
       "flag": {},
-      "name": "超級・冒險家的修練",
+      "name": "超級・冒險者的修練",
       "quest_id": 244608,
       "bg_list": [7],
       "chapter_cnt": 1,
@@ -67689,7 +67689,7 @@
       "chapter_list": [1],
       "difficulty": 14,
       "flag": {},
-      "name": "測試小貝爾",
+      "name": "試用貝爾君",
       "quest_id": 244609,
       "bg_list": [3],
       "chapter_cnt": 1,
@@ -67706,7 +67706,7 @@
       "icon": "danmachi_weapon1",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":500},{"type":"item","id":10,"val":500},{"type":"item","id":10,"val":500},{"type":"item","id":10,"val":500}],
-      "fixed_help": [{"cid":8169,"lv":80,"hp":9400,"atk":9500,"helper_comment":"ファイアボルト！","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":8169,"lv":80,"hp":9400,"atk":9500,"helper_comment":"火焰閃電！","skillflag":[true,true,true,false]}]
     },
     "244610": {
       "append_skill": {},
@@ -67714,7 +67714,7 @@
       "chapter_list": [1],
       "difficulty": 14,
       "flag": {},
-      "name": "測試琉",
+      "name": "試用琉",
       "quest_id": 244610,
       "bg_list": [5],
       "chapter_cnt": 1,
@@ -67731,7 +67731,7 @@
       "icon": "danmachi_weapon3",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":500},{"type":"item","id":10,"val":500},{"type":"item","id":10,"val":500},{"type":"item","id":10,"val":500}],
-      "fixed_help": [{"cid":8171,"lv":80,"hp":9200,"atk":9800,"helper_comment":"ルミノス・ウインド！","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":8171,"lv":80,"hp":9200,"atk":9800,"helper_comment":"光明之風！","skillflag":[true,true,true,false]}]
     },
     "244611": {
       "append_skill": {},
@@ -67739,7 +67739,7 @@
       "chapter_list": [1],
       "difficulty": 14,
       "flag": {},
-      "name": "測試上神大人",
+      "name": "試用上神大人",
       "quest_id": 244611,
       "bg_list": [9],
       "chapter_cnt": 1,
@@ -67756,7 +67756,7 @@
       "icon": "danmachi_weapon2",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":500},{"type":"item","id":10,"val":500},{"type":"item","id":10,"val":500},{"type":"item","id":10,"val":500}],
-      "fixed_help": [{"cid":8170,"lv":80,"hp":6000,"atk":9700,"helper_comment":"勝たせてみせる。","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":8170,"lv":80,"hp":6000,"atk":9700,"helper_comment":"絕對會贏給你看。","skillflag":[true,true,true,false]}]
     },
     "244612": {
       "append_skill": {},
@@ -67764,7 +67764,7 @@
       "chapter_list": [1],
       "difficulty": 50,
       "flag": {},
-      "name": "超級測試小貝爾",
+      "name": "超級．試用貝爾君",
       "quest_id": 244612,
       "bg_list": [3],
       "chapter_cnt": 1,
@@ -67781,7 +67781,7 @@
       "icon": "danmachi_weapon1",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":1000},{"type":"item","id":10,"val":1000},{"type":"item","id":10,"val":1000},{"type":"item","id":10,"val":1000}],
-      "fixed_help": [{"cid":8169,"lv":80,"hp":9400,"atk":9500,"helper_comment":"ファイアボルト！","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":8169,"lv":80,"hp":9400,"atk":9500,"helper_comment":"火焰閃電！","skillflag":[true,true,true,false]}]
     },
     "244613": {
       "append_skill": {},
@@ -67789,7 +67789,7 @@
       "chapter_list": [1],
       "difficulty": 50,
       "flag": {},
-      "name": "超級測試琉",
+      "name": "超級．試用琉",
       "quest_id": 244613,
       "bg_list": [5],
       "chapter_cnt": 1,
@@ -67806,7 +67806,7 @@
       "icon": "danmachi_weapon3",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":1000},{"type":"item","id":10,"val":1000},{"type":"item","id":10,"val":1000},{"type":"item","id":10,"val":1000}],
-      "fixed_help": [{"cid":8171,"lv":80,"hp":9200,"atk":9800,"helper_comment":"ルミノス・ウインド！","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":8171,"lv":80,"hp":9200,"atk":9800,"helper_comment":"光明之風！","skillflag":[true,true,true,false]}]
     },
     "244614": {
       "append_skill": {},
@@ -67814,7 +67814,7 @@
       "chapter_list": [1],
       "difficulty": 50,
       "flag": {},
-      "name": "超級測試上神大人",
+      "name": "超級．試用上神大人",
       "quest_id": 244614,
       "bg_list": [9],
       "chapter_cnt": 1,
@@ -67831,7 +67831,7 @@
       "icon": "danmachi_weapon2",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":1000},{"type":"item","id":10,"val":1000},{"type":"item","id":10,"val":1000},{"type":"item","id":10,"val":1000}],
-      "fixed_help": [{"cid":8170,"lv":80,"hp":6000,"atk":9700,"helper_comment":"勝たせてみせる。","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":8170,"lv":80,"hp":6000,"atk":9700,"helper_comment":"絕對會贏給你看。","skillflag":[true,true,true,false]}]
     },
     "244615": {
       "append_skill": {},
@@ -67839,7 +67839,7 @@
       "chapter_list": [1],
       "difficulty": 50,
       "flag": {},
-      "name": "超級測試艾絲",
+      "name": "超級．試用劍姬",
       "quest_id": 244615,
       "bg_list": [8],
       "chapter_cnt": 1,
@@ -67856,7 +67856,7 @@
       "icon": "danmachi_weapon4",
       "kind_prm": 1,
       "eneset_treasure": [{"type":"item","id":10,"val":1000},{"type":"item","id":10,"val":1000},{"type":"item","id":10,"val":1000},{"type":"item","id":10,"val":1000}],
-      "fixed_help": [{"cid":8168,"lv":80,"hp":9800,"atk":9300,"helper_comment":"リル・ラファーガ！","skillflag":[true,true,true,false]}]
+      "fixed_help": [{"cid":8168,"lv":80,"hp":9800,"atk":9300,"helper_comment":"微型勁風！","skillflag":[true,true,true,false]}]
     },
     "244616": {
       "append_skill": {},
@@ -98395,5 +98395,5 @@
     }
   },
   "res": 0,
-  "sv": "1502332329"
+  "sv": "1502949930"
 }

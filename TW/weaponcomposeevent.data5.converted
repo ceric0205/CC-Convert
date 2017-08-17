@@ -1,6 +1,21 @@
 {
-  "deceive": 1501750757,
-  "weapon_compose_event": {},
+  "deceive": 1502960935,
+  "weapon_compose_event": {
+    "5": {
+      "event_id": 5,
+      "start": 1502936221,
+      "end": 1504245600,
+      "event_type": 16,
+      "text": "地下城合作",
+      "collabo": {
+        "border_quest_check": true,
+        "img_name": "cha_2d_whole_08176",
+        "first_message": "我會做出不愧於【赫菲斯托絲】之名的作品的",
+        "hit_message": "你有什麼需求就盡管提出來吧?",
+        "hit_voice": "VOICE_Alchemy_08176"
+      }
+    }
+  },
   "res": 0,
-  "sv": "1"
+  "sv": "1502936222"
 }
