@@ -1,5 +1,5 @@
 {
-  "deceive": 1503565299,
+  "deceive": 1504170648,
   "questdigest": {
     "20": {
       "append_skill": {},
@@ -39986,7 +39986,7 @@
       "chapter_list": [1],
       "difficulty": 0,
       "flag": {},
-      "name": "GENESIS登場",
+      "name": "Genesis登場",
       "quest_id": 580060,
       "bg_list": [-1],
       "chapter_cnt": 1,
@@ -98395,5 +98395,5 @@
     }
   },
   "res": 0,
-  "sv": "1503549562"
+  "sv": "1504066170"
 }
