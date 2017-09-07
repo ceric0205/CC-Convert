@@ -1,5 +1,5 @@
 {
-  "deceive": 1504170619,
+  "deceive": 1504773950,
   "weaponlist": {
     "1": {
       "id": 1,
@@ -15930,8 +15930,73 @@
       "type": 4,
       "model": "weapon95854_body",
       "rank": 3
+    },
+    "95863": {
+      "id": 95863,
+      "name": "勞連．Ｄ．邦棒",
+      "type_atk": 1,
+      "attackMax": 6,
+      "type_cri": 2,
+      "criticalMax": 9,
+      "type_grd": 3,
+      "guardMax": 6,
+      "type": 1,
+      "model": "weapon95863_body",
+      "rank": 2
+    },
+    "95861": {
+      "id": 95861,
+      "name": "月牙",
+      "type_atk": 1,
+      "attackMax": 11,
+      "type_cri": 2,
+      "criticalMax": 7,
+      "type_grd": 3,
+      "guardMax": 4,
+      "type": 0,
+      "model": "weapon95861_body",
+      "rank": 2
+    },
+    "95862": {
+      "id": 95862,
+      "name": "月華(左)",
+      "type_atk": 1,
+      "attackMax": 1,
+      "type_cri": 2,
+      "criticalMax": 1,
+      "type_grd": 3,
+      "guardMax": 1,
+      "type": 0,
+      "model": "weapon95862_body",
+      "rank": 2
+    },
+    "95859": {
+      "id": 95859,
+      "name": "少昊氏",
+      "type_atk": 1,
+      "attackMax": 9,
+      "type_cri": 2,
+      "criticalMax": 3,
+      "type_grd": 3,
+      "guardMax": 9,
+      "type": 1,
+      "model": "weapon95859_body",
+      "rank": 2
+    },
+    "95860": {
+      "id": 95860,
+      "name": "少昊氏．仿",
+      "type_atk": 1,
+      "attackMax": 12,
+      "type_cri": 2,
+      "criticalMax": 5,
+      "type_grd": 3,
+      "guardMax": 12,
+      "type": 1,
+      "model": "weapon95859_body",
+      "rank": 3
     }
   },
   "res": 0,
-  "sv": "1503904969"
+  "sv": "1504582992"
 }

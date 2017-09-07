@@ -1,5 +1,5 @@
 {
-  "deceive": 1502960928,
+  "deceive": 1504773946,
   "bossskill": {
     "1": {
       "atkspeed": "3",
@@ -12799,8 +12799,38 @@
       "spmotname": "sp_magic03",
       "skillparam3": 3.0,
       "skillflag": 1027
+    },
+    "89051": {
+      "skillflag0_0": 0,
+      "skillflag0_1": 0,
+      "skillflag1_0": 0,
+      "skillflag1_1": 0,
+      "skillid": 89051,
+      "skillid0": 66,
+      "skillparam1": 1.0,
+      "spmotname": "sp_magic01",
+      "skillparam4": 10.0,
+      "skillparam5": 120.0,
+      "skillparam0": 3.0
+    },
+    "89052": {
+      "skillflag0_0": 2097152,
+      "skillflag0_1": 0,
+      "skillflag1_0": 0,
+      "skillflag1_1": 0,
+      "skillid": 89052,
+      "skillid0": 78,
+      "skillparam1": 0.1,
+      "spmotname": "sp_powerup02",
+      "skillparam3": 32.0,
+      "skillparam2": 25.0,
+      "skillparam4": 0.2,
+      "skillflag": 2097152,
+      "skillparam0": -1.0,
+      "str0": "BE_Satellite_Laser_c",
+      "str1": "BE_CautionMagic_a_red"
     }
   },
   "res": 0,
-  "sv": "1502940792"
+  "sv": "1504497895"
 }

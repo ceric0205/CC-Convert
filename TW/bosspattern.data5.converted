@@ -1,5 +1,5 @@
 {
-  "deceive": 1502960928,
+  "deceive": 1504773946,
   "bosspattern": {
     "1": {
       "che": 0,
@@ -14602,8 +14602,49 @@
       "sname": "畢方之炎",
       "stext": "燃燒吧。燒到一點殘渣都不剩。",
       "voice": 0
+    },
+    "89050": {
+      "che": 0,
+      "chs": 0,
+      "flag": 0,
+      "hpend": 100.0,
+      "hpstart": 0.0,
+      "patternid": 89050,
+      "pose": 0.0,
+      "posp": 0.0,
+      "priority": 0,
+      "scost": 1,
+      "sinfo": "【地形變化】地形會在一定時間內變成異空間。",
+      "skillid0": 89051,
+      "skillid1": 0,
+      "skillid2": 0,
+      "skillid3": 0,
+      "sname": "粉絲領域",
+      "stext": "喜歡！喜歡喜歡喜歡！！",
+      "voice": 0
+    },
+    "89051": {
+      "che": 0,
+      "chs": 0,
+      "flag": 0,
+      "hpend": 100.0,
+      "hpstart": 0.0,
+      "patternid": 89051,
+      "pose": 0.0,
+      "posp": 0.0,
+      "priority": 100,
+      "scost": 1,
+      "sinfo": "當地形是異空間的時候，會向空中射出25支箭，給予隨機敵人和其周圍極小傷害，並破壞盾牌。",
+      "skillid0": 89052,
+      "skillid1": 0,
+      "skillid2": 0,
+      "skillid3": 0,
+      "sname": "接受吧！我的愛",
+      "stext": "最喜歡義勇軍了！！！",
+      "voice": 0,
+      "bgf": 8388608
     }
   },
   "res": 0,
-  "sv": "1502940792"
+  "sv": "1504497895"
 }

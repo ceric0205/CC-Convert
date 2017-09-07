@@ -1,5 +1,5 @@
 {
-  "deceive": 1504170607,
+  "deceive": 1504773942,
   "episodeinfo": {
     "(0, 2)": {
       "type": 2,
@@ -5802,8 +5802,26 @@
       "id": 8898,
       "episode": [{"name":"羈絆物語","quest":[88981],"develop_only":0}],
       "collabo": false
+    },
+    "(8905, 0)": {
+      "type": 0,
+      "id": 8905,
+      "episode": [{"name":"羈絆物語","quest":[89051],"develop_only":0}],
+      "collabo": false
+    },
+    "(8904, 0)": {
+      "type": 0,
+      "id": 8904,
+      "episode": [{"name":"羈絆物語","quest":[89041],"develop_only":0}],
+      "collabo": false
+    },
+    "(8899, 0)": {
+      "type": 0,
+      "id": 8899,
+      "episode": [{"name":"羈絆物語","quest":[88991],"develop_only":0}],
+      "collabo": false
     }
   },
   "res": 0,
-  "sv": "1503886751"
+  "sv": "1504603419"
 }

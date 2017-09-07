@@ -1,5 +1,5 @@
 {
-  "deceive": 1504170648,
+  "deceive": 1504773981,
   "questdigest": {
     "20": {
       "append_skill": {},
@@ -32655,6 +32655,37 @@
       },
       "field_type": [0,0]
     },
+    "88990": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [1],
+      "difficulty": 4,
+      "flag": {},
+      "name": "荒廢村落神秘事件簿 解篇",
+      "quest_id": 88990,
+      "bg_list": [-1],
+      "chapter_cnt": 1
+    },
+    "88991": {
+      "append_skill": {
+        "cid": 8899,
+        "idx": "2"
+      },
+      "area_id": 1,
+      "chapter_list": [1,2,3],
+      "difficulty": 44,
+      "flag": {
+        "chara": [{"cid":8899,"lv":45}]
+      },
+      "name": "打工陷阱多",
+      "quest_id": 88991,
+      "bg_list": [1,9],
+      "chapter_cnt": 2,
+      "is_casino": false,
+      "place_id": 1,
+      "stamina": 10,
+      "field_type": [0,0]
+    },
     "89011": {
       "append_skill": {},
       "area_id": 1,
@@ -32737,6 +32768,50 @@
       "is_casino": false,
       "place_id": 9,
       "stamina": 5,
+      "field_type": [0,0]
+    },
+    "89041": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [1,2],
+      "difficulty": 14,
+      "flag": {
+        "chara": [{"cid":8904,"lv":1}]
+      },
+      "name": "鬼之藝",
+      "quest_id": 89041,
+      "bg_list": [1,13],
+      "chapter_cnt": 2,
+      "is_casino": false,
+      "place_id": 1,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0,0]
+    },
+    "89051": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [1,2],
+      "difficulty": 14,
+      "flag": {
+        "chara": [{"cid":8905,"lv":1}]
+      },
+      "name": "與隊長大人一起……",
+      "quest_id": 89051,
+      "bg_list": [9,9],
+      "chapter_cnt": 2,
+      "is_casino": false,
+      "place_id": 1,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
       "field_type": [0,0]
     },
     "90020": {
@@ -76441,6 +76516,128 @@
       "kind_prm": 1,
       "eneset_treasure": [{"type":"weapon_rf","id":93901,"val":1},{"type":"weapon_rf","id":93901,"val":1},{"type":"weapon_rf","id":93902,"val":1},{"type":"weapon_rf","id":93902,"val":1}]
     },
+    "1000156": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [0],
+      "difficulty": 4,
+      "flag": {},
+      "name": "尋找第三凶獸",
+      "quest_id": 1000156,
+      "bg_list": [106],
+      "chapter_cnt": 1,
+      "is_casino": false,
+      "stamina": 4,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "item",
+        "box": 2
+      },
+      "field_type": [0],
+      "kind_prm": 1,
+      "eneset_treasure": [{"type":"item","id":10,"val":200},{"type":"item","id":10,"val":200},{"type":"item","id":10,"val":200},{"type":"item","id":10,"val":400}]
+    },
+    "1000157": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [1,2,3],
+      "difficulty": 12,
+      "flag": {},
+      "name": "荒廢村落神秘事件簿 上",
+      "quest_id": 1000157,
+      "bg_list": [106,1,106],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "stamina": 6,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "item",
+        "box": 2
+      },
+      "field_type": [0,0,0]
+    },
+    "1000158": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [1,2,3],
+      "difficulty": 12,
+      "flag": {},
+      "name": "荒廢村落神秘事件簿 下",
+      "quest_id": 1000158,
+      "bg_list": [106,106,106],
+      "chapter_cnt": 3,
+      "is_casino": false,
+      "stamina": 6,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "item",
+        "box": 2
+      },
+      "field_type": [0,0,0]
+    },
+    "1000159": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [1],
+      "difficulty": 12,
+      "flag": {},
+      "name": "食慾之秋",
+      "quest_id": 1000159,
+      "bg_list": [106],
+      "chapter_cnt": 1,
+      "is_casino": false,
+      "stamina": 20,
+      "reward_box": 3,
+      "reward_data": {
+        "type": "card",
+        "box": 3
+      },
+      "field_type": [0],
+      "kind_prm": 1,
+      "eneset_treasure": [{"type":"chara_rf","id":90902,"val":1},{"type":"chara_rf","id":90902,"val":1},{"type":"chara_rf","id":90903,"val":1},{"type":"chara_rf","id":90903,"val":1}]
+    },
+    "1000160": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [0],
+      "difficulty": 12,
+      "flag": {},
+      "name": "金色之秋",
+      "quest_id": 1000160,
+      "bg_list": [106],
+      "chapter_cnt": 1,
+      "is_casino": false,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "item",
+        "box": 2
+      },
+      "field_type": [0],
+      "kind_prm": 1,
+      "eneset_treasure": [{"type":"item","id":10,"val":10000},{"type":"item","id":10,"val":10000},{"type":"item","id":10,"val":15000},{"type":"item","id":10,"val":20000}]
+    },
+    "1000161": {
+      "append_skill": {},
+      "area_id": 1,
+      "chapter_list": [0],
+      "difficulty": 12,
+      "flag": {},
+      "name": "戀愛試用期",
+      "quest_id": 1000161,
+      "bg_list": [106],
+      "chapter_cnt": 1,
+      "is_casino": false,
+      "stamina": 10,
+      "reward_box": 2,
+      "reward_data": {
+        "type": "stone",
+        "box": 2
+      },
+      "field_type": [0],
+      "kind_prm": 1,
+      "eneset_treasure": [{"type":"weapon_rf","id":93901,"val":1},{"type":"weapon_rf","id":93901,"val":1},{"type":"weapon_rf","id":93902,"val":1},{"type":"weapon_rf","id":93902,"val":1}]
+    },
     "2394151": {
       "append_skill": {},
       "area_id": 1,
@@ -98395,5 +98592,5 @@
     }
   },
   "res": 0,
-  "sv": "1504066170"
+  "sv": "1504769893"
 }
