@@ -30,7 +30,7 @@
   "mVer": {
     "charainfo": 1504753722,
     "weaponlist": 1504582992,
-    "skilllist": 1504692777,
+    "skilllist": 1504776216,
     "worldinfo": 1503541455,
     "episodeinfo": 1504603419,
     "questdigest": 1504769893,
@@ -55,7 +55,7 @@
     "eventbadge": 1504686503,
     "casinoinfo": 1475140000,
     "reload": 648189399,
-    "servertime": 1504774533
+    "servertime": 1504868299
   },
   "sv": "0"
 }
