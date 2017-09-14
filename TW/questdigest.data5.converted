@@ -1,5 +1,5 @@
 {
-  "deceive": 1504773981,
+  "deceive": 1505382322,
   "questdigest": {
     "20": {
       "append_skill": {},
@@ -32677,7 +32677,7 @@
       "flag": {
         "chara": [{"cid":8899,"lv":45}]
       },
-      "name": "打工陷阱多",
+      "name": "副都戀愛白書",
       "quest_id": 88991,
       "bg_list": [1,9],
       "chapter_cnt": 2,
@@ -76545,7 +76545,7 @@
       "flag": {},
       "name": "荒廢村落神秘事件簿 上",
       "quest_id": 1000157,
-      "bg_list": [106,1,106],
+      "bg_list": [106,106,106],
       "chapter_cnt": 3,
       "is_casino": false,
       "stamina": 6,
@@ -98592,5 +98592,5 @@
     }
   },
   "res": 0,
-  "sv": "1504769893"
+  "sv": "1505211665"
 }

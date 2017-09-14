@@ -1,5 +1,5 @@
 {
-  "deceive": 1504773946,
+  "deceive": 1505382274,
   "bossskill": {
     "1": {
       "atkspeed": "3",
@@ -12826,11 +12826,13 @@
       "skillparam2": 25.0,
       "skillparam4": 0.2,
       "skillflag": 2097152,
+      "skillparam6": 0.5,
       "skillparam0": -1.0,
       "str0": "BE_Satellite_Laser_c",
-      "str1": "BE_CautionMagic_a_red"
+      "str1": "BE_CautionMagic_a_red",
+      "skillparam7": 0.1
     }
   },
   "res": 0,
-  "sv": "1504497895"
+  "sv": "1505097409"
 }
