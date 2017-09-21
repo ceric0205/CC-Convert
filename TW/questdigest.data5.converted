@@ -1,5 +1,5 @@
 {
-  "deceive": 1505382322,
+  "deceive": 1505984522,
   "questdigest": {
     "20": {
       "append_skill": {},
@@ -71030,7 +71030,7 @@
       "chapter_list": [0],
       "difficulty": 50,
       "flag": {},
-      "name": "南瓜討伐・上級",
+      "name": "擊退南瓜・上級",
       "quest_id": 246403,
       "bg_list": [114],
       "chapter_cnt": 1,
@@ -98592,5 +98592,5 @@
     }
   },
   "res": 0,
-  "sv": "1505211665"
+  "sv": "1505816426"
 }
